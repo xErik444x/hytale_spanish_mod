@@ -3743,49 +3743,49 @@ items.Armor_Wool_Chest.name = Túnica de Lana - Woolen Tunic
 items.Armor_Wool_Hands.name = Brazaletes de Lana - Woolen Bracelets
 items.Armor_Wool_Head.name = Capucha de Lana - Woolen Hood
 items.Armor_Wool_Legs.name = Botas de Lana - Woolen Boots
-items.Bandage_Crude.description = Usar para recuperar salud rápidamente.\n\n<i>Aunque rudimentario, este tipo de vendaje era preferido por los caballeros de una civilización perdida por la facilidad con la que podían ser fabricados a partir de materiales comunes en el campo de batalla.</i> - Use to quickly regain health.\n\n<i>Though rudimentary, this type of bandage was favored by the knights of a lost civilization for the ease with which they could be fashioned from common materials on the battlefield.</i>
+items.Bandage_Crude.description = Usar para recuperar salud rápidamente.\n\n<i>Aunque rudimentario, este tipo de vendaje era preferido por los caballeros de una civilización perdida por la facilidad con la que podían ser fabricados a partir de materiales comunes en el campo de batalla.</i>
 items.Bandage_Crude.name = Vendaje - Bandage
 items.Bandage_Potion_Test.name = Prueba de Poción de Vendaje - Bandage Potion Test
 items.Barrier.name = Bloque de Barrera - Barrier Block
-items.Barrier.description = Bloque Invisible usado para bloquear áreas. - Invisible Block use to block off areas.
-items.Bench_Alchemy.description = Usado para crear pociones y elixires.\n\n<i>Los alquimistas de antaño buscaron durante mucho tiempo los secretos de la vida eterna. Algunos podrían decir que lograron ese gran objetivo, aunque quizás no en la forma que imaginaron.</i> - Used to create potions and elixirs.\n\n<i>The alchemists of old long sought the secrets to eternal life. Some might say they achieved that grand goal, though perhaps not in the form they imagined.</i>
+items.Barrier.description = Bloque Invisible usado para bloquear áreas.
+items.Bench_Alchemy.description = Usado para crear pociones y elixires.\n\n<i>Los alquimistas de antaño buscaron durante mucho tiempo los secretos de la vida eterna. Algunos podrían decir que lograron ese gran objetivo, aunque quizás no en la forma que imaginaron.</i>
 items.Bench_Alchemy.name = Banco de Trabajo del Alquimista - Alchemist's Workbench
-items.Bench_Arcane.description = Usado para fabricar varios implementos arcanos.\n\n<i>Las artes arcanas son lo más cercano que los simples mortales han estado de alcanzar los poderes de un Avatar. Si las hubieran dominado antes, quizás no habrían sido tan fácilmente influenciados.</i> - Used to fashion various arcane implements.\n\n<i>The arcane arts are the closest mere mortals have ever come to achieving Avatar powers. Had they mastered them sooner, perhaps they would not have been so easily swayed.</i>
+items.Bench_Arcane.description = Usado para fabricar varios implementos arcanos.\n\n<i>Las artes arcanas son lo más cercano que los simples mortales han estado de alcanzar los poderes de un Avatar. Si las hubieran dominado antes, quizás no habrían sido tan fácilmente influenciados.</i>
 items.Bench_Arcane.name = Banco de Trabajo del Arcanista - Arcanist's Workbench
-items.Bench_Architects.description = Usado para crear bloques de construcción y muebles. ¡Incluso un Avatar necesita algunas comodidades! - Used to create building blocks and furniture. Even an Avatar needs a few comforts!
+items.Bench_Architects.description = Usado para crear bloques de construcción y muebles. ¡Incluso un Avatar necesita algunas comodidades!
 items.Bench_Architects.name = Banco de Trabajo del Arquitecto - Architect's Workbench
-items.Bench_Armory.description = El corazón de cualquier taller. Usado para forjar armaduras y armas avanzadas. - The heart of any workshop. Used to forge advanced armor and weapons.
+items.Bench_Armory.description = El corazón de cualquier taller. Usado para forjar armaduras y armas avanzadas.
 items.Bench_Armory.name = Forja - Forge
-items.Bench_Armour.description = Usado para fabricar armaduras básicas. - Used to craft basic armor.
+items.Bench_Armour.description = Usado para fabricar armaduras básicas.
 items.Bench_Armour.name = Banco de Trabajo del Armero - Armorer's Workbench
-items.Bench_Builders.description = Usado para crear bloques de construcción estructurales. - Used to create structural building blocks.
+items.Bench_Builders.description = Usado para crear bloques de construcción estructurales.
 items.Bench_Builders.name = Banco de Trabajo del Constructor - Builder's Workbench
-items.Bench_Furniture.description = Usado para fabricar muebles, almacenamiento y artículos decorativos para personalizar tu hogar. - Used to craft furniture, storage, and decorative items to personalize your home.
+items.Bench_Furniture.description = Usado para fabricar muebles, almacenamiento y artículos decorativos para personalizar tu hogar.
 items.Bench_Furniture.name = Banco de Trabajo de Muebles - Furniture Workbench
-items.Bench_Campfire.description = Cocina comidas básicas.\n\n<i>Para muchos aventureros, la humilde fogata es todo lo que se necesita para declarar un lugar como "hogar." Vínculos inquebrantables pueden forjarse mientras se disfruta de su calor y todas las grandes historias han surgido de sus brasas.</i> - Cook basic meals.\n\n<i>To many an adventurer, the humble campfire is all it takes to declare a place "home." Unshakeable bonds can be forged while basking in its warmth and all great tales have sparked from its embers.</i>
+items.Bench_Campfire.description = Cocina comidas básicas.\n\n<i>Para muchos aventureros, la humilde fogata es todo lo que se necesita para declarar un lugar como "hogar." Vínculos inquebrantables pueden forjarse mientras se disfruta de su calor y todas las grandes historias han surgido de sus brasas.</i>
 items.Bench_Campfire.name = Fogata - Campfire
-items.Coop_Chicken.description = Los pollos capturados en un <item is="Tool_Capture_Crate"/> pueden ser alojados aquí. - Chickens captured in a <item is="Tool_Capture_Crate"/> can be housed here.
+items.Coop_Chicken.description = Los pollos capturados en un <item is="Tool_Capture_Crate"/> pueden ser alojados aquí.
 items.Coop_Chicken.name = Gallinero - Chicken Coop
-items.Bench_Cooking.description = Una cocina incorporada que se puede usar para hacer platos avanzados. - A built-in kitchen that can be used to make advanced dishes.
+items.Bench_Cooking.description = Una cocina incorporada que se puede usar para hacer platos avanzados.
 items.Bench_Cooking.name = Estufa del Chef - Chef's Stove
-items.Bench_Farming.description = Usado para fabricar accesorios de agricultura y alimento para animales. - Used to craft farming accessories and animal feed.
+items.Bench_Farming.description = Usado para fabricar accesorios de agricultura y alimento para animales.
 items.Bench_Farming.name = Banco de Trabajo del Agricultor - Farmer's Workbench
-items.Bench_Furnace.description = Usado para procesar mineral en lingotes de metal. Mejorar reduce los tiempos de fundición y aumenta la capacidad de almacenamiento. - Used to process ore into metal bars. Upgrading reduces smelting times and increases storage capacity.
+items.Bench_Furnace.description = Usado para procesar mineral en lingotes de metal. Mejorar reduce los tiempos de fundición y aumenta la capacidad de almacenamiento.
 items.Bench_Furnace.name = Horno - Furnace
-items.Bench_Loom.description = Usado para procesar tela y objetos mágicos en materiales. - Used to process cloth and magical items into materials.
+items.Bench_Loom.description = Usado para procesar tela y objetos mágicos en materiales.
 items.Bench_Loom.name = Telar - Loom
 items.Bench_Lumbermill.name = Bloque del Leñador - Woodcutter's Block
 items.Bench_Memories.name = El Corazón de Orbis - The Heart of Orbis
-items.Bench_Memories.description = <i>Una débil voz desincarnada se puede escuchar en la presencia de esta estatua. Ecos de un ser de más allá de las barreras. Del mundo original.</i> - <i>A faint disembodied voice can be heard in the presence of this statue. Echoes of a being from beyond the barriers. From the original world.</i>
-items.Bench_Salvage.description = [TMP] Puede ser usado para descomponer algunos objetos en materiales básicos. - [TMP] Can be used to break down some items into base materials.
+items.Bench_Memories.description = <i>Una débil voz desincarnada se puede escuchar en la presencia de esta estatua. Ecos de un ser de más allá de las barreras. Del mundo original.</i>
+items.Bench_Salvage.description = [TMP] Puede ser usado para descomponer algunos objetos en materiales básicos.
 items.Bench_Salvage.name = Banco de Trabajo del Recuperador - Salvager's Workbench
-items.Bench_Tannery.description = Usado para procesar pieles crudas en cuero. Mejorar reduce los tiempos de procesamiento y aumenta la capacidad de almacenamiento. - Used to process raw hides into leather. Upgrading reduces processing times and increases storage capacity.
+items.Bench_Tannery.description = Usado para procesar pieles crudas en cuero. Mejorar reduce los tiempos de procesamiento y aumenta la capacidad de almacenamiento.
 items.Bench_Tannery.name = Soporte de Curtido - Tanning Rack
-items.Bench_Trough.description = Usado para fabricar accesorios de agricultura y alimento para animales. - Used to craft farming accessories and animal feed.
+items.Bench_Trough.description = Usado para fabricar accesorios de agricultura y alimento para animales.
 items.Bench_Trough.name = Abrevadero - Banco de Alimentación - Trough - Feeding Bench
-items.Bench_Weapon.description = Usado para fabricar armamento básico. - Used to fashion basic weaponry.
+items.Bench_Weapon.description = Usado para fabricar armamento básico.
 items.Bench_Weapon.name = Yunque del Herrero - Blacksmith's Anvil
-items.Bench_WorkBench.description = Un lugar de trabajo que permite la fabricación de herramientas y objetos más complejos.\n\n<i>Ningún artesano nace creador. Incluso los Avatares necesitan tiempo para perfeccionar su oficio, particularmente cuando están atados por las reglas del dominio de otro.</i> - A workstation enabling the crafting of more complex tools and items.\n\n<i>No artisan is born a creator. Even Avatars need time to hone their craft, particularly when bound by the rules of another's domain.</i>
+items.Bench_WorkBench.description = Un lugar de trabajo que permite la fabricación de herramientas y objetos más complejos.\n\n<i>Ningún artesano nace creador. Incluso los Avatares necesitan tiempo para perfeccionar su oficio, particularmente cuando están atados por las reglas del dominio de otro.</i>
 items.Bench_WorkBench.name = Banco de Trabajo - Workbench
 items.Block_Spawner_Block.name = Generador de Bloques - Block Spawner
 items.Block_Spawner_Block_Large.name = Generador de Bloques - Grande - Block Spawner - Large
@@ -3842,13 +3842,13 @@ items.Cloth_Roof_Yellow_Flap.name = Techo de Tela Amarilla - Solapa - Yellow Clo
 items.Cloth_Roof_Yellow_Flat.name = Techo de Tela Amarilla - Horizontal - Yellow Cloth Roof - Horizontal
 items.Cloth_Roof_Yellow_Vertical.name = Techo de Tela Amarilla - Vertical - Yellow Cloth Roof - Vertical
 items.Container_Bucket.name = Cubo de Madera - Wooden Bucket
-items.Container_Bucket.description = [TMP] Puede ser llenado con <color is="#ffffff">Agua</color> o usado para ordeñar <color is="#ffffff">Vacas</color>. - [TMP] Can be filled with <color is="#ffffff">Water</color> or used to milk <color is="#ffffff">Cows</color>.
+items.Container_Bucket.description = [TMP] Puede ser llenado con <color is="#ffffff">Agua</color> o usado para ordeñar <color is="#ffffff">Vacas</color>.
 items.Container_Bucket_Water.name = Cubo de Madera (Agua) - Wooden Bucket (Water)
-items.Container_Bucket_Water.description = [TMP] Contiene <color is="#ffffff">Agua</color> que puede ser colocado en el mundo. - [TMP] Contains <color is="#ffffff">Water</color> that can be placed in the world.
+items.Container_Bucket_Water.description = [TMP] Contiene <color is="#ffffff">Agua</color> que puede ser colocado en el mundo.
 items.Container_Bucket_Milk.name = Cubo de Madera (Leche) - Wooden Bucket (Milk)
-items.Container_Bucket_Milk.description = [TMP] Contiene <color is="#ffffff">Leche</color> que puede ser consumida para un efecto de <color is="#ffffff">Antídoto</color>. - [TMP] Contains <color is="#ffffff">Milk</color> that can be consumed for an <color is="#ffffff">Antidote</color> effect.
+items.Container_Bucket_Milk.description = [TMP] Contiene <color is="#ffffff">Leche</color> que puede ser consumida para un efecto de <color is="#ffffff">Antídoto</color>.
 items.Container_Bucket_Mosshorn_Milk.name = [TMP] Cubo de Madera (Leche de Mosshorn) - [TMP] Wooden Bucket (Mosshorn Milk)
-items.Container_Bucket_Mosshorn_Milk.description = [TMP] <i>Probablemente no deberías beber esto...</i> - [TMP] <i>You probably shouldn't drink this...</i>
+items.Container_Bucket_Mosshorn_Milk.description = [TMP] <i>Probablemente no deberías beber esto...</i>
 items.Debug_Armor_D_Chest_Of_Damage_Reduction.name = Cuirass de Cuero de Depuración de Reducción de Daño - Debug Leather Cuirass of Damage Reduction
 items.Debug_Armor_D_Hands_Of_Regeneration.name = Guanteletes de Cuero de Depuración de Regeneración - Debug Leather Gauntlets of Regeneration
 items.Debug_Armor_D_Head_Of_Dash_Reduction.name = Yelmo de Cuero de Depuración de Reducción de Costo de Dash - Debug Leather Helm of Dash Cost Reduction
@@ -3889,13 +3889,13 @@ items.Deco_Bone_Spine.name = Columna de Hueso - Bone Spine
 items.Deco_Book_Pile_Large.name = Gran Montón de Libros - Large Pile of Books
 items.Deco_Book_Pile_Small.name = Pequeño Montón de Libros - Small Pile of Books
 items.Deco_Bucket.name = Cubo Antiguo - Ancient Bucket
-items.Deco_Bucket.description = [TMP] Puede ser llenado con <color is="#ffffff">Agua</color> o usado para ordeñar <color is="#ffffff">Vacas</color>. - [TMP] Can be filled with <color is="#ffffff">Water</color> or used to milk <color is="#ffffff">Cows</color>.
+items.Deco_Bucket.description = [TMP] Puede ser llenado con <color is="#ffffff">Agua</color> o usado para ordeñar <color is="#ffffff">Vacas</color>.
 items.Deco_Bucket_Water.name = Cubo Antiguo (Agua) - Ancient Bucket (Water)
-items.Deco_Bucket_Water.description = [TMP] Contiene <color is="#ffffff">Agua</color> que puede ser colocado en el mundo. - [TMP] Contains <color is="#ffffff">Water</color> that can be placed in the world.
+items.Deco_Bucket_Water.description = [TMP] Contiene <color is="#ffffff">Agua</color> que puede ser colocado en el mundo.
 items.Deco_Bucket_Milk.name = Cubo Antiguo (Leche) - Ancient Bucket (Milk)
-items.Deco_Bucket_Milk.description = [TMP] Contiene <color is="#ffffff">Leche</color> que puede ser consumida para un efecto de <color is="#ffffff">Antídoto</color>. - [TMP] Contains <color is="#ffffff">Milk</color> that can be consumed for an <color is="#ffffff">Antidote</color> effect.
+items.Deco_Bucket_Milk.description = [TMP] Contiene <color is="#ffffff">Leche</color> que puede ser consumida para un efecto de <color is="#ffffff">Antídoto</color>.
 items.Deco_Bucket_Mosshorn_Milk.name = [TMP] Cubo Antiguo (Leche de Mosshorn) - [TMP] Ancient Bucket (Mosshorn Milk)
-items.Deco_Bucket_Mosshorn_Milk.description = [TMP] <i>Probablemente no deberías beber esto...</i> - [TMP] <i>You probably shouldn't drink this...</i>
+items.Deco_Bucket_Mosshorn_Milk.description = [TMP] <i>Probablemente no deberías beber esto...</i>
 items.Deco_Campfire_Off.name = Vieja Fogata - Old Campfire
 items.Deco_Chair_Scrap.name = Trono de Duende - Goblin Throne
 items.Deco_Coral_Shell.name = Concha de Coral - Coral Seashell
@@ -3919,7 +3919,7 @@ items.Deco_Iron_Chains_Vertical.name = Cadena de Hierro - Iron Chain
 items.Deco_Iron_Stack.name = Montón de Barras de Hierro - Stack of Iron Bars
 items.Deco_Kweebec_Plush.name = Peluche Kweebec - Kweebec Plushie
 items.Deco_Trophy_Harvest.name = Trofeo de Cosecha - Harvest Trophy
-items.Deco_Trophy_Harvest.description = <i>Un artefacto de valor incalculable - al menos, para aquellos que lo ven de esa manera. Su forma refleja el favor del Avatar de Orbis.</i> - <i>An artifact of immeasurable value - at least, to those who see it that way. Its form reflects the favor of Orbis' Avatar.</i>
+items.Deco_Trophy_Harvest.description = <i>Un artefacto de valor incalculable - al menos, para aquellos que lo ven de esa manera. Su forma refleja el favor del Avatar de Orbis.</i>
 items.Deco_Lantern.name = Linterna - Lantern
 items.Deco_Lever.name = Palanca - Lever
 items.Deco_Map.name = Mapa Viejo - Old Map
@@ -3963,29 +3963,29 @@ items.Egg_Spawner_Kweebec_Razorleaf.name = Generador de Huevos - Kweebec Hoja de
 items.Egg_Spawner_Sheep.name = Generador de Huevos - Oveja - Egg Spawner - Sheep
 items.Egg_Spawner_Trork.name = Generador de Huevos - Trork - Egg Spawner - Trork
 items.Farming_Collar.name = Collar de Mascota - Pet Collar
-items.Filter_Air_Block.description = Filtro que representa aire. - Filter that represents air.
+items.Filter_Air_Block.description = Filtro que representa aire.
 items.Filter_Air_Block.name = Filtro - Bloque de Aire - Filter - Air Block
-items.Filter_PlantsAndTrees.description = Filtro para plantas y árboles. - Filter for plants and trees.
+items.Filter_PlantsAndTrees.description = Filtro para plantas y árboles.
 items.Filter_PlantsAndTrees.name = Filtro - Plantas y Árboles - Filter - Plants & Trees
-items.Filter_TreeLeaves.description = Filtro para hojas. - Filter for leaves.
+items.Filter_TreeLeaves.description = Filtro para hojas.
 items.Filter_TreeLeaves.name = Filtro - Hojas de Árbol - Filter - Tree Leaves
 items.Filter_Rock.name = Filtro - Roca - Filter - Rock
-items.Filter_Rock.description = Filtro para tipos de roca natural. - Filter for natural rock types.
+items.Filter_Rock.description = Filtro para tipos de roca natural.
 items.Filter_Soils.name = Filtro - Suelos - Filter - Soils
-items.Filter_Soils.description = Filtro para terreno de tierra y hierba. - Filter for dirt and grass terrain.
+items.Filter_Soils.description = Filtro para terreno de tierra y hierba.
 items.Filter_Gravel.name = Filtro - Grava - Filter - Gravel
-items.Filter_Gravel.description = Filtro para grava y piedras. - Filter for gravel and pebbles.
+items.Filter_Gravel.description = Filtro para grava y piedras.
 items.Filter_Snow.name = Filtro - Nieve - Filter - Snow
-items.Filter_Snow.description = Filtro para bloques de nieve. - Filter for snow blocks.
+items.Filter_Snow.description = Filtro para bloques de nieve.
 items.Filter_Ores.name = Filtro - Minerales - Filter - Ores
-items.Filter_Ores.description = Filtro para bloques de mineral. - Filter for ore blocks.
+items.Filter_Ores.description = Filtro para bloques de mineral.
 items.Filter_PlantScatter.name = Filtro - Dispersión de Plantas - Filter - Plant Scatter
-items.Filter_PlantScatter.description = Filtro para pequeñas plantas del suelo. - Filter for small ground plants.
+items.Filter_PlantScatter.description = Filtro para pequeñas plantas del suelo.
 items.Filter_AllScatter.name = Filtro - Toda Dispersión - Filter - All Scatter
-items.Filter_AllScatter.description = Filtro para todos los objetos de dispersión. - Filter for all scatter objects.
-items.Filter_TreeWood.description = Filtro para madera de árbol. - Filter for tree wood.
+items.Filter_AllScatter.description = Filtro para todos los objetos de dispersión.
+items.Filter_TreeWood.description = Filtro para madera de árbol.
 items.Filter_TreeWood.name = Filtro - Madera de Árbol - Filter - Tree Wood
-items.Filter_TreeWoodAndLeaves.description = Filtro para tanto madera de árbol como hojas - Filter for both tree wood and leaves
+items.Filter_TreeWoodAndLeaves.description = Filtro para tanto madera de árbol como hojas
 items.Filter_TreeWoodAndLeaves.name = Filtro - Madera de Árbol y Hojas - Filter - Tree Wood & Leaves
 items.Fluid_Lava.name = Lava - Lava
 items.Fluid_Poison.name = Veneno - Poison
@@ -4051,7 +4051,7 @@ items.Furniture_Christmas_Chest_Small_Green.name = Pequeño Paquete Navideño Ve
 items.Furniture_Christmas_Chest_Small_Red.name = Pequeño Paquete Navideño Rojo - Small Red Christmas Packet
 items.Furniture_Christmas_Chest_Small_RedDotted.name = Pequeño Paquete Navideño Rojo con Puntos - Small Red Dotted Christmas Packet
 items.Furniture_Christmas_Chest_Small_White.name = Pequeño Paquete Navideño Blanco - Small White Christmas Packet
-items.Furniture_Crude_Bed.description = Al ser colocado, permite a un Avatar establecer su punto de reaparición en esta ubicación. - When placed, allows an Avatar to set their respawn point to this location.
+items.Furniture_Crude_Bed.description = Al ser colocado, permite a un Avatar establecer su punto de reaparición en esta ubicación.
 items.Furniture_Crude_Bed.name = Colchoneta Cruda - Crude Bedroll
 items.Furniture_Crude_Brazier.name = Fogata - Campfire
 items.Furniture_Crude_Candle.name = Vela - Candle
@@ -4065,7 +4065,7 @@ items.Furniture_Crude_Sign.name = Cartel Crudo - Crude Sign
 items.Furniture_Crude_Stool.name = Taburete Crudo - Crude Stool
 items.Furniture_Crude_Table.name = Mesa Cruda - Crude Table
 items.Furniture_Crude_Torch.name = Antorcha Cruda - Crude Torch
-items.Furniture_Crude_Torch.description = <i>Para los últimos pueblos de Orbis, el fuego fue tanto una fuente de creatividad que elevó su civilización a nuevas alturas, como la fuerza que finalmente llevaría a su perdición.</i> - <i>For the last peoples of Orbis, fire was both a source of creativity that elevated their civilization to new heights, and the force that would ultimately lead to their undoing.</i>
+items.Furniture_Crude_Torch.description = <i>Para los últimos pueblos de Orbis, el fuego fue tanto una fuente de creatividad que elevó su civilización a nuevas alturas, como la fuerza que finalmente llevaría a su perdición.</i>
 items.Furniture_Crude_Trapdoor.name = Trampilla Cruda - Crude Trapdoor
 items.Furniture_Crude_Wardrobe.name = Armario Crudo - Crude Wardrobe
 items.Furniture_Crude_Window.name = Ventana Cruda - Crude Window
@@ -4276,7 +4276,7 @@ items.Furniture_Temple_Dark_Pot.name = Tarro de Templo Oscuro - Dark Temple Jar
 items.Furniture_Temple_Dark_Shelf.name = Estante de Templo Oscuro - Dark Temple Shelf
 items.Furniture_Temple_Dark_Sign.name = Cartel de Templo Oscuro - Dark Temple Sign
 items.Furniture_Temple_Dark_Statue.name = Estatua del Vigilante - Statue of The Watcher
-items.Furniture_Temple_Dark_Statue.description = <i>Los susurros no fueron lo que impulsó a los Forasteros a establecerse en estas tierras más frías. Sin embargo, sigue siendo un hecho indiscutible que cuando llegaron, los susurros ya estaban allí.</i> - <i>The whispers were not what compelled the Outlanders to settle in these colder lands. Yet it remains an unquestionable fact that when they arrived, the whispers were already there.</i>
+items.Furniture_Temple_Dark_Statue.description = <i>Los susurros no fueron lo que impulsó a los Forasteros a establecerse en estas tierras más frías. Sin embargo, sigue siendo un hecho indiscutible que cuando llegaron, los susurros ya estaban allí.</i>
 items.Furniture_Temple_Dark_Statue_Gaia.name = Estatua de Deidad Forastera - Outlander Deity Statue
 items.Furniture_Temple_Dark_Stool.name = Taburete de Templo Oscuro - Dark Temple Stool
 items.Furniture_Temple_Dark_Table.name = Mesa de Templo Oscuro - Dark Temple Table
@@ -4333,7 +4333,7 @@ items.Furniture_Temple_Scarak_Platform.name = Plataforma de Scarak Primordial - 
 items.Furniture_Temple_Scarak_Pot.name = Maceta de Scarak Primordial - Primordial Scarak Pot
 items.Furniture_Temple_Scarak_Secondary_Pot.name = Maceta de Scarak Primordial - Primordial Scarak Pot
 items.Furniture_Temple_Scarak_Statue.name = Estatua del Constructor Fundador - Statue of the Founding Builder
-items.Furniture_Temple_Scarak_Statue.description = <i>Olvidadas hace mucho por los Scarak caídos, algunas pocas estatuas del Constructor Fundador aún se mantienen en sus ruinas más antiguas. Los pocos exploradores que las han encontrado hablan solo de una sensación de decepción y desaprobación que emana - como si la piedra misma estuviera manchada por su testigo silencioso de las atrocidades cometidas bajo la primera y última Emperatriz Scarak.</i> - <i>Long since forgotten by the fallen Scaraks, some few statues of the Founding Builder still stand in their oldest ruins. The few explorers who have since stumbled upon them speak only of an emanating sense of disappointment and disapproval - as if the stone itself was stained by its silent witness of the atrocities committed under the first and last Scarak Empress.</i>
+items.Furniture_Temple_Scarak_Statue.description = <i>Olvidadas hace mucho por los Scarak caídos, algunas pocas estatuas del Constructor Fundador aún se mantienen en sus ruinas más antiguas. Los pocos exploradores que las han encontrado hablan solo de una sensación de decepción y desaprobación que emana - como si la piedra misma estuviera manchada por su testigo silencioso de las atrocidades cometidas bajo la primera y última Emperatriz Scarak.</i>
 items.Furniture_Temple_Scarak_Window.name = Ventana de Scarak Primordial - Primordial Scarak Window
 items.Furniture_Temple_Wind_Candle.name = Vela de Templo de Viento - Wind Temple Candle
 items.Furniture_Temple_Wind_Chandelier.name = Candelabro de Templo de Viento - Wind Temple Chandelier
@@ -4385,27 +4385,27 @@ items.Furniture_Village_Window.name = Ventana de Madera Simple - Simple Wooden W
 items.Geyzer_Spawner1.name = Generador de Geyser 5 seg - Geyzer Spawner 5 sec
 items.Greenscreen.name = Pantalla Verde - Greenscreen
 items.Glider.name = Planeador - Glider
-items.Glider.description = En Progreso - Work in Progress
+items.Glider.description = En Progreso
 items.Halloween_Basket_Pumpkin.name = Cesta de Calabaza de Halloween - Halloween Pumpkin Basket
 items.Halloween_Basket_Straw.name = Cesta de Paja de Halloween - Halloween Straw Basket
 items.Halloween_Broomstick.name = Escoba de Halloween - Halloween Broomstick
 items.Halloween_Wagon.name = Carro de Halloween - Halloween Wagon
 items.Ingredient_Bar_Adamantite.name = Lingote de Adamantita - Adamantite Ingot
-items.Ingredient_Bar_Adamantite.description = <i>Este metal raro fue una vez fundamental para los avances realizados por los pueblos de Crucible. Aunque poco queda del antiguo esplendor de la ciudad, aún se pueden encontrar rastros del mineral resistente en las profundidades bajo esas tierras quemadas.</i> - <i>This rare metal was once instrumental to the advancements made by the peoples of Crucible. Though little remains of the city's former splendor, traces of the resilient ore can still be found in the depths beneath those scorched lands.</i>
+items.Ingredient_Bar_Adamantite.description = <i>Este metal raro fue una vez fundamental para los avances realizados por los pueblos de Crucible. Aunque poco queda del antiguo esplendor de la ciudad, aún se pueden encontrar rastros del mineral resistente en las profundidades bajo esas tierras quemadas.</i>
 items.Ingredient_Bar_Bronze.name = Lingote de Bronce - Bronze Ingot
 items.Ingredient_Bar_Cobalt.name = Lingote de Cobalto - Cobalt Ingot
-items.Ingredient_Bar_Cobalt.description = <i>En el mito Forastero, se dice que este metal es frío al tacto, incluso cuando está fundido. Si bien verificar esto sería poco aconsejable, sus orígenes entre los picos fríos y las cavernas heladas de su territorio le dan cierta credibilidad a la historia.</i> - <i>In Outlander myth, this metal is said to be cold to the touch, even when molten. While verifying this would be ill-advised, its origins amidst the frigid peaks and frozen caverns of their territory lend the story some credence.</i>
+items.Ingredient_Bar_Cobalt.description = <i>En el mito Forastero, se dice que este metal es frío al tacto, incluso cuando está fundido. Si bien verificar esto sería poco aconsejable, sus orígenes entre los picos fríos y las cavernas heladas de su territorio le dan cierta credibilidad a la historia.</i>
 items.Ingredient_Bar_Copper.name = Lingote de Cobre - Copper Ingot
-items.Ingredient_Bar_Copper.description = Un metal común fundido de mineral encontrado en todas las regiones de Orbis. - A common metal smelted from ore found throughout all regions of Orbis.
+items.Ingredient_Bar_Copper.description = Un metal común fundido de mineral encontrado en todas las regiones de Orbis.
 items.Ingredient_Bar_Gold.name = Lingote de Oro - Gold Ingot
 items.Ingredient_Bar_Iron.name = Lingote de Hierro - Iron Ingot
-items.Ingredient_Bar_Iron.description = Su abundancia natural y resistencia confiable lo convierten en el candidato ideal para fabricar herramientas y armas comunes. - Its natural abundance and reliable strength make this the ideal candidate for fashioning common tools and weapons.
+items.Ingredient_Bar_Iron.description = Su abundancia natural y resistencia confiable lo convierten en el candidato ideal para fabricar herramientas y armas comunes.
 items.Ingredient_Bar_Mithril.name = Lingote de Mithril - Mithril Ingot
 items.Ingredient_Bar_Onyxium.name = Lingote de Onyxium - Onyxium Ingot
 items.Ingredient_Bar_Prisma.name = Lingote de Prisma - Prisma Ingot
 items.Ingredient_Bar_Silver.name = Lingote de Plata - Silver Ingot
 items.Ingredient_Bar_Thorium.name = Lingote de Torio - Thorium Ingot
-items.Ingredient_Bar_Thorium.description = <i>Si bien los Ferans no utilizan este metal, mantienen una vigilancia constante sobre sus depósitos en los desiertos abrasados por el sol y las tierras áridas. Si sus antiguos enemigos resurgen una vez más, estas reservas serían las primeras que buscarían cosechar.</i> - <i>While Ferans do not themselves make use of this metal, they keep a vigilant watch over its deposits in the sun-scorched deserts and arid badlands. Should their age-old enemies rise once more, these reserves would be the first they sought to harvest.</i>
+items.Ingredient_Bar_Thorium.description = <i>Si bien los Ferans no utilizan este metal, mantienen una vigilancia constante sobre sus depósitos en los desiertos abrasados por el sol y las tierras áridas. Si sus antiguos enemigos resurgen una vez más, estas reservas serían las primeras que buscarían cosechar.</i>
 items.Ingredient_Bolt_Cindercloth.name = Trozo de Tela de Ceniza - Bolt of Cindercloth
 items.Ingredient_Bolt_Cotton.name = Trozo de Algodón - Bolt of Cotton
 items.Ingredient_Bolt_Linen.name = Trozo de Lino - Bolt of Linen
@@ -4415,7 +4415,7 @@ items.Ingredient_Bolt_Silk.name = Trozo de Seda - Bolt of Silk
 items.Ingredient_Bolt_Stormsilk.name = Trozo de Seda de Tormenta - Bolt of Stormsilk
 items.Ingredient_Bolt_Wool.name = Trozo de Lana - Bolt of Wool
 items.Ingredient_Bone_Fragment.name = Fragmentos de Hueso - Bone Fragments
-items.Ingredient_Bone_Fragment.description = <i>Las civilizaciones más avanzadas de Orbis compartían un rasgo común: la arrogancia que finalmente llevó a su caída. Estos fragmentos de hueso - y la criatura maldita de la que fueron rescatados - deberían servir como un recordatorio de que algunos caminos es mejor no recorrer.</i> - <i>Orbis' most advanced civilizations shared a common trait - the hubris that ultimately led to their downfall. These bone fragments - and the cursed creature from which they were salvaged - should serve as a reminder that some paths are better left untrodden.</i>
+items.Ingredient_Bone_Fragment.description = <i>Las civilizaciones más avanzadas de Orbis compartían un rasgo común: la arrogancia que finalmente llevó a su caída. Estos fragmentos de hueso - y la criatura maldita de la que fueron rescatados - deberían servir como un recordatorio de que algunos caminos es mejor no recorrer.</i>
 items.Ingredient_Charcoal.name = Carbón - Charcoal
 items.Ingredient_Crystal_Blue.name = Fragmentos de Cristal Azul - Blue Crystal Shards
 items.Ingredient_Crystal_Cyan.name = Fragmentos de Cristal Cian - Cyan Crystal Shards
@@ -4425,13 +4425,13 @@ items.Ingredient_Crystal_Red.name = Fragmentos de Cristal Rojo - Red Crystal Sha
 items.Ingredient_Crystal_White.name = Fragmentos de Cristal Blanco - White Crystal Shards
 items.Ingredient_Crystal_Yellow.name = Fragmentos de Cristal Amarillo - Yellow Crystal Shards
 items.Ingredient_Fabric_Scrap_Cindercloth.name = Recortes de Tela de Ceniza - Cindercloth Scraps
-items.Ingredient_Fabric_Scrap_Cindercloth.description = <i>Cuando la llama maldita arrasó Crucible, no dejó nada sin cambiar. Incluso estos recortes de tela - rescatados de los huesos carbonizados de un antiguo habitante - continúan emitiendo un calor extraño.</i> - <i>When the cursed flame scoured Crucible it left nothing unchanged. Even these scraps of fabric - salvaged from the charred bones of a former denizen - continue to emit an uncanny heat.</i>
+items.Ingredient_Fabric_Scrap_Cindercloth.description = <i>Cuando la llama maldita arrasó Crucible, no dejó nada sin cambiar. Incluso estos recortes de tela - rescatados de los huesos carbonizados de un antiguo habitante - continúan emitiendo un calor extraño.</i>
 items.Ingredient_Fabric_Scrap_Cotton.name = Recortes de Algodón - Cotton Scraps
 items.Ingredient_Fabric_Scrap_Linen.name = Recortes de Lino - Linen Scraps
-items.Ingredient_Fabric_Scrap_Linen.description = Recortes de una tela común utilizada por muchas de las especies de Orbis para confeccionar su ropa. - Scraps of a common fabric used by many of Orbis' species to fashion their clothing.
+items.Ingredient_Fabric_Scrap_Linen.description = Recortes de una tela común utilizada por muchas de las especies de Orbis para confeccionar su ropa.
 items.Ingredient_Fabric_Scrap_Prismaloom.name = Recortes de Prisma - Prismaloom Scraps
 items.Ingredient_Fabric_Scrap_Shadoweave.name = Recortes de Sombra - Shadoweave Scraps
-items.Ingredient_Fabric_Scrap_Shadoweave.description = <i>Este pesado tejido, impregnado de una oscura melancolía, fue ideado por los Forasteros antes de su primera comunión con el Vacío. Aunque sigue siendo un componente esencial de su vestimenta, el secreto de su fabricación se ha perdido hace mucho tiempo.</i> - <i>This heavy fabric, imbued with a quiet brooding darkness, was devised by the Outlanders prior to their first communion with the Void. Though still a core component of their garb, the secret of its making has long since been lost.</i>
+items.Ingredient_Fabric_Scrap_Shadoweave.description = <i>Este pesado tejido, impregnado de una oscura melancolía, fue ideado por los Forasteros antes de su primera comunión con el Vacío. Aunque sigue siendo un componente esencial de su vestimenta, el secreto de su fabricación se ha perdido hace mucho tiempo.</i>
 items.Ingredient_Fabric_Scrap_Silk.name = Recortes de Seda - Silk Scraps
 items.Ingredient_Fabric_Scrap_Stormsilk.name = Recortes de Seda de Tormenta - Stormsilk Scraps
 items.Ingredient_Fabric_Scrap_Wool.name = Recortes de Lana - Wool Scraps
@@ -4442,28 +4442,28 @@ items.Ingredient_Feathers_Red.name = Plumas Rojas - Red Feathers
 items.Ingredient_Fibre.name = Fibra Vegetal - Plant Fiber
 items.Ingredient_Hay.name = Paca de Heno - Hay Bale
 items.Ingredient_Hide_Dark.name = Piel Oscura - Dark Hide
-items.Ingredient_Hide_Dark.description = [TMP] Puede ser procesada en <item is="Ingredient_Leather_Dark"/> en un <item is="Bench_Tannery"/>. - [TMP] Can be processed into <item is="Ingredient_Leather_Dark"/> at a <item is="Bench_Tannery"/>.
+items.Ingredient_Hide_Dark.description = [TMP] Puede ser procesada en <item is="Ingredient_Leather_Dark"/> en un <item is="Bench_Tannery"/>.
 items.Ingredient_Hide_Heavy.name = Piel Pesada - Heavy Hide
-items.Ingredient_Hide_Heavy.description = [TMP] Puede ser procesada en <item is="Ingredient_Leather_Heavy"/> en un <item is="Bench_Tannery"/>. - [TMP] Can be processed into <item is="Ingredient_Leather_Heavy"/> at a <item is="Bench_Tannery"/>.
+items.Ingredient_Hide_Heavy.description = [TMP] Puede ser procesada en <item is="Ingredient_Leather_Heavy"/> en un <item is="Bench_Tannery"/>.
 items.Ingredient_Hide_Light.name = Piel Ligera - Light Hide
-items.Ingredient_Hide_Light.description = [TMP] Puede ser procesada en <item is="Ingredient_Leather_Light"/> en un <item is="Bench_Tannery"/>. - [TMP] Can be processed into <item is="Ingredient_Leather_Light"/> at a <item is="Bench_Tannery"/>.
+items.Ingredient_Hide_Light.description = [TMP] Puede ser procesada en <item is="Ingredient_Leather_Light"/> en un <item is="Bench_Tannery"/>.
 items.Ingredient_Hide_Medium.name = Piel Media - Medium Hide
-items.Ingredient_Hide_Medium.description = [TMP] Puede ser procesada en <item is="Ingredient_Leather_Medium"/> en un <item is="Bench_Tannery"/>. - [TMP] Can be processed into <item is="Ingredient_Leather_Medium"/> at a <item is="Bench_Tannery"/>.
+items.Ingredient_Hide_Medium.description = [TMP] Puede ser procesada en <item is="Ingredient_Leather_Medium"/> en un <item is="Bench_Tannery"/>.
 items.Ingredient_Hide_Prismic.name = Piel Prismática - Prismatic Hide
-items.Ingredient_Hide_Prismic.description = [TMP] Puede ser procesada en <item is="Ingredient_Leather_Prismic"/> en un <item is="Bench_Tannery"/>. - [TMP] Can be processed into <item is="Ingredient_Leather_Prismic"/> at a <item is="Bench_Tannery"/>.
+items.Ingredient_Hide_Prismic.description = [TMP] Puede ser procesada en <item is="Ingredient_Leather_Prismic"/> en un <item is="Bench_Tannery"/>.
 items.Ingredient_Hide_Scaled.name = Piel Escamosa - Scaled Hide
-items.Ingredient_Hide_Scaled.description = [TMP] Puede ser procesada en <item is="Ingredient_Leather_Scaled"/> en un <item is="Bench_Tannery"/>. - [TMP] Can be processed into <item is="Ingredient_Leather_Scaled"/> at a <item is="Bench_Tannery"/>.
+items.Ingredient_Hide_Scaled.description = [TMP] Puede ser procesada en <item is="Ingredient_Leather_Scaled"/> en un <item is="Bench_Tannery"/>.
 items.Ingredient_Hide_Soft.name = Piel Suave - Soft Hide
-items.Ingredient_Hide_Soft.description = [TMP] Puede ser procesada en <item is="Ingredient_Leather_Soft"/> en un <item is="Bench_Tannery"/>. - [TMP] Can be processed into <item is="Ingredient_Leather_Soft"/> at a <item is="Bench_Tannery"/>.
+items.Ingredient_Hide_Soft.description = [TMP] Puede ser procesada en <item is="Ingredient_Leather_Soft"/> en un <item is="Bench_Tannery"/>.
 items.Ingredient_Hide_Storm.name = Piel de Tormenta - Storm Hide
-items.Ingredient_Hide_Storm.description = [TMP] Puede ser procesada en <item is="Ingredient_Leather_Storm"/> en un <item is="Bench_Tannery"/>. - [TMP] Can be processed into <item is="Ingredient_Leather_Storm"/> at a <item is="Bench_Tannery"/>.
+items.Ingredient_Hide_Storm.description = [TMP] Puede ser procesada en <item is="Ingredient_Leather_Storm"/> en un <item is="Bench_Tannery"/>.
 items.Ingredient_Leather_Dark.name = Cuero Oscuro - Dark Leather
 items.Ingredient_Leather_Heavy.name = Cuero Pesado - Heavy Leather
-items.Ingredient_Leather_Heavy.description = Procesado a partir de las gruesas pieles de depredadores apex.\n\n<i>Cada cazador aspira a derribar criaturas de las que solo se habla en mitos. A excepción de algunos que se unieron durante la era de los héroes, la mayoría debe conformarse con osos, lobos y otros depredadores apex.</i> - Processed from the thick hides of apex predators.\n\n<i>Every hunter aspires to bring down creatures spoken of only in myth. Save for a few who banded together during the age of heroes, most must be satisfied with bears, wolves, and other apex predators instead.</i>
+items.Ingredient_Leather_Heavy.description = Procesado a partir de las gruesas pieles de depredadores apex.\n\n<i>Cada cazador aspira a derribar criaturas de las que solo se habla en mitos. A excepción de algunos que se unieron durante la era de los héroes, la mayoría debe conformarse con osos, lobos y otros depredadores apex.</i>
 items.Ingredient_Leather_Light.name = Cuero Ligero - Light Leather
-items.Ingredient_Leather_Light.description = Procesado a partir de las pieles de presas comunes que se encuentran en la naturaleza. - Processed from the hides of common prey found throughout the wilds.
+items.Ingredient_Leather_Light.description = Procesado a partir de las pieles de presas comunes que se encuentran en la naturaleza.
 items.Ingredient_Leather_Medium.name = Cuero Medio - Medium Leather
-items.Ingredient_Leather_Medium.description = Procesado a partir de las resistentes pieles de amenazas de tamaño medio y bestias acorazadas. - Processed from the resilient hides of mid-sized threats and armored beasts.
+items.Ingredient_Leather_Medium.description = Procesado a partir de las resistentes pieles de amenazas de tamaño medio y bestias acorazadas.
 items.Ingredient_Leather_Prismic.name = Cuero Prismático - Prismatic Leather
 items.Ingredient_Leather_Scaled.name = Cuero Escamoso - Scaled Leather
 items.Ingredient_Leather_Soft.name = Cuero Suave - Soft Leather
@@ -4472,19 +4472,19 @@ items.Ingredient_Motes_Light.name = Partículas de Luz - Motes of Light
 items.Ingredient_Poop.name = Excremento - Poop
 items.Ingredient_Powder_Boom.name = Polvo Explosivo - Boom Powder
 items.Ingredient_Fire_Essence.name = Esencia de Fuego - Essence of Fire
-items.Ingredient_Fire_Essence.description = <i>Esta energía una vez dio forma a los sueños de los artesanos del Crisol. Hoy en día, solo persiste en las criaturas que habitan en las desoladas regiones volcánicas.</i> - <i>This energy once gave form to the dreams of Crucible's artisans. Today it merely lingers in the creatures that dwell amid the desolated volcanic regions.</i>
+items.Ingredient_Fire_Essence.description = <i>Esta energía una vez dio forma a los sueños de los artesanos del Crisol. Hoy en día, solo persiste en las criaturas que habitan en las desoladas regiones volcánicas.</i>
 items.Ingredient_Ice_Essence.name = Esencia de Hielo - Essence of Ice
-items.Ingredient_Ice_Essence.description = <i>Cuando los Forasteros rechazaron la llama y se separaron de sus hermanos, se volvieron hacia las regiones más frías y la frágil fuerza que se encuentra en las avanzadas capas de hielo.</i> - <i>When the Outlanders rejected the flame and split from their brethren, they turned instead toward the colder regions and the fragile strength found in the advancing sheets of ice.</i>
+items.Ingredient_Ice_Essence.description = <i>Cuando los Forasteros rechazaron la llama y se separaron de sus hermanos, se volvieron hacia las regiones más frías y la frágil fuerza que se encuentra en las avanzadas capas de hielo.</i>
 items.Ingredient_Life_Essence.name = Esencia de Vida - Essence of Life
-items.Ingredient_Life_Essence.description = <i>Una forma de energía vital desbordante que se encuentra en abundancia alrededor de la vida vegetal en Orbis. En concentraciones suficientemente grandes, quizás incluso podría dar lugar a la conciencia donde antes estaba ausente.</i> - <i>A form of overflowing life energy found in abundance around plant life on Orbis. In great enough concentrations, perhaps it could even bring forth sentience where it was absent before.</i>
+items.Ingredient_Life_Essence.description = <i>Una forma de energía vital desbordante que se encuentra en abundancia alrededor de la vida vegetal en Orbis. En concentraciones suficientemente grandes, quizás incluso podría dar lugar a la conciencia donde antes estaba ausente.</i>
 items.Ingredient_Life_Essence_Concentrated.name = Esencia Mayor de Vida - Greater Essence of Life
-items.Ingredient_Life_Essence_Concentrated.description = Una amalgama equivalente a <color is="#3e9049">100 Esencias de Vida</color>. - An amalgamation equivalent to <color is="#3e9049">100 Essences of Life</color>.
+items.Ingredient_Life_Essence_Concentrated.description = Una amalgama equivalente a <color is="#3e9049">100 Esencias de Vida</color>.
 items.Ingredient_Lightning_Essence.name = Esencia de Rayo - Essence of Lightning
-items.Ingredient_Lightning_Essence.description = <i>Las tormentas furiosas han demostrado ser atractivas para muchas criaturas a lo largo de los siglos. Aunque la verdadera fuente de tal magia no se encuentra en ninguna parte, los elementales nacidos de sus rastros aún vagan por las tierras.</i> - <i>Raging storms have proved attractive to many creatures over the centuries. Though the true source of such magic is nowhere to be found, the elementals born from its lingering traces still wander the lands.</i>
+items.Ingredient_Lightning_Essence.description = <i>Las tormentas furiosas han demostrado ser atractivas para muchas criaturas a lo largo de los siglos. Aunque la verdadera fuente de tal magia no se encuentra en ninguna parte, los elementales nacidos de sus rastros aún vagan por las tierras.</i>
 items.Ingredient_Void_Essence.name = Esencia del Vacío - Essence of the Void
-items.Ingredient_Void_Essence.description = <i>No está claro si las criaturas del Vacío producen esta esencia, o si su presencia es necesaria para sostener su existencia. Lo que se puede afirmar con certeza es que ambos están inextricablemente ligados.</i> - <i>It's unclear whether creatures of the Void produce this essence, or if its presence is required to sustain their existence. What can be said for certain is that the two are inextricably bound.</i>
+items.Ingredient_Void_Essence.description = <i>No está claro si las criaturas del Vacío producen esta esencia, o si su presencia es necesaria para sostener su existencia. Lo que se puede afirmar con certeza es que ambos están inextricablemente ligados.</i>
 items.Ingredient_Water_Essence.name = Esencia de Agua - Essence of Water
-items.Ingredient_Water_Essence.description = <i>Incluso los peces tienen una afinidad natural por la magia. A medida que el agua filtra a través de sus branquias, la concentración crece. Quizás ahí radique el secreto de las criaturas abisales que acechan en las profundidades más oscuras de Orbis.</i> - <i>Even fish have a natural affinity for magic. As water filters through their gills, the concentration grows. Perhaps therein lies the secret to the abyssal creatures lurking in Orbis' darkest depths.</i>
+items.Ingredient_Water_Essence.description = <i>Incluso los peces tienen una afinidad natural por la magia. A medida que el agua filtra a través de sus branquias, la concentración crece. Quizás ahí radique el secreto de las criaturas abisales que acechan en las profundidades más oscuras de Orbis.</i>
 items.Ingredient_Sinue_Cindersinue.name = Cenizas - Cindersinue
 items.Ingredient_Stick.name = Palito - Stick
 items.Ingredient_Strap_Leather.name = Correa de Cuero - Leather Strap
@@ -4496,14 +4496,14 @@ items.Media_RemoteControl.name = Control Remoto - Media Remote Control
 items.Objective_Bounty.name = Recompensa - Bounty
 items.Objective_Treasure_Map.name = Mapa del Tesoro - Treasure Map
 items.Ore_Adamantite.name = Mineral de Adamantita - Adamantite Ore
-items.Ore_Adamantite.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Adamantite"/> en un <item is="Bench_Furnace"/>. - [TMP] Can be smelted into an <item is="Ingredient_Bar_Adamantite"/> at a <item is="Bench_Furnace"/>.
+items.Ore_Adamantite.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Adamantite"/> en un <item is="Bench_Furnace"/>.
 items.Ore_Adamantite_Basalt.name = Mineral de Adamantita - Basalto - Adamantite Ore - Basalt
 items.Ore_Adamantite_Shale.name = Mineral de Adamantita - Esquisto - Adamantite Ore - Shale
 items.Ore_Adamantite_Slate.name = Mineral de Adamantita - Pizarra - Adamantite Ore - Slate
 items.Ore_Adamantite_Stone.name = Mineral de Adamantita - Piedra - Adamantite Ore - Stone
 items.Ore_Adamantite_Volcanic.name = Mineral de Adamantita - Volcánico - Adamantite Ore - Volcanic
 items.Ore_Cobalt.name = Mineral de Cobalto - Cobalt Ore
-items.Ore_Cobalt.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Cobalt"/> en un <item is="Bench_Furnace"/>. - [TMP] Can be smelted into a <item is="Ingredient_Bar_Cobalt"/> at a <item is="Bench_Furnace"/>.
+items.Ore_Cobalt.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Cobalt"/> en un <item is="Bench_Furnace"/>.
 items.Ore_Cobalt_Basalt.name = Mineral de Cobalto - Basalto - Cobalt Ore - Basalt
 items.Ore_Cobalt_Sandstone.name = Mineral de Cobalto - Arenisca - Cobalt Ore - Sandstone
 items.Ore_Cobalt_Shale.name = Mineral de Cobalto - Esquisto - Cobalt Ore - Shale
@@ -4511,21 +4511,21 @@ items.Ore_Cobalt_Slate.name = Mineral de Cobalto - Pizarra - Cobalt Ore - Slate
 items.Ore_Cobalt_Stone.name = Mineral de Cobalto - Piedra - Cobalt Ore - Stone
 items.Ore_Cobalt_Volcanic.name = Mineral de Cobalto - Volcánico - Cobalt Ore - Volcanic
 items.Ore_Copper.name = Mineral de Cobre - Copper Ore
-items.Ore_Copper.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Copper"/> en un <item is="Bench_Furnace"/>. - [TMP] Can be smelted into a <item is="Ingredient_Bar_Copper"/> at a <item is="Bench_Furnace"/>.
+items.Ore_Copper.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Copper"/> en un <item is="Bench_Furnace"/>.
 items.Ore_Copper_Basalt.name = Mineral de Cobre - Basalto - Copper Ore - Basalt
 items.Ore_Copper_Sandstone.name = Mineral de Cobre - Arenisca - Copper Ore - Sandstone
 items.Ore_Copper_Shale.name = Mineral de Cobre - Esquisto - Copper Ore - Shale
 items.Ore_Copper_Stone.name = Mineral de Cobre - Piedra - Copper Ore - Stone
 items.Ore_Copper_Volcanic.name = Mineral de Cobre - Volcánico - Copper Ore - Volcanic
 items.Ore_Gold.name = Mineral de Oro - Gold Ore
-items.Ore_Gold.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Gold"/> en un <item is="Bench_Furnace"/>. - [TMP] Can be smelted into a <item is="Ingredient_Bar_Gold"/> at a <item is="Bench_Furnace"/>.
+items.Ore_Gold.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Gold"/> en un <item is="Bench_Furnace"/>.
 items.Ore_Gold_Basalt.name = Mineral de Oro - Basalto - Gold Ore - Basalt
 items.Ore_Gold_Sandstone.name = Mineral de Oro - Arenisca - Gold Ore - Sandstone
 items.Ore_Gold_Shale.name = Mineral de Oro - Esquisto - Gold Ore - Shale
 items.Ore_Gold_Stone.name = Mineral de Oro - Piedra - Gold Ore - Stone
 items.Ore_Gold_Volcanic.name = Mineral de Oro - Volcánico - Gold Ore - Volcanic
 items.Ore_Iron.name = Mineral de Hierro - Iron Ore
-items.Ore_Iron.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Iron"/> en un <item is="Bench_Furnace"/>. - [TMP] Can be smelted into an <item is="Ingredient_Bar_Iron"/> at a <item is="Bench_Furnace"/>.
+items.Ore_Iron.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Iron"/> en un <item is="Bench_Furnace"/>.
 items.Ore_Iron_Basalt.name = Mineral de Hierro - Basalto - Iron Ore - Basalt
 items.Ore_Iron_Sandstone.name = Mineral de Hierro - Arenisca - Iron Ore - Sandstone
 items.Ore_Iron_Shale.name = Mineral de Hierro - Esquisto - Iron Ore - Shale
@@ -4533,23 +4533,23 @@ items.Ore_Iron_Slate.name = Mineral de Hierro - Pizarra - Iron Ore - Slate
 items.Ore_Iron_Stone.name = Mineral de Hierro - Piedra - Iron Ore - Stone
 items.Ore_Iron_Volcanic.name = Mineral de Hierro - Volcánico - Iron Ore - Volcanic
 items.Ore_Mithril.name = Mineral de Mithril - Mithril Ore
-items.Ore_Mithril.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Mithril"/> en un <item is="Bench_Furnace"/>. - [TMP] Can be smelted into a <item is="Ingredient_Bar_Mithril"/> at a <item is="Bench_Furnace"/>.
+items.Ore_Mithril.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Mithril"/> en un <item is="Bench_Furnace"/>.
 items.Ore_Mithril_Basalt.name = Mineral de Mithril - Basalto - Mithril Ore - Basalt
 items.Ore_Mithril_Magma.name = Mineral de Mithril - Magma - Mithril Ore - Magma
 items.Ore_Mithril_Slate.name = Mineral de Mithril - Pizarra - Mithril Ore - Slate
 items.Ore_Mithril_Stone.name = Mineral de Mithril - Piedra - Mithril Ore - Stone
 items.Ore_Mithril_Volcanic.name = Mineral de Mithril - Volcánico - Mithril Ore - Volcanic
 items.Ore_Onyxium.name = Mineral de Onyxium - Onyxium Ore
-items.Ore_Onyxium.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Onyxium"/> en un <item is="Bench_Furnace"/>. - [TMP] Can be smelted into an <item is="Ingredient_Bar_Onyxium"/> at a <item is="Bench_Furnace"/>.
+items.Ore_Onyxium.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Onyxium"/> en un <item is="Bench_Furnace"/>.
 items.Ore_Onyxium_Basalt.name = Mineral de Onyxium - Basalto - Onyxium Ore - Basalt
 items.Ore_Onyxium_Stone.name = Mineral de Onyxium - Piedra - Onyxium Ore - Stone
 items.Ore_Onyxium_Shale.name = Mineral de Onyxium - Esquisto - Onyxium Ore - Shale
 items.Ore_Onyxium_Volcanic.name = Mineral de Onyxium - Volcánico - Onyxium Ore - Volcanic
 items.Ore_Onyxium_Sandstone.name = Mineral de Onyxium - Arenisca - Onyxium Ore - Sandstone
 items.Ore_Prisma.name = Mineral de Prisma - Prisma Ore
-items.Ore_Prisma.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Prisma"/> en un <item is="Bench_Furnace"/>. - [TMP] Can be smelted into a <item is="Ingredient_Bar_Prisma"/> at a <item is="Bench_Furnace"/>.
+items.Ore_Prisma.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Prisma"/> en un <item is="Bench_Furnace"/>.
 items.Ore_Silver.name = Mineral de Plata - Silver Ore
-items.Ore_Silver.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Silver"/> en un <item is="Bench_Furnace"/>. - [TMP] Can be smelted into a <item is="Ingredient_Bar_Silver"/> at a <item is="Bench_Furnace"/>.
+items.Ore_Silver.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Silver"/> en un <item is="Bench_Furnace"/>.
 items.Ore_Silver_Basalt.name = Mineral de Plata - Basalto - Silver Ore - Basalt
 items.Ore_Silver_Sandstone.name = Mineral de Plata - Arenisca - Silver Ore - Sandstone
 items.Ore_Silver_Shale.name = Mineral de Plata - Esquisto - Silver Ore - Shale
@@ -4557,7 +4557,7 @@ items.Ore_Silver_Slate.name = Mineral de Plata - Pizarra - Silver Ore - Slate
 items.Ore_Silver_Stone.name = Mineral de Plata - Piedra - Silver Ore - Stone
 items.Ore_Silver_Volcanic.name = Mineral de Plata - Volcánico - Silver Ore - Volcanic
 items.Ore_Thorium.name = Mineral de Torio - Thorium Ore
-items.Ore_Thorium.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Thorium"/> en un <item is="Bench_Furnace"/>. - [TMP] Can be smelted into a <item is="Ingredient_Bar_Thorium"/> at a <item is="Bench_Furnace"/>.
+items.Ore_Thorium.description = [TMP] Puede ser fundido en un <item is="Ingredient_Bar_Thorium"/> en un <item is="Bench_Furnace"/>.
 items.Ore_Thorium_Basalt.name = Mineral de Torio - Basalto - Thorium Ore - Basalt
 items.Ore_Thorium_Sandstone.name = Mineral de Torio - Arenisca - Thorium Ore - Sandstone
 items.Ore_Thorium_Shale.name = Mineral de Torio - Esquisto - Thorium Ore - Shale
@@ -4650,9 +4650,9 @@ items.Plant_Crop_Aubergine_Stage_2.name = Berenjena Joven - Young Aubergine
 items.Plant_Crop_Aubergine_StageFinal.name = Berenjena Madura - Mature Aubergine
 items.Plant_Crop_Berry_Stage_0.name = Arbusto de Bayas - Berry Bush
 items.Plant_Crop_Berry_Block.name = Arbusto de Bayas - Berry Bush
-items.Plant_Crop_Berry_Block.description = [TMP] Cosecha:\n• <color is="#4ade80">1-2</color> <color is="#ffffff">Bayas Silvestres</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">2</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">1</color> <color is="#ffffff">Día</color>\n• <color is="#ffffff">Vuelve a crecer</color> - [TMP] Harvesting:\n• <color is="#4ade80">1-2</color> <color is="#ffffff">Wild Berries</color>\n\nGrowth Time:\n• <color is="#4ade80">2</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">1</color> <color is="#ffffff">Day</color>\n• <color is="#ffffff">Regrows</color>
-items.Plant_Crop_Berry_Winter_Block.description = [TMP] Cosecha:\n• <color is="#4ade80">1-2</color> <color is="#ffffff">Bayas Silvestres</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">2</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">1</color> <color is="#ffffff">Día</color>\n• <color is="#ffffff">Vuelve a crecer</color> - [TMP] Harvesting:\n• <color is="#4ade80">1-2</color> <color is="#ffffff">Wild Berries</color>\n\nGrowth Time:\n• <color is="#4ade80">2</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">1</color> <color is="#ffffff">Day</color>\n• <color is="#ffffff">Regrows</color>
-items.Plant_Crop_Berry_Wet_Block.description = [TMP] Cosecha:\n• <color is="#4ade80">1-2</color> <color is="#ffffff">Bayas Silvestres</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">2</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">1</color> <color is="#ffffff">Día</color>\n• <color is="#ffffff">Vuelve a crecer</color> - [TMP] Harvesting:\n• <color is="#4ade80">1-2</color> <color is="#ffffff">Wild Berries</color>\n\nGrowth Time:\n• <color is="#4ade80">2</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">1</color> <color is="#ffffff">Day</color>\n• <color is="#ffffff">Regrows</color>
+items.Plant_Crop_Berry_Block.description = [TMP] Cosecha:\n• <color is="#4ade80">1-2</color> <color is="#ffffff">Bayas Silvestres</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">2</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">1</color> <color is="#ffffff">Día</color>\n• <color is="#ffffff">Vuelve a crecer</color>
+items.Plant_Crop_Berry_Winter_Block.description = [TMP] Cosecha:\n• <color is="#4ade80">1-2</color> <color is="#ffffff">Bayas Silvestres</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">2</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">1</color> <color is="#ffffff">Día</color>\n• <color is="#ffffff">Vuelve a crecer</color>
+items.Plant_Crop_Berry_Wet_Block.description = [TMP] Cosecha:\n• <color is="#4ade80">1-2</color> <color is="#ffffff">Bayas Silvestres</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">2</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">1</color> <color is="#ffffff">Día</color>\n• <color is="#ffffff">Vuelve a crecer</color>
 items.Plant_Crop_Carrot.name = Zanahoria - Carrot
 items.Plant_Crop_Carrot_Stage_0.name = Semillas de Zanahoria - Carrot Seeds
 items.Plant_Crop_Carrot_Stage_1.name = Brote de Zanahoria - Carrot Sprout
@@ -5044,33 +5044,33 @@ items.Plant_Roots_Cave.name = Raíces de Cueva Colgantes - Hanging Cave Roots
 items.Plant_Roots_Cave_Small.name = Raíces de Cueva - Cave Roots
 items.Plant_Roots_Leafy.name = Raíces de Cueva Frondosas - Leafy Cave Roots
 items.Plant_Sapling_Ash.name = Plántula de Ceniza - Ash Sapling
-items.Plant_Sapling_Ash.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Ceniza</color>.\n• Produce <color is="#ffffff">Madera Dura</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color> - [TMP] Grows into an <color is="#ffffff">Ash Tree</color>.\n• Yields <color is="#ffffff">Hardwood</color>\n\nGrowth Time:\n• <color is="#4ade80">5</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Days</color>
+items.Plant_Sapling_Ash.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Ceniza</color>.\n• Produce <color is="#ffffff">Madera Dura</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color>
 items.Plant_Sapling_Apple.name = Plántula de Manzana - Apple Sapling
-items.Plant_Sapling_Apple.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Manzana</color>.\n• Produce <color is="#ffffff">Madera Dura</color>\n• Produce <color is="#4ade80">8</color> <color is="#ffffff">Manzanas</color>\n• Las manzanas vuelven a crecer cada <color is="#4ade80">12</color> <color is="#ffffff">Horas</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">5</color> <color is="#ffffff">Días</color> - [TMP] Grows into an <color is="#ffffff">Apple Tree</color>.\n• Yields <color is="#ffffff">Hardwood</color>\n• Grows <color is="#4ade80">8</color> <color is="#ffffff">Apples</color>\n• Apples regrow every <color is="#4ade80">12</color> <color is="#ffffff">Hours</color>\n\nGrowth Time:\n• <color is="#4ade80">5</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">5</color> <color is="#ffffff">Days</color>
+items.Plant_Sapling_Apple.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Manzana</color>.\n• Produce <color is="#ffffff">Madera Dura</color>\n• Produce <color is="#4ade80">8</color> <color is="#ffffff">Manzanas</color>\n• Las manzanas vuelven a crecer cada <color is="#4ade80">12</color> <color is="#ffffff">Horas</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">5</color> <color is="#ffffff">Días</color>
 items.Plant_Sapling_Beech.name = Plántula de Haya - Beech Sapling
-items.Plant_Sapling_Beech.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Haya</color>.\n• Produce <color is="#ffffff">Madera Blanda</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color> - [TMP] Grows into a <color is="#ffffff">Beech Tree</color>.\n• Yields <color is="#ffffff">Softwood</color>\n\nGrowth Time:\n• <color is="#4ade80">5</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Days</color>
+items.Plant_Sapling_Beech.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Haya</color>.\n• Produce <color is="#ffffff">Madera Blanda</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color>
 items.Plant_Sapling_Birch.name = Plántula de Abedul - Birch Sapling
-items.Plant_Sapling_Birch.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Abedul</color>.\n• Produce <color is="#ffffff">Madera Ligera</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color> - [TMP] Grows into a <color is="#ffffff">Birch Tree</color>.\n• Yields <color is="#ffffff">Lightwood</color>\n\nGrowth Time:\n• <color is="#4ade80">5</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Days</color>
+items.Plant_Sapling_Birch.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Abedul</color>.\n• Produce <color is="#ffffff">Madera Ligera</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color>
 items.Plant_Sapling_Cedar.name = Plántula de Cedro - Cedar Sapling
-items.Plant_Sapling_Cedar.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Cedro</color>.\n• Produce <color is="#ffffff">Madera Oscura</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color> - [TMP] Grows into a <color is="#ffffff">Cedar Tree</color>.\n• Yields <color is="#ffffff">Darkwood</color>\n\nGrowth Time:\n• <color is="#4ade80">5</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Days</color>
+items.Plant_Sapling_Cedar.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Cedro</color>.\n• Produce <color is="#ffffff">Madera Oscura</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color>
 items.Plant_Sapling_Crystal.name = Plántula de Cristal - Crystal Sapling
-items.Plant_Sapling_Crystal.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Cristal</color>.\n• Produce <color is="#ffffff">Madera</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color> - [TMP] Grows into a <color is="#ffffff">Crystal Tree</color>.\n• Yields <color is="#ffffff">Wood</color>\n\nGrowth Time:\n• <color is="#4ade80">5</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Days</color>
+items.Plant_Sapling_Crystal.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Cristal</color>.\n• Produce <color is="#ffffff">Madera</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color>
 items.Plant_Sapling_Dry.name = Plántula Seca - Dry Sapling
-items.Plant_Sapling_Dry.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol Seco</color>.\n• Produce <color is="#ffffff">Madera Seca</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color> - [TMP] Grows into a <color is="#ffffff">Dry Tree</color>.\n• Yields <color is="#ffffff">Drywood</color>\n\nGrowth Time:\n• <color is="#4ade80">5</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Days</color>
+items.Plant_Sapling_Dry.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol Seco</color>.\n• Produce <color is="#ffffff">Madera Seca</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color>
 items.Plant_Sapling_Oak.name = Plántula de Roble - Oak Sapling
-items.Plant_Sapling_Oak.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Roble</color>.\n• Produce <color is="#ffffff">Madera Dura</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">7</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">3</color> <color is="#ffffff">Días</color> - [TMP] Grows into an <color is="#ffffff">Oak Tree</color>.\n• Yields <color is="#ffffff">Hardwood</color>\n\nGrowth Time:\n• <color is="#4ade80">7</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">3</color> <color is="#ffffff">Days</color>
+items.Plant_Sapling_Oak.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Roble</color>.\n• Produce <color is="#ffffff">Madera Dura</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">7</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">3</color> <color is="#ffffff">Días</color>
 items.Plant_Sapling_Palm.name = Plántula de Palma - Palm Sapling
-items.Plant_Sapling_Palm.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Palma</color>.\n• Produce <color is="#ffffff">Madera Dorada</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color> - [TMP] Grows into a <color is="#ffffff">Palm Tree</color>.\n• Yields <color is="#ffffff">Goldenwood</color>\n\nGrowth Time:\n• <color is="#4ade80">5</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Days</color>
+items.Plant_Sapling_Palm.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Palma</color>.\n• Produce <color is="#ffffff">Madera Dorada</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color>
 items.Plant_Sapling_Poisoned.name = Plántula Envenenada - Poisoned Sapling
-items.Plant_Sapling_Poisoned.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol Envenenado</color>.\n• Produce <color is="#ffffff">Madera Muerta</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color> - [TMP] Grows into a <color is="#ffffff">Poisoned Tree</color>.\n• Yields <color is="#ffffff">Deadwood</color>\n\nGrowth Time:\n• <color is="#4ade80">5</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Days</color>
+items.Plant_Sapling_Poisoned.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol Envenenado</color>.\n• Produce <color is="#ffffff">Madera Muerta</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color>
 items.Plant_Sapling_Redwood.name = Plántula de Secuoya - Redwood Sapling
-items.Plant_Sapling_Redwood.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Secuoya</color>.\n• Produce <color is="#ffffff">Secuoya</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color> - [TMP] Grows into a <color is="#ffffff">Redwood Tree</color>.\n• Yields <color is="#ffffff">Redwood</color>\n\nGrowth Time:\n• <color is="#4ade80">5</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Days</color>
+items.Plant_Sapling_Redwood.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Secuoya</color>.\n• Produce <color is="#ffffff">Secuoya</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color>
 items.Plant_Sapling_Spruce.name = Plántula de Abeto - Spruce Sapling
-items.Plant_Sapling_Spruce.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Abeto</color>.\n• Produce <color is="#ffffff">Madera Dura</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color> - [TMP] Grows into a <color is="#ffffff">Spruce Tree</color>.\n• Yields <color is="#ffffff">Hardwood</color>\n\nGrowth Time:\n• <color is="#4ade80">5</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Days</color>
+items.Plant_Sapling_Spruce.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Abeto</color>.\n• Produce <color is="#ffffff">Madera Dura</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color>
 items.Plant_Sapling_Spruce_Frozen.name = Plántula de Abeto Congelado - Frozen Spruce Sapling
-items.Plant_Sapling_Spruce_Frozen.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Abeto Congelado</color>.\n• Produce <color is="#ffffff">Madera Dura</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color> - [TMP] Grows into a <color is="#ffffff">Frozen Spruce Tree</color>.\n• Yields <color is="#ffffff">Hardwood</color>\n\nGrowth Time:\n• <color is="#4ade80">5</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Days</color>
+items.Plant_Sapling_Spruce_Frozen.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Abeto Congelado</color>.\n• Produce <color is="#ffffff">Madera Dura</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color>
 items.Plant_Sapling_Windwillow.name = Plántula de Arena - Sand Sapling
-items.Plant_Sapling_Windwillow.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Arena</color>.\n• Produce <color is="#ffffff">Madera</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color> - [TMP] Grows into a <color is="#ffffff">Sand Tree</color>.\n• Yields <color is="#ffffff">Wood</color>\n\nGrowth Time:\n• <color is="#4ade80">5</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Days</color>
+items.Plant_Sapling_Windwillow.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de Arena</color>.\n• Produce <color is="#ffffff">Madera</color>\n\nTiempo de Crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color>
 items.Plant_Seaweed_Arid_Red.name = Alga Ácida Roja - Red Arid Seaweed
 items.Plant_Seaweed_Arid_Short.name = Alga Ácida Corta - Short Arid Seaweed
 items.Plant_Seaweed_Arid_Stack.name = Pila de Algas Ácidas - Arid Seaweed Stack
@@ -5096,9 +5096,9 @@ items.Plant_Seaweed_Winter_Tall.name = Alga Alta de Invierno - Tall Winter Seawe
 items.Plant_Seeds_Ash.name = Bolsa de Semillas de Ceniza - Ash Seed Bag
 items.Plant_Seeds_Aspen.name = Bolsa de Semillas de Álamo - Aspen Seed Bag
 items.Plant_Seeds_Aubergine.name = Bolsa de Semillas de Berenjena - Aubergine Seed Bag
-items.Plant_Seeds_Aubergine.description = Crea Berenjena - Grows Aubergine
+items.Plant_Seeds_Aubergine.description = Crea Berenjena
 items.Plant_Seeds_Aubergine_Eternal.name = Bolsa de Semillas de Berenjena (Eterna) - Aubergine Seed Bag (Eternal)
-items.Plant_Seeds_Aubergine_Eternal.description = Crea Berenjena - Grows Aubergine
+items.Plant_Seeds_Aubergine_Eternal.description = Crea Berenjena
 items.Plant_Seeds_Azure.name = Bolsa de Semillas de Plántula Azul - Azure Sapling Seed Bag
 items.Plant_Seeds_Bamboo.name = Bolsa de Semillas de Bambú - Bamboo Seed Bag
 items.Plant_Seeds_Beans_Purple.name = Frijoles Morados - Purple Beans
@@ -5107,26 +5107,26 @@ items.Plant_Seeds_Berry.name = Bolsa de Semillas de Baya - Berry Seed Bag
 items.Plant_Seeds_Birch.name = Bolsa de Semillas de Abedul - Birch Seed Bag
 items.Plant_Seeds_Bottletree.name = Bolsa de Semillas de Árbol Botella - Bottletree Seed Bag
 items.Plant_Seeds_Carrot.name = Bolsa de Semillas de Zanahoria - Carrot Seed Bag
-items.Plant_Seeds_Carrot.description = Crea Zanahoria - Grows Carrot
+items.Plant_Seeds_Carrot.description = Crea Zanahoria
 items.Plant_Seeds_Carrot_Eternal.name = Bolsa de Semillas de Zanahoria (Eterna) - Carrot Seed Bag (Eternal)
-items.Plant_Seeds_Carrot_Eternal.description = Crea Zanahoria - Grows Carrot
+items.Plant_Seeds_Carrot_Eternal.description = Crea Zanahoria
 items.Plant_Seeds_Cauliflower.name = Bolsa de Semillas de Coliflor - Cauliflower Seed Bag
-items.Plant_Seeds_Cauliflower.description = Crea Coliflor - Grows Cauliflower
+items.Plant_Seeds_Cauliflower.description = Crea Coliflor
 items.Plant_Seeds_Cauliflower_Eternal.name = Bolsa de Semillas de Coliflor (Eterna) - Cauliflower Seed Bag (Eternal)
-items.Plant_Seeds_Cauliflower_Eternal.description = Crea Coliflor - Grows Cauliflower
+items.Plant_Seeds_Cauliflower_Eternal.description = Crea Coliflor
 items.Plant_Seeds_Cedar.name = Bolsa de Semillas de Cedro - Cedar Seed Bag
 items.Plant_Seeds_Chilli.name = Bolsa de Semillas de Chile - Chilli Seed Bag
-items.Plant_Seeds_Chilli.description = Crea Chile - Grows Chilli
+items.Plant_Seeds_Chilli.description = Crea Chile
 items.Plant_Seeds_Chilli_Eternal.name = Bolsa de Semillas de Chile (Eterna) - Chilli Seed Bag (Eternal)
-items.Plant_Seeds_Chilli_Eternal.description = Crea Chile - Grows Chilli
+items.Plant_Seeds_Chilli_Eternal.description = Crea Chile
 items.Plant_Seeds_Corn.name = Bolsa de Semillas de Maíz - Corn Seed Bag
-items.Plant_Seeds_Corn.description = Crea Maíz - Grows Corn
+items.Plant_Seeds_Corn.description = Crea Maíz
 items.Plant_Seeds_Corn_Eternal.name = Bolsa de Semillas de Maíz (Eterna) - Corn Seed Bag (Eternal)
-items.Plant_Seeds_Corn_Eternal.description = Crea Maíz - Grows Corn
+items.Plant_Seeds_Corn_Eternal.description = Crea Maíz
 items.Plant_Seeds_Cotton.name = Bolsa de Semillas de Algodón - Cotton Seed Bag
-items.Plant_Seeds_Cotton.description = Crea Algodón - Grows Cotton
+items.Plant_Seeds_Cotton.description = Crea Algodón
 items.Plant_Seeds_Cotton_Eternal.name = Bolsa de Semillas de Algodón (Eterna) - Cotton Seed Bag (Eternal)
-items.Plant_Seeds_Cotton_Eternal.description = Crea Algodón - Grows Cotton
+items.Plant_Seeds_Cotton_Eternal.description = Crea Algodón
 items.Plant_Seeds_Crystal.name = Bolsa de Semillas de Cristal - Crystal Seed Bag
 items.Plant_Seeds_Dry.name = Bolsa de Semillas Secas - Dry Seed Bag
 items.Plant_Seeds_Fir.name = Bolsa de Semillas de Abeto - Fir Seed Bag
@@ -5139,9 +5139,9 @@ items.Plant_Seeds_Health3.name = Bolsa de Semillas de Hoja Sangrienta - Blood Le
 items.Plant_Seeds_Ice.name = Bolsa de Semillas de Hielo - Ice Seed Bag
 items.Plant_Seeds_Jungle.name = Bolsa de Semillas de Jungla - Jungle Seed Bag
 items.Plant_Seeds_Lettuce.name = Bolsa de Semillas de Lechuga - Lettuce Seed Bag
-items.Plant_Seeds_Lettuce.description = Crea Lechuga - Grows Lettuce
+items.Plant_Seeds_Lettuce.description = Crea Lechuga
 items.Plant_Seeds_Lettuce_Eternal.name = Bolsa de Semillas de Lechuga (Eterna) - Lettuce Seed Bag (Eternal)
-items.Plant_Seeds_Lettuce_Eternal.description = Crea Lechuga - Grows Lettuce
+items.Plant_Seeds_Lettuce_Eternal.description = Crea Lechuga
 items.Plant_Seeds_Mana1.name = Bolsa de Semillas de Helecho Azul - Azure Fern Seed Bag
 items.Plant_Seeds_Mana2.name = Bolsa de Esporas de Azulcap - Azurecap Spore Bag
 items.Plant_Seeds_Mana3.name = Bolsa de Semillas de Alga Azul - Azure Kelp Seed Bag
@@ -5149,25 +5149,25 @@ items.Plant_Seeds_Maple.name = Bolsa de Semillas de Arce - Maple Seed Bag
 items.Plant_Seeds_Mushroom.name = Bolsa de Semillas de Hongo - Mushroom Seed Bag
 items.Plant_Seeds_Oak.name = Bolsa de Semillas de Roble - Oak Seed Bag
 items.Plant_Seeds_Onion.name = Bulbo de Cebolla - Onion Bulb
-items.Plant_Seeds_Onion.description = Crea Cebolla - Grows Onion
+items.Plant_Seeds_Onion.description = Crea Cebolla
 items.Plant_Seeds_Onion_Eternal.name = Bulbo de Cebolla (Eterno) - Onion Bulb (Eternal)
-items.Plant_Seeds_Onion_Eternal.description = Crea Cebolla - Grows Onion
+items.Plant_Seeds_Onion_Eternal.description = Crea Cebolla
 items.Plant_Seeds_Palm.name = Bolsa de Semillas de Palma - Palm Seed Bag
 items.Plant_Seeds_Palo.name = Bolsa de Semillas de Palo - Palo Seed Bag
 items.Plant_Seeds_Pine.name = Piña - Pinecone
 items.Plant_Seeds_Potato.name = Brote de Papa - Potato Sprout
-items.Plant_Seeds_Potato.description = Crea Papa - Grows Potato
+items.Plant_Seeds_Potato.description = Crea Papa
 items.Plant_Seeds_Potato_Eternal.name = Brote de Papa (Eterno) - Potato Sprout (Eternal)
-items.Plant_Seeds_Potato_Eternal.description = Crea Papa - Grows Potato
+items.Plant_Seeds_Potato_Eternal.description = Crea Papa
 items.Plant_Seeds_Pumpkin.name = Bolsa de Semillas de Calabaza - Pumpkin Seed Bag
-items.Plant_Seeds_Pumpkin.description = Crea Calabaza - Grows Pumpkin
+items.Plant_Seeds_Pumpkin.description = Crea Calabaza
 items.Plant_Seeds_Pumpkin_Eternal.name = Bolsa de Semillas de Calabaza (Eterna) - Pumpkin Seed Bag (Eternal)
-items.Plant_Seeds_Pumpkin_Eternal.description = Crea Calabaza - Grows Pumpkin
+items.Plant_Seeds_Pumpkin_Eternal.description = Crea Calabaza
 items.Plant_Seeds_Redwood.name = Bolsa de Semillas de Secuoya - Redwood Seed Bag
 items.Plant_Seeds_Rice.name = Bolsa de Semillas de Arroz - Rice Seed Bag
-items.Plant_Seeds_Rice.description = Crea Arroz - Grows Rice
+items.Plant_Seeds_Rice.description = Crea Arroz
 items.Plant_Seeds_Rice_Eternal.name = Bolsa de Semillas de Arroz (Eterna) - Rice Seed Bag (Eternal)
-items.Plant_Seeds_Rice_Eternal.description = Crea Arroz - Grows Rice
+items.Plant_Seeds_Rice_Eternal.description = Crea Arroz
 items.Plant_Seeds_Sallow.name = Bolsa de Semillas de Sauce - Sallow Seed Bag
 items.Plant_Seeds_Spiral.name = Bolsa de Semillas de Espiral - Spiral Seed Bag
 items.Plant_Seeds_Stamina1.name = Bolsa de Semillas de Cardo de Tormenta - Storm Thistle Seed Bag
@@ -5176,19 +5176,19 @@ items.Plant_Seeds_Stamina3.name = Bolsa de Semillas de Plántula de Tormenta - S
 items.Plant_Seeds_Sunflower.name = Bolsa de Semillas de Girasol - Sunflower Seed Bag
 items.Plant_Seeds_Test_Tree.name = Árbol de Prueba de Semillas - Seed Test Tree
 items.Plant_Seeds_Tomato.name = Bolsa de Semillas de Tomate - Tomato Seed Bag
-items.Plant_Seeds_Tomato.description = Crea Tomate - Grows Tomato
+items.Plant_Seeds_Tomato.description = Crea Tomate
 items.Plant_Seeds_Tomato_Eternal.name = Bolsa de Semillas de Tomate (Eterna) - Tomato Seed Bag (Eternal)
-items.Plant_Seeds_Tomato_Eternal.description = Crea Tomate - Grows Tomato
+items.Plant_Seeds_Tomato_Eternal.description = Crea Tomate
 items.Plant_Seeds_Turnip.name = Bolsa de Semillas de Nabo - Turnip Seed Bag
-items.Plant_Seeds_Turnip.description = Crea Nabo - Grows Turnip
+items.Plant_Seeds_Turnip.description = Crea Nabo
 items.Plant_Seeds_Turnip_Eternal.name = Bolsa de Semillas de Nabo (Eterna) - Turnip Seed Bag (Eternal)
-items.Plant_Seeds_Turnip_Eternal.description = Crea Nabo - Grows Turnip
+items.Plant_Seeds_Turnip_Eternal.description = Crea Nabo
 items.Plant_Seeds_Wheat.name = Bolsa de Semillas de Trigo - Wheat Seed Bag
-items.Plant_Seeds_Wheat.description = Crea Trigo - Grows Wheat
+items.Plant_Seeds_Wheat.description = Crea Trigo
 items.Plant_Seeds_Wheat_Eternal.name = Bolsa de Semillas de Trigo (Eterna) - Wheat Seed Bag (Eternal)
-items.Plant_Seeds_Wheat_Eternal.description = Crea Trigo - Grows Wheat
+items.Plant_Seeds_Wheat_Eternal.description = Crea Trigo
 items.Plant_Seeds_Wild.name = Bolsa de Semillas de Hierba Silvestre - Wild Grass Seed Bag
-items.Plant_Seeds_Wild.description = Crea Hierba Silvestre - Grows Wild Grass
+items.Plant_Seeds_Wild.description = Crea Hierba Silvestre
 items.Plant_Seeds_Willow.name = Bolsa de Semillas de Sauce - Willow Seed Bag
 items.Plant_Sunflower_Stage_0.name = Semillas de Girasol - Sunflower Seeds
 items.Plant_Test_Tree_Stage_0.name = Árbol de Prueba 0 - Test Tree 0
@@ -5208,11 +5208,11 @@ items.Plant_Vine_Wall_Dry.name = Vine Seca - Dry Vine
 items.Plant_Vine_Wall_Poisoned.name = Hiedra Envenenada - Poisoned Ivy
 items.Plant_Vine_Wall_Winter.name = Vine - Vine
 items.Leave_Instance.name = Dejar Instancia - Leave Instance
-items.Leave_Instance.description = Usa para salir de la instancia. - Use to leave the instance.
+items.Leave_Instance.description = Usa para salir de la instancia.
 items.Forgotten_Temple_Portal_Enter.name = Portal de Templo Olvidado - Forgotten Temple Gateway
-items.Forgotten_Temple_Portal_Enter.description = Usa para entrar al Templo Olvidado. - Use to enter the Forgotten Temple.
+items.Forgotten_Temple_Portal_Enter.description = Usa para entrar al Templo Olvidado.
 items.Forgotten_Temple_Portal_Exit.name = Salida del Templo Olvidado - Forgotten Temple Exit
-items.Forgotten_Temple_Portal_Exit.description = Usa para salir de la instancia. - Use to leave the instance.
+items.Forgotten_Temple_Portal_Exit.description = Usa para salir de la instancia.
 items.Portal_Exit.name = Portal de Salida - Exit Portal
 items.Portal_Inner_Example1.name = Bloque de Portal Interno - Inner Portal Block
 items.Portal_Inner_Example_Config.name = Bloque de Portal Interno - Inner Portal Block
@@ -5221,35 +5221,35 @@ items.Launchpad.name = Plataforma de Lanzamiento - Launch Platform
 items.Portal_Pad_Wind.name = Plataforma de Teletransportación - Warp Platform
 items.Portal_Pad_Zone2.name = Portal de Mazmorras - Dungeon Portal
 items.Portal_Prefab.name = Portal Prefabricado - Prefab Portal
-items.PortalKey.description = Coloca en el <item is="Portal_Device"/> para visitar este Fragmento. \nTrabajo en Progreso - Place in the <item is="Portal_Device"/> to visit this Fragment. \nWork In Progress
+items.PortalKey.description = Coloca en el <item is="Portal_Device"/> para visitar este Fragmento. \nTrabajo en Progreso
 items.PortalKey_Windsurf_Valley.name = Fragmento: Orbis - Valle del Jinete del Viento - Fragment: Orbis - Windrider Valley
-items.PortalKey_Windsurf_Valley.description = <msg key="server.items.PortalKey.description"/>\n\n<i>Un Feran valora la libertad por encima de todo, y en ningún lugar se encarna esa libertad más que en los vientos del Valle del Jinete del Viento.</i> - <msg key="server.items.PortalKey.description"/>\n\n<i>A Feran values freedom above all else, and nowhere is that freedom embodied more than in the winds of Windrider Valley.</i>
+items.PortalKey_Windsurf_Valley.description = <msg key="server.items.PortalKey.description"/>\n\n<i>Un Feran valora la libertad por encima de todo, y en ningún lugar se encarna esa libertad más que en los vientos del Valle del Jinete del Viento.</i>
 items.PortalKey_Jungles.name = Fragmento: Orbis - Refugio de Tal'Kesi - Fragment: Orbis - Tal'Kesi Refuge
-items.PortalKey_Jungles.description = <msg key="server.items.PortalKey.description"/>\n\n<i>Profundamente bajo las tierras desoladas dejadas por una civilización antigua, un refugio primordial prospera.</i> - <msg key="server.items.PortalKey.description"/>\n\n<i>Deep beneath the desolate wastelands left by an ancient civilization, a primordial haven thrives.</i>
+items.PortalKey_Jungles.description = <msg key="server.items.PortalKey.description"/>\n\n<i>Profundamente bajo las tierras desoladas dejadas por una civilización antigua, un refugio primordial prospera.</i>
 items.PortalKey_Taiga.name = Fragmento: Orbis - Bosque de Espinas de Dragón - Fragment: Orbis - Dragonspire Weald
-items.PortalKey_Taiga.description = <msg key="server.items.PortalKey.description"/>\n\n<i>Hay bosques congelados en los que ni siquiera un Forastero se atreve a poner un pie, sin importar cuán tentadoras sean las susurros.</i> - <msg key="server.items.PortalKey.description"/>\n\n<i>There are frozen forests into which not even an Outlander dares set foot, no matter how the whispers beckon.</i>
+items.PortalKey_Taiga.description = <msg key="server.items.PortalKey.description"/>\n\n<i>Hay bosques congelados en los que ni siquiera un Forastero se atreve a poner un pie, sin importar cuán tentadoras sean las susurros.</i>
 items.PortalKey_Hederas_Lair.name = Fragmento: Orbis - El Temido Wade - Fragment: Orbis - The Dread Wade
-items.PortalKey_Hederas_Lair.description = <msg key="server.items.PortalKey.description"/>\n\n<i>Pocos han experimentado los terrores que acechan en las profundidades más oscuras de Orbis.</i> - <msg key="server.items.PortalKey.description"/>\n\n<i>Few have experienced the terrors that lurk in Orbis' murkier depths.</i>
+items.PortalKey_Hederas_Lair.description = <msg key="server.items.PortalKey.description"/>\n\n<i>Pocos han experimentado los terrores que acechan en las profundidades más oscuras de Orbis.</i>
 items.PortalKey_Henges.name = Fragmento: Orbis - Henges Silenciosos - Fragment: Orbis - Silent Henges
-items.PortalKey_Henges.description = <msg key="server.items.PortalKey.description"/>\n\n<i>Misteriosos henges se alzan sobre una tierra congelada.</i> - <msg key="server.items.PortalKey.description"/>\n\n<i>Mysterious henges tower over a frozen land.</i>
+items.PortalKey_Henges.description = <msg key="server.items.PortalKey.description"/>\n\n<i>Misteriosos henges se alzan sobre una tierra congelada.</i>
 items.Portal_Device.name = Portal Antiguo - Ancient Gateway
-items.Portal_Device.description = Coloca esto en tu base para derribar las barreras y viajar a otros Fragmentos!<i>\nTrabajo en Progreso.\n\nAunque la maldición mantiene a Orbis de Gaia encerrado, hay formas de atravesar el Vacío que lo oculta.</i> - Place this in your base to tear down the barriers and travel to other Fragments!<i>\nWork In Progress.\n\nThough the curse keeps Gaia's Orbis locked away, there are ways to pierce the Void that veils it.</i>
+items.Portal_Device.description = Coloca esto en tu base para derribar las barreras y viajar a otros Fragmentos!<i>\nTrabajo en Progreso.\n\nAunque la maldición mantiene a Orbis de Gaia encerrado, hay formas de atravesar el Vacío que lo oculta.</i>
 items.Hub_Portal_Zone3_Taiga1.name = Portal de Taiga Zona 3 - Zone 3 Taiga Portal
-items.Hub_Portal_Zone3_Taiga1.description = Portal que te teletransporta a la Zona 3 Taiga, utilizado en el Centro Creativo - Portal that teleports you to Zone 3 Taiga, used in the Creative Hub
+items.Hub_Portal_Zone3_Taiga1.description = Portal que te teletransporta a la Zona 3 Taiga, utilizado en el Centro Creativo
 items.Hub_Portal_Default.name = Portal de Generación de Exploración - Exploration Worldgen Portal
-items.Hub_Portal_Default.description = Portal que te teletransporta a la Generación de Exploración, utilizado en el Centro Creativo - Portal that teleports you to Exploration Worldgen, used in the Creative Hub
+items.Hub_Portal_Default.description = Portal que te teletransporta a la Generación de Exploración, utilizado en el Centro Creativo
 items.Hub_Portal_Flat.name = Portal de Generación Plana - Flat Worldgen Portal
-items.Hub_Portal_Flat.description = Portal que te teletransporta a la Generación Plana, utilizado en el Centro Creativo - Portal that teleports you to Flat Worldgen, used in the Creative Hub
+items.Hub_Portal_Flat.description = Portal que te teletransporta a la Generación Plana, utilizado en el Centro Creativo
 items.Instance_Gateway.name = Puerta de Instancia - Instance Gateway
-items.Instance_Gateway.description = Una puerta que te permite viajar a diferentes instancias. Interactúa con ella para configurar el destino. - A gateway that allows you to travel to different instances. Interact with it to configure the destination.
+items.Instance_Gateway.description = Una puerta que te permite viajar a diferentes instancias. Interactúa con ella para configurar el destino.
 items.Portal_Return.name = Portal de Regreso - Return Portal
-items.Portal_Return.description = ¡Este es tu camino de salida de un Fragmento! - This is your way out of a Fragment!
+items.Portal_Return.description = ¡Este es tu camino de salida de un Fragmento!
 items.VoidInvasion_Portal.name = Portal de Invasión del Vacío - Void Invasion Portal
-items.VoidInvasion_Portal.description = Bloque de utilidad para invasiones del vacío dentro de Fragmentos. - Utility block for void invasions within Fragments.
+items.VoidInvasion_Portal.description = Bloque de utilidad para invasiones del vacío dentro de Fragmentos.
 items.Potion_Antidote.name = Antídoto - Antidote
-items.Potion_Antidote.description = Cura el veneno y otorga inmunidad temporal. - Cures poison and grants temporary immunity.
+items.Potion_Antidote.description = Cura el veneno y otorga inmunidad temporal.
 items.Potion_Empty.name = Botella de Poción Vacía - Empty Potion Bottle
-items.Potion_Empty.description = Se puede obtener fundiendo arena en un <item is="Bench_Furnace"/>. - Can be acquired by smelting sand in a <item is="Bench_Furnace"/>.
+items.Potion_Empty.description = Se puede obtener fundiendo arena en un <item is="Bench_Furnace"/>.
 items.Potion_Empty_Large.name = Botella de Poción Grande - Large Potion Bottle
 items.Potion_Empty_Small.name = Botella de Poción Pequeña - Small Potion Bottle
 items.Potion_Health.name = Poción de Salud - Potion of Health
@@ -5279,17 +5279,17 @@ items.Potion_Stamina.name = Poción de Resistencia - Potion of Stamina
 items.Potion_Stamina_Large.name = Poción Grande de Resistencia - Large Potion of Stamina
 items.Potion_Stamina_Small.name = Poción Pequeña de Resistencia - Small Potion of Stamina
 items.Potion_Health_Lesser.name = [TMP] Poción de Salud Menor - [TMP] Lesser Health Potion
-items.Potion_Health_Lesser.description = [TMP] Restaura el 15% de salud instantáneamente y otro 30% después de 5 segundos. El efecto se elimina al recibir daño. - [TMP] Restores 15% health instantly and another 30% after 5 seconds. Effect is removed when taking damage.
+items.Potion_Health_Lesser.description = [TMP] Restaura el 15% de salud instantáneamente y otro 30% después de 5 segundos. El efecto se elimina al recibir daño.
 items.Potion_Health_Greater.name = [TMP] Poción de Salud Mayor - [TMP] Greater Health Potion
-items.Potion_Health_Greater.description = [TMP] Restaura el 25% de salud instantáneamente y otro 50% después de 5 segundos. El efecto se elimina al recibir daño. - [TMP] Restores 25% health instantly and another 50% after 5 seconds. Effect is removed when taking damage.
+items.Potion_Health_Greater.description = [TMP] Restaura el 25% de salud instantáneamente y otro 50% después de 5 segundos. El efecto se elimina al recibir daño.
 items.Potion_Stamina_Lesser.name = [TMP] Poción de Resistencia Menor - [TMP] Lesser Stamina Potion
-items.Potion_Stamina_Lesser.description = [TMP] Restaura el 50% de resistencia instantáneamente. - [TMP] Restores 50% stamina instantly.
+items.Potion_Stamina_Lesser.description = [TMP] Restaura el 50% de resistencia instantáneamente.
 items.Potion_Stamina_Greater.name = [TMP] Poción de Resistencia Mayor - [TMP] Greater Stamina Potion
-items.Potion_Stamina_Greater.description = [TMP] Restaura el 100% de resistencia instantáneamente. - [TMP] Restores 100% stamina instantly.
+items.Potion_Stamina_Greater.description = [TMP] Restaura el 100% de resistencia instantáneamente.
 items.Potion_Signature_Lesser.name = [TMP] Poción de Energía Menor - [TMP] Lesser Energy Potion
-items.Potion_Signature_Lesser.description = [TMP] Genera el 40% de energía de firma de arma en 30 segundos. - [TMP] Generates 40% weapon signature energy over 30 seconds.
+items.Potion_Signature_Lesser.description = [TMP] Genera el 40% de energía de firma de arma en 30 segundos.
 items.Potion_Signature_Greater.name = [TMP] Poción de Energía Mayor - [TMP] Greater Energy Potion
-items.Potion_Signature_Greater.description = [TMP] Genera el 80% de energía de firma de arma en 30 segundos. - [TMP] Generates 80% weapon signature energy over 30 seconds.
+items.Potion_Signature_Greater.description = [TMP] Genera el 80% de energía de firma de arma en 30 segundos.
 items.Prefab_Spawner_Block.name = Generador Prefab - Prefab Spawner
 items.Prototype_Ancient_Sign_Hanging.name = Prototipo - Cartel Colgante Antiguo - Prototype - Ancient Hanging Sign
 items.Prototype_Bookshelf_Bottom_Edge.name = Prototipo - Estantería - Borde Inferior - Prototype - Bookshelf - Bottom Edge
@@ -5422,7 +5422,7 @@ items.Recipe_Plant_Seeds_Mana2.name = Receta: Semilla de Hongo Azurecap - Recipe
 items.Recipe_Plant_Seeds_Mana3.name = Receta: Semilla de Alga Azure - Recipe: Azure Kelp Seed
 items.Rock_Aqua.name = Piedra Aqua - Aqua Stone
 items.Rock_Aqua_Brick.name = Ladrillo Aqua - Aqua Brick
-items.Rock_Aqua_Brick_Beam.name = Pilares de Ladrillo Aqua - Aqua Brick Beam
+items.Rock_Aqua_Brick_Beam.name = Pilar de Ladrillo Aqua - Aqua Brick Beam
 items.Rock_Aqua_Brick_Decorative.name = Ladrillo Aqua - Decorativo - Aqua Brick - Decorative
 items.Rock_Aqua_Brick_Half.name = Loseta Media de Ladrillo Aqua - Aqua Brick Half Slab
 items.Rock_Aqua_Brick_Ornate.name = Ladrillo Aqua - Ornamental - Aqua Brick - Ornate
@@ -5438,7 +5438,7 @@ items.Rock_Aqua_Brick_Smooth_Half.name = Loseta Media de Ladrillo Aqua - Lisa - 
 items.Rock_Aqua_Brick_Stairs.name = Escaleras de Ladrillo Aqua - Aqua Brick Stairs
 items.Rock_Aqua_Brick_Wall.name = Pared de Ladrillo Aqua - Aqua Brick Wall
 items.Rock_Aqua_Cobble.name = Piedra Aqua - Aqua Cobble
-items.Rock_Aqua_Cobble_Beam.name = Pilares de Piedra Aqua - Aqua Cobble Beam
+items.Rock_Aqua_Cobble_Beam.name = Pilar de Piedra Aqua - Aqua Cobble Beam
 items.Rock_Aqua_Cobble_Half.name = Loseta Media de Piedra Aqua - Aqua Cobble Half Slab
 items.Rock_Aqua_Cobble_Roof.name = Techo de Piedra Aqua - Aqua Cobble Roof
 items.Rock_Aqua_Cobble_Roof_Flat.name = Techo de Piedra Aqua - Plano - Aqua Cobble Roof - Flat
@@ -5451,7 +5451,7 @@ items.Rock_Aqua_Stalactite_Large.name = Estalactita Aqua - Aqua Stalactite
 items.Rock_Aqua_Stalactite_Small.name = Estalactita Aqua - Pequeña - Aqua Stalactite - Small
 items.Rock_Basalt.name = Basalto - Basalt
 items.Rock_Basalt_Brick.name = Ladrillo de Basalto - Basalt Brick
-items.Rock_Basalt_Brick_Beam.name = Pilares de Ladrillo de Basalto - Basalt Brick Beam
+items.Rock_Basalt_Brick_Beam.name = Pilar de Ladrillo de Basalto - Basalt Brick Beam
 items.Rock_Basalt_Brick_Decorative.name = Ladrillo de Basalto - Decorativo - Basalt Brick - Decorative
 items.Rock_Basalt_Brick_Half.name = Loseta Media de Ladrillo de Basalto - Basalt Brick Half Slab
 items.Rock_Basalt_Brick_Ornate.name = Ladrillo de Basalto - Ornamental - Basalt Brick - Ornate
@@ -5467,7 +5467,7 @@ items.Rock_Basalt_Brick_Smooth_Half.name = Loseta Media de Ladrillo de Basalto -
 items.Rock_Basalt_Brick_Stairs.name = Escaleras de Ladrillo de Basalto - Basalt Brick Stairs
 items.Rock_Basalt_Brick_Wall.name = Pared de Ladrillo de Basalto - Basalt Brick Wall
 items.Rock_Basalt_Cobble.name = Piedra de Basalto - Basalt Cobble
-items.Rock_Basalt_Cobble_Beam.name = Pilares de Piedra de Basalto - Basalt Cobble Beam
+items.Rock_Basalt_Cobble_Beam.name = Pilar de Piedra de Basalto - Basalt Cobble Beam
 items.Rock_Basalt_Cobble_Half.name = Loseta Media de Piedra de Basalto - Basalt Cobble Half Slab
 items.Rock_Basalt_Cobble_Roof.name = Techo de Piedra de Basalto - Basalt Cobble Roof
 items.Rock_Basalt_Cobble_Roof_Flat.name = Techo de Piedra de Basalto - Plano - Basalt Cobble Roof - Flat
@@ -5481,7 +5481,7 @@ items.Rock_Basalt_Stalactite_Small.name = Estalactita de Basalto - Pequeña - Ba
 items.Rock_Bedrock.name = Roca Madre - Bedrock
 items.Rock_Calcite.name = Calcita - Calcite
 items.Rock_Calcite_Brick.name = Ladrillo de Calcita - Calcite Brick
-items.Rock_Calcite_Brick_Beam.name = Pilares de Ladrillo de Calcita - Calcite Brick Beam
+items.Rock_Calcite_Brick_Beam.name = Pilar de Ladrillo de Calcita - Calcite Brick Beam
 items.Rock_Calcite_Brick_Decorative.name = Ladrillo de Calcita - Decorativo - Calcite Brick - Decorative
 items.Rock_Calcite_Brick_Half.name = Loseta Media de Ladrillo de Calcita - Calcite Brick Half Slab
 items.Rock_Calcite_Brick_Ornate.name = Ladrillo de Calcita - Ornamental - Calcite Brick - Ornate
@@ -5497,7 +5497,7 @@ items.Rock_Calcite_Brick_Smooth_Half.name = Loseta Media de Ladrillo de Calcita 
 items.Rock_Calcite_Brick_Stairs.name = Escaleras de Ladrillo de Calcita - Calcite Brick Stairs
 items.Rock_Calcite_Brick_Wall.name = Pared de Ladrillo de Calcita - Calcite Brick Wall
 items.Rock_Calcite_Cobble.name = Piedra de Calcita - Calcite Cobble
-items.Rock_Calcite_Cobble_Beam.name = Pilares de Piedra de Calcita - Calcite Cobble Beam
+items.Rock_Calcite_Cobble_Beam.name = Pilar de Piedra de Calcita - Calcite Cobble Beam
 items.Rock_Calcite_Cobble_Half.name = Loseta Media de Piedra de Calcita - Calcite Cobble Half Slab
 items.Rock_Calcite_Cobble_Roof.name = Techo de Piedra de Calcita - Calcite Cobble Roof
 items.Rock_Calcite_Cobble_Roof_Flat.name = Techo de Piedra de Calcita - Plano - Calcite Cobble Roof - Flat
@@ -5543,14 +5543,14 @@ items.Rock_Crystal_Yellow_Medium.name = Cristal Amarillo - Mediano - Yellow Crys
 items.Rock_Crystal_Yellow_Small.name = Cristal Amarillo - Pequeño - Yellow Crystal - Small
 items.Rock_Gem_Diamond.name = Diamante - Diamond
 items.Rock_Gem_Emerald.name = Esmeralda - Emerald
-items.Rock_Gem_Emerald.description = <i>Los corazones de los poderosos Golems a menudo están formados por estas gemas. Los arcanistas alguna vez buscaron la ayuda de excavadores más industriales para localizar ricos bolsillos en las profundidades de la tierra.</i> - <i>The hearts of mighty Golems are often formed of these gemstones. Arcanists once sought the aid of more industrial diggers to locate rich pockets deep underground.</i>
+items.Rock_Gem_Emerald.description = <i>Los corazones de los poderosos Golems a menudo están formados por estas gemas. Los arcanistas alguna vez buscaron la ayuda de excavadores más industriales para localizar ricos bolsillos en las profundidades de la tierra.</i>
 items.Rock_Gem_Ruby.name = Rubí - Ruby
 items.Rock_Gem_Sapphire.name = Zafiro - Sapphire
 items.Rock_Gem_Topaz.name = Topacio - Topaz
 items.Rock_Gem_Voidstone.name = Piedra del Vacío - Voidstone
 items.Rock_Gem_Zephyr.name = Céfiro - Zephyr
 items.Rock_Gold_Brick.name = Ladrillo de Oro - Gold Brick
-items.Rock_Gold_Brick_Beam.name = Pilares de Ladrillo de Oro - Gold Brick Beam
+items.Rock_Gold_Brick_Beam.name = Pilar de Ladrillo de Oro - Gold Brick Beam
 items.Rock_Gold_Brick_Decorative.name = Ladrillo de Oro - Decorativo - Gold Brick - Decorative
 items.Rock_Gold_Brick_Half.name = Loseta Media de Ladrillo de Oro - Gold Brick Half Slab
 items.Rock_Gold_Brick_Ornate.name = Ladrillo de Oro - Ornamental - Gold Brick - Ornate
@@ -5573,7 +5573,7 @@ items.Rock_Magma_Cooled.name = Magma Enfriado - Cooled Magma
 items.Rock_Magma_Cooled_Half.name = Loseta Media de Magma Enfriado - Cooled Magma Half Slab
 items.Rock_Marble.name = Mármol - Marble
 items.Rock_Marble_Brick.name = Ladrillo de Mármol - Marble Brick
-items.Rock_Marble_Brick_Beam.name = Pilares de Ladrillo de Mármol - Marble Brick Beam
+items.Rock_Marble_Brick_Beam.name = Pilar de Ladrillo de Mármol - Marble Brick Beam
 items.Rock_Marble_Brick_Decorative.name = Ladrillo de Mármol - Decorativo - Marble Brick - Decorative
 items.Rock_Marble_Brick_Half.name = Loseta Media de Ladrillo de Mármol - Marble Brick Half Slab
 items.Rock_Marble_Brick_Ornate.name = Ladrillo de Mármol - Ornamental - Marble Brick - Ornate
@@ -5589,7 +5589,7 @@ items.Rock_Marble_Brick_Smooth_Half.name = Loseta Media de Ladrillo de Mármol -
 items.Rock_Marble_Brick_Stairs.name = Escaleras de Ladrillo de Mármol - Marble Brick Stairs
 items.Rock_Marble_Brick_Wall.name = Pared de Ladrillo de Mármol - Marble Brick Wall
 items.Rock_Marble_Cobble.name = Piedra de Mármol - Marble Cobble
-items.Rock_Marble_Cobble_Beam.name = Pilares de Piedra de Mármol - Marble Cobble Beam
+items.Rock_Marble_Cobble_Beam.name = Pilar de Piedra de Mármol - Marble Cobble Beam
 items.Rock_Marble_Cobble_Half.name = Loseta Media de Piedra de Mármol - Marble Cobble Half Slab
 items.Rock_Marble_Cobble_Roof.name = Techo de Piedra de Mármol - Marble Cobble Roof
 items.Rock_Marble_Cobble_Roof_Flat.name = Techo de Piedra de Mármol - Plano - Marble Cobble Roof - Flat
@@ -5602,7 +5602,7 @@ items.Rock_Marble_Stalactite_Large.name = Estalactita de Mármol - Grande - Marb
 items.Rock_Marble_Stalactite_Small.name = Estalactita de Mármol - Pequeña - Marble Stalactite - Small
 items.Rock_Quartzite.name = Cuarcita - Quartzite
 items.Rock_Quartzite_Brick.name = Ladrillo de Cuarcita - Quartzite Brick
-items.Rock_Quartzite_Brick_Beam.name = Pilares de Ladrillo de Cuarcita - Quartzite Brick Beam
+items.Rock_Quartzite_Brick_Beam.name = Pilar de Ladrillo de Cuarcita - Quartzite Brick Beam
 items.Rock_Quartzite_Brick_Decorative.name = Ladrillo de Cuarcita - Decorativo - Quartzite Brick - Decorative
 items.Rock_Quartzite_Brick_Half.name = Loseta Media de Ladrillo de Cuarcita - Quartzite Brick Half Slab
 items.Rock_Quartzite_Brick_Ornate.name = Ladrillo de Cuarcita - Ornamental - Quartzite Brick - Ornate
@@ -5618,7 +5618,7 @@ items.Rock_Quartzite_Brick_Smooth_Half.name = Loseta Media de Ladrillo de Cuarci
 items.Rock_Quartzite_Brick_Stairs.name = Escaleras de Ladrillo de Cuarcita - Quartzite Brick Stairs
 items.Rock_Quartzite_Brick_Wall.name = Pared de Ladrillo de Cuarcita - Quartzite Brick Wall
 items.Rock_Quartzite_Cobble.name = Piedra de Cuarcita - Quartzite Cobble
-items.Rock_Quartzite_Cobble_Beam.name = Pilares de Piedra de Cuarcita - Quartzite Cobble Beam
+items.Rock_Quartzite_Cobble_Beam.name = Pilar de Piedra de Cuarcita - Quartzite Cobble Beam
 items.Rock_Quartzite_Cobble_Half.name = Loseta Media de Piedra de Cuarcita - Quartzite Cobble Half Slab
 items.Rock_Quartzite_Cobble_Roof.name = Techo de Piedra de Cuarcita - Quartzite Cobble Roof
 items.Rock_Quartzite_Cobble_Roof_Flat.name = Techo de Piedra de Cuarcita - Plano - Quartzite Cobble Roof - Flat
@@ -5631,7 +5631,7 @@ items.Rock_Quartzite_Stalactite_Large.name = Estalactita de Cuarcita - Grande - 
 items.Rock_Quartzite_Stalactite_Small.name = Estalactita de Cuarcita - Pequeña - Quartzite Stalactite - Small
 items.Rock_Sandstone.name = Arenisca - Sandstone
 items.Rock_Sandstone_Brick.name = Ladrillo de Arenisca - Sandstone Brick
-items.Rock_Sandstone_Brick_Beam.name = Pilares de Ladrillo de Arenisca - Sandstone Brick Beam
+items.Rock_Sandstone_Brick_Beam.name = Pilar de Ladrillo de Arenisca - Sandstone Brick Beam
 items.Rock_Sandstone_Brick_Decorative.name = Ladrillo de Arenisca - Decorativo - Sandstone Brick - Decorative
 items.Rock_Sandstone_Brick_Half.name = Loseta Media de Ladrillo de Arenisca - Sandstone Brick Half Slab
 items.Rock_Sandstone_Brick_Ornate.name = Ladrillo de Arenisca - Ornamental - Sandstone Brick - Ornate
@@ -5647,7 +5647,7 @@ items.Rock_Sandstone_Brick_Smooth_Half.name = Loseta Media de Ladrillo de Arenis
 items.Rock_Sandstone_Brick_Stairs.name = Escaleras de Ladrillo de Arenisca - Sandstone Brick Stairs
 items.Rock_Sandstone_Brick_Wall.name = Pared de Ladrillo de Arenisca - Sandstone Brick Wall
 items.Rock_Sandstone_Cobble.name = Piedra de Arenisca - Sandstone Cobble
-items.Rock_Sandstone_Cobble_Beam.name = Pilares de Piedra de Arenisca - Sandstone Cobble Beam
+items.Rock_Sandstone_Cobble_Beam.name = Pilar de Piedra de Arenisca - Sandstone Cobble Beam
 items.Rock_Sandstone_Cobble_Half.name = Loseta Media de Piedra de Arenisca - Sandstone Cobble Half Slab
 items.Rock_Sandstone_Cobble_Roof.name = Techo de Piedra de Arenisca - Sandstone Cobble Roof
 items.Rock_Sandstone_Cobble_Roof_Flat.name = Techo de Piedra de Arenisca - Plano - Sandstone Cobble Roof - Flat
@@ -5658,7 +5658,7 @@ items.Rock_Sandstone_Cobble_Stairs.name = Escaleras de Piedra de Arenisca - Sand
 items.Rock_Sandstone_Cobble_Wall.name = Pared de Piedra de Arenisca - Sandstone Cobble Wall
 items.Rock_Sandstone_Red.name = Arenisca Roja - Red Sandstone
 items.Rock_Sandstone_Red_Brick.name = Ladrillo de Arenisca Roja - Red Sandstone Brick
-items.Rock_Sandstone_Red_Brick_Beam.name = Pilares de Ladrillo de Arenisca Roja - Red Sandstone Brick Beam
+items.Rock_Sandstone_Red_Brick_Beam.name = Pilar de Ladrillo de Arenisca Roja - Red Sandstone Brick Beam
 items.Rock_Sandstone_Red_Brick_Decorative.name = Ladrillo de Arenisca Roja - Decorativo - Red Sandstone Brick - Decorative
 items.Rock_Sandstone_Red_Brick_Half.name = Loseta Media de Ladrillo de Arenisca Roja - Red Sandstone Brick Half Slab
 items.Rock_Sandstone_Red_Brick_Ornate.name = Ladrillo de Arenisca Roja - Ornamental - Red Sandstone Brick - Ornate
@@ -5674,7 +5674,7 @@ items.Rock_Sandstone_Red_Brick_Smooth_Half.name = Loseta Media de Ladrillo de Ar
 items.Rock_Sandstone_Red_Brick_Stairs.name = Escaleras de Ladrillo de Arenisca Roja - Red Sandstone Brick Stairs
 items.Rock_Sandstone_Red_Brick_Wall.name = Pared de Ladrillo de Arenisca Roja - Red Sandstone Brick Wall
 items.Rock_Sandstone_Red_Cobble.name = Piedra de Arenisca Roja - Red Sandstone Cobble
-items.Rock_Sandstone_Red_Cobble_Beam.name = Pilares de Piedra de Arenisca Roja - Red Sandstone Cobble Beam
+items.Rock_Sandstone_Red_Cobble_Beam.name = Pilar de Piedra de Arenisca Roja - Red Sandstone Cobble Beam
 items.Rock_Sandstone_Red_Cobble_Half.name = Loseta Media de Piedra de Arenisca Roja - Red Sandstone Cobble Half Slab
 items.Rock_Sandstone_Red_Cobble_Roof.name = Techo de Piedra de Arenisca Roja - Red Sandstone Cobble Roof
 items.Rock_Sandstone_Red_Cobble_Roof_Flat.name = Techo de Piedra de Arenisca Roja - Plano - Red Sandstone Cobble Roof - Flat
@@ -5689,7 +5689,7 @@ items.Rock_Sandstone_Stalactite_Large.name = Estalactita de Arenisca - Grande - 
 items.Rock_Sandstone_Stalactite_Small.name = Estalactita de Arenisca - Pequeña - Sandstone Stalactite - Small
 items.Rock_Sandstone_White.name = Arenisca Blanca - White Sandstone
 items.Rock_Sandstone_White_Brick.name = Ladrillo de Arenisca Blanca - White Sandstone Brick
-items.Rock_Sandstone_White_Brick_Beam.name = Pilares de Ladrillo de Arenisca Blanca - White Sandstone Brick Beam
+items.Rock_Sandstone_White_Brick_Beam.name = Pilar de Ladrillo de Arenisca Blanca - White Sandstone Brick Beam
 items.Rock_Sandstone_White_Brick_Decorative.name = Ladrillo de Arenisca Blanca - Decorativo - White Sandstone Brick - Decorative
 items.Rock_Sandstone_White_Brick_Half.name = Loseta Media de Ladrillo de Arenisca Blanca - White Sandstone Brick Half Slab
 items.Rock_Sandstone_White_Brick_Ornate.name = Ladrillo de Arenisca Blanca - Ornamental - White Sandstone Brick - Ornate
@@ -5705,7 +5705,7 @@ items.Rock_Sandstone_White_Brick_Smooth_Half.name = Loseta de Ladrillo de Arenis
 items.Rock_Sandstone_White_Brick_Stairs.name = Escaleras de Ladrillo de Arenisca Blanca - White Sandstone Brick Stairs
 items.Rock_Sandstone_White_Brick_Wall.name = Pared de Arenisca Blanca - White Sandstone Wall
 items.Rock_Sandstone_White_Cobble.name = Piedra de Arenisca Blanca - White Sandstone Cobble
-items.Rock_Sandstone_White_Cobble_Beam.name = Pilares de Piedra de Arenisca Blanca - White Sandstone Cobble Beam
+items.Rock_Sandstone_White_Cobble_Beam.name = Pilar de Piedra de Arenisca Blanca - White Sandstone Cobble Beam
 items.Rock_Sandstone_White_Cobble_Half.name = Loseta de Piedra de Arenisca Blanca - White Sandstone Cobble Half Slab
 items.Rock_Sandstone_White_Cobble_Roof.name = Techo de Piedra de Arenisca Blanca - White Sandstone Cobble Roof
 items.Rock_Sandstone_White_Cobble_Roof_Flat.name = Techo de Piedra de Arenisca Blanca - Plano - White Sandstone Cobble Roof - Flat
@@ -5718,7 +5718,7 @@ items.Rock_Sandstone_White_Stalactite_Large.name = Estalactita de Arenisca Blanc
 items.Rock_Sandstone_White_Stalactite_Small.name = Estalactita de Arenisca Blanca - Pequeña - White Sandstone Stalactite - Small
 items.Rock_Shale.name = Pizarra - Shale
 items.Rock_Shale_Brick.name = Ladrillo de Pizarra - Shale Brick
-items.Rock_Shale_Brick_Beam.name = Pilares de Ladrillo de Pizarra - Shale Brick Beam
+items.Rock_Shale_Brick_Beam.name = Pilar de Ladrillo de Pizarra - Shale Brick Beam
 items.Rock_Shale_Brick_Decorative.name = Ladrillo de Pizarra - Decorativo - Shale Brick - Decorative
 items.Rock_Shale_Brick_Half.name = Loseta de Ladrillo de Pizarra - Shale Brick Half Slab
 items.Rock_Shale_Brick_Ornate.name = Ladrillo de Pizarra - Ornamental - Shale Brick - Ornate
@@ -5734,7 +5734,7 @@ items.Rock_Shale_Brick_Smooth_Half.name = Loseta de Ladrillo de Pizarra - Lisa -
 items.Rock_Shale_Brick_Stairs.name = Escaleras de Ladrillo de Pizarra - Shale Brick Stairs
 items.Rock_Shale_Brick_Wall.name = Pared de Ladrillo de Pizarra - Shale Brick Wall
 items.Rock_Shale_Cobble.name = Piedra Pizarra - Shale Cobble
-items.Rock_Shale_Cobble_Beam.name = Pilares de Piedra Pizarra - Shale Cobble Beam
+items.Rock_Shale_Cobble_Beam.name = Pilar de Piedra Pizarra - Shale Cobble Beam
 items.Rock_Shale_Cobble_Half.name = Loseta de Piedra Pizarra - Shale Cobble Half Slab
 items.Rock_Shale_Cobble_Roof.name = Techo de Piedra Pizarra - Shale Cobble Roof
 items.Rock_Shale_Cobble_Roof_Flat.name = Techo de Piedra Pizarra - Plano - Shale Cobble Roof - Flat
@@ -5749,7 +5749,7 @@ items.Rock_Slate.name = Estalactita de Pizarra - Pequeña - Slate
 items.Rock_Slate_Cobble.name = Piedra - Slate Cobble
 items.Rock_Slate_Cobble_Beam.name = Loseta de Ladrillo de Piedra Aqua - Lisa - Slate Cobble Beam
 items.Rock_Slate_Cobble_Half.name = Ladrillo de Piedra - Slate Cobble Half Slab
-items.Rock_Slate_Cobble_Roof.name = escombros de Ladrillo de Piedra - Slate Cobble Roof
+items.Rock_Slate_Cobble_Roof.name = Techo de Ladrillo de Piedra - Slate Cobble Roof
 items.Rock_Slate_Cobble_Roof_Flat.name = Ladrillo de Piedra - Decorativo - Slate Cobble Roof - Flat
 items.Rock_Slate_Cobble_Roof_Hollow.name = Loseta de Ladrillo de Piedra - Slate Cobble Roof - Hollow
 items.Rock_Slate_Cobble_Roof_Shallow.name = Ladrillo de Piedra - Musgoso - Slate Cobble Roof - Shallow
@@ -5768,7 +5768,7 @@ items.Rock_Stone_Brick_Decorative.name = Escaleras de Ladrillo de Piedra - Stone
 items.Rock_Stone_Brick_Half.name = Pared de Ladrillo de Piedra - Stone Brick Half Slab
 items.Rock_Stone_Brick_Mossy.name = Piedra de Adoquín - Stone Brick - Mossy
 items.Rock_Stone_Brick_Ornate.name = Adoquín - Esquina - Stone Brick - Ornate
-items.Rock_Stone_Brick_Pillar_Base.name = escombros de Adoquín - Stone Brick Pillar - Base
+items.Rock_Stone_Brick_Pillar_Base.name = Viga de Adoquín - Stone Brick Pillar - Base
 items.Rock_Stone_Brick_Pillar_Middle.name = Loseta de Adoquín - Stone Brick Pillar - Middle
 items.Rock_Stone_Brick_Roof.name = Adoquín Musgoso - Stone Brick Roof
 items.Rock_Stone_Brick_Roof_Flat.name = Loseta de Adoquín Musgoso - Stone Brick Roof - Flat
@@ -5783,9 +5783,9 @@ items.Rock_Stone_Cobble.name = Piedra Musgosa - Cobblestone
 items.Rock_Stone_Cobble_Corner.name = Estalactita de Piedra - Grande - Cobblestone - Corner
 items.Rock_Stone_Cobble_Beam.name = Estalactita de Piedra - Pequeña - Cobblestone Beam
 items.Rock_Stone_Cobble_Half.name = Roca Volcánica - Cobblestone Half Slab
-items.Rock_Stone_Cobble_Mossy.name = escombros de Roca Volcánica - Mossy Cobblestone
+items.Rock_Stone_Cobble_Mossy.name = Viga de Roca Volcánica - Mossy Cobblestone
 items.Rock_Stone_Cobble_Mossy_Half.name = Ladrillo Volcánico - Mossy Cobblestone Half Slab
-items.Rock_Stone_Cobble_Roof.name = escombros de Ladrillo Volcánico - Cobblestone Roof
+items.Rock_Stone_Cobble_Roof.name = Techo de Ladrillo Volcánico - Cobblestone Roof
 items.Rock_Stone_Cobble_Roof_Flat.name = Ladrillo Volcánico - Decorativo - Cobblestone Roof - Flat
 items.Rock_Stone_Cobble_Roof_Hollow.name = Loseta de Ladrillo Volcánico - Cobblestone Roof - Hollow
 items.Rock_Stone_Cobble_Roof_Shallow.name = Ladrillo Volcánico - Ornamental - Cobblestone Roof - Shallow
@@ -5801,7 +5801,7 @@ items.Rock_Volcanic_Brick.name = Loseta de Ladrillo Volcánico - Lisa - Volcanic
 items.Rock_Volcanic_Brick_Beam.name = Escaleras de Ladrillo Volcánico - Volcanic Brick Beam
 items.Rock_Volcanic_Brick_Decorative.name = Pared de Ladrillo Volcánico - Volcanic Brick - Decorative
 items.Rock_Volcanic_Brick_Half.name = Adoquín Volcánico - Volcanic Brick Half Slab
-items.Rock_Volcanic_Brick_Ornate.name = escombros de Adoquín Volcánico - Volcanic Brick - Ornate
+items.Rock_Volcanic_Brick_Ornate.name = Viga de Adoquín Volcánico - Volcanic Brick - Ornate
 items.Rock_Volcanic_Brick_Pillar_Base.name = Loseta de Adoquín Volcánico - Volcanic Brick Pillar - Base
 items.Rock_Volcanic_Brick_Pillar_Middle.name = Techo de Adoquín Volcánico - Volcanic Brick Pillar - Middle
 items.Rock_Volcanic_Brick_Roof.name = Techo de Adoquín Volcánico - Plano - Volcanic Brick Roof
@@ -5830,45 +5830,45 @@ items.Rock_Volcanic_Half.name = Escombros de Mármol - Medianos - Volcanic Rock 
 items.Rock_Volcanic_Stalactite_Large.name = Escombros de Cuarcita - Volcanic Stalactite - Large
 items.Rock_Volcanic_Stalactite_Small.name = Escombros de Cuarcita - Medianos - Volcanic Stalactite - Small
 items.Rubble_Aqua.name = Escombros de Arenisca - Aqua Rubble
-items.Rubble_Aqua.description = Escombros de Arenisca - Medianos - [TMP] Can also be acquired by breaking down cobble in a <item is="Bench_Salvage"/>.
+items.Rubble_Aqua.description = Escombros de Arenisca - Medianos
 items.Rubble_Aqua_Medium.name = Escombros de Arenisca Roja - Aqua Rubble - Medium
 items.Rubble_Basalt.name = Escombros de Arenisca Roja - Medianos - Basalt Rubble
-items.Rubble_Basalt.description = Escombros de Arenisca - Medianos - [TMP] Can also be acquired by breaking down cobble in a <item is="Bench_Salvage"/>.
+items.Rubble_Basalt.description = Escombros de Arenisca - Medianos
 items.Rubble_Basalt_Medium.name = Escombros de Arenisca Blanca - Basalt Rubble - Medium
 items.Rubble_Calcite.name = Escombros de Arenisca Blanca - Medianos - Calcite Rubble
-items.Rubble_Calcite.description = Escombros de Arenisca - Medianos - [TMP] Can also be acquired by breaking down cobble in a <item is="Bench_Salvage"/>.
+items.Rubble_Calcite.description = Escombros de Arenisca - Medianos
 items.Rubble_Calcite_Medium.name = Escombros de Shale - Calcite Rubble - Medium
 items.Rubble_Ice.name = Escombros de Shale - Medianos - Ice Chunks
 items.Rubble_Ice_Medium.name = Escombros de Pizarra - Ice Chunks - Medium
 items.Rubble_Marble.name = Escombros de Pizarra - Medianos - Marble Rubble
-items.Rubble_Marble.description = Escombros de Arenisca - Medianos - [TMP] Can also be acquired by breaking down cobble in a <item is="Bench_Salvage"/>.
+items.Rubble_Marble.description = Escombros de Arenisca - Medianos
 items.Rubble_Marble_Medium.name = Escombros de Piedra - Marble Rubble - Medium
 items.Rubble_Quartzite.name = Escombros de Piedra - Medianos - Quartzite Rubble
-items.Rubble_Quartzite.description = Escombros de Arenisca - Medianos - [TMP] Can also be acquired by breaking down cobble in a <item is="Bench_Salvage"/>.
+items.Rubble_Quartzite.description = Escombros de Arenisca - Medianos
 items.Rubble_Quartzite_Medium.name = Escombros de Piedra Musgosa - Quartzite Rubble - Medium
 items.Rubble_Sandstone.name = Escombros de Piedra Musgosa - Medianos - Sandstone Rubble
-items.Rubble_Sandstone.description = Escombros de Arenisca - Medianos - [TMP] Can also be acquired by breaking down cobble in a <item is="Bench_Salvage"/>.
+items.Rubble_Sandstone.description = Escombros de Arenisca - Medianos
 items.Rubble_Sandstone_Medium.name = Escombros Volcánicos - Sandstone Rubble - Medium
 items.Rubble_Sandstone_Red.name = Escombros Volcánicos - Medianos - Red Sandstone Rubble
-items.Rubble_Sandstone_Red.description = Escombros de Arenisca - Medianos - [TMP] Can also be acquired by breaking down cobble in a <item is="Bench_Salvage"/>.
+items.Rubble_Sandstone_Red.description = Escombros de Arenisca - Medianos
 items.Rubble_Sandstone_Red_Medium.name = Suelo Ceniciento - Red Sandstone Rubble - Medium
 items.Rubble_Sandstone_White.name = Arcilla - White Sandstone Rubble
-items.Rubble_Sandstone_White.description = Escombros de Arenisca - Medianos - [TMP] Can also be acquired by breaking down cobble in a <item is="Bench_Salvage"/>.
+items.Rubble_Sandstone_White.description = Escombros de Arenisca - Medianos
 items.Rubble_Sandstone_White_Medium.name = Arcilla Negra - White Sandstone Rubble - Medium
-items.Rubble_Shale.name = Arcilla Azul - Shale Rubble
-items.Rubble_Shale.description = Escombros de Arenisca - Medianos - [TMP] Can also be acquired by breaking down cobble in a <item is="Bench_Salvage"/>.
+items.Rubble_Shale.name = Escombros de Arcilla Azul - Shale Rubble
+items.Rubble_Shale.description = Escombros de Arenisca - Medianos
 items.Rubble_Shale_Medium.name = Arcilla Negra - Lisa - Shale Rubble - Medium
-items.Rubble_Slate.name = Arcilla Azul - Lisa - Slate Rubble
-items.Rubble_Slate.description = Escombros de Arenisca - Medianos - [TMP] Can also be acquired by breaking down cobble in a <item is="Bench_Salvage"/>.
+items.Rubble_Slate.name = Escombros de Arcilla Azul - Lisa - Slate Rubble
+items.Rubble_Slate.description = Escombros de Arenisca - Medianos
 items.Rubble_Slate_Medium.name = Ladrillo de Arcilla - Slate Rubble - Medium
-items.Rubble_Stone.name = escombros de Ladrillo de Arcilla - Stone Rubble
-items.Rubble_Stone.description = Escombros de Arenisca - Medianos - [TMP] Can also be acquired by breaking down cobble in a <item is="Bench_Salvage"/>.
+items.Rubble_Stone.name = Escombros de Ladrillo de Arcilla - Stone Rubble
+items.Rubble_Stone.description = Escombros de Arenisca - Medianos
 items.Rubble_Stone_Medium.name = Loseta de Ladrillo de Arcilla - Stone Rubble - Medium
 items.Rubble_Stone_Mossy.name = Escaleras de Ladrillo de Arcilla - Mossy Stone Rubble
 items.Rubble_Stone_Mossy_Medium.name = Pared de Ladrillo de Arcilla - Mossy Stone Rubble - Medium
-items.Rubble_Volcanic.name = Arcilla Cian - Volcanic Rubble
-items.Rubble_Volcanic.description = Escombros de Arenisca - Medianos - [TMP] Can also be acquired by breaking down cobble in a <item is="Bench_Salvage"/>.
-items.Rubble_Volcanic_Medium.name = Arcilla Verde - Volcanic Rubble - Medium
+items.Rubble_Volcanic.name = Escombros Volcanicos - Volcanic Rubble
+items.Rubble_Volcanic.description = Escombros de Arenisca - Medianos
+items.Rubble_Volcanic_Medium.name = Arcilla Volcanicos - Medianos - Volcanic Rubble - Medium
 items.Soil_Ash.name = Arcilla Gris - Ashen Soil
 items.Soil_Clay.name = Arcilla Caliza - Clay
 items.Soil_Clay_Black.name = Arcilla Cian - Lisa - Black Clay
@@ -5877,7 +5877,7 @@ items.Soil_Clay_Smooth_Black.name = Arcilla Gris - Lisa - Black Clay - Smooth
 items.Soil_Clay_Smooth_Blue.name = Arcilla Caliza - Lisa - Blue Clay - Smooth
 items.Soil_Clay_Brick.name = Arcilla Oceánica - Clay Brick
 items.Soil_Clay_Brick_Beam.name = Ladrillo de Arcilla Oceánica - Clay Brick Beam
-items.Soil_Clay_Brick_Half.name = escombros de Ladrillo de Arcilla Oceánica - Clay Brick Half Slab
+items.Soil_Clay_Brick_Half.name = Viga de Ladrillo de Arcilla Oceánica - Clay Brick Half Slab
 items.Soil_Clay_Brick_Stairs.name = Arcilla Oceánica - Decorativa - Clay Brick Stairs
 items.Soil_Clay_Brick_Wall.name = Loseta de Ladrillo de Arcilla Oceánica - Clay Brick Wall
 items.Soil_Clay_Cyan.name = Ladrillo de Arcilla Oceánica - Ornamental - Cyan Clay
@@ -5947,7 +5947,7 @@ items.Soil_Gravel_Sand_White.name = Grava Arenosa Blanca - White Sandy Gravel
 items.Soil_Gravel_Sand_White_Half.name = Loseta de Grava Arenosa Blanca Media - White Sandy Gravel Half Slab
 items.Soil_Hive.name = Suelo de Colmena - Hive Soil
 items.Soil_Hive_Brick.name = Ladrillo de Colmena - Hive Brick
-items.Soil_Hive_Brick_Beam.name = Pilares de Ladrillo de Colmena - Hive Brick Beam
+items.Soil_Hive_Brick_Beam.name = Pilar de Ladrillo de Colmena - Hive Brick Beam
 items.Soil_Hive_Brick_Fence.name = Ladrillo de Colmena - Cerca - Hive Brick - Fence
 items.Soil_Hive_Brick_Half.name = Loseta de Ladrillo de Colmena - Hive Brick Half Slab
 items.Soil_Hive_Brick_Smooth.name = Ladrillo de Colmena - Lisa - Hive Brick - Smooth
@@ -5955,7 +5955,7 @@ items.Soil_Hive_Brick_Smooth_Half.name = Loseta de Ladrillo de Colmena - Lisa - 
 items.Soil_Hive_Brick_Stairs.name = Escaleras de Ladrillo de Colmena - Hive Brick Stairs
 items.Soil_Hive_Corrupted.name = Suelo de Colmena Corrompido - Corrupted Hive Soil
 items.Soil_Hive_Corrupted_Brick.name = Ladrillo de Colmena Corrompido - Corrupted Hive Brick
-items.Soil_Hive_Corrupted_Brick_Beam.name = Pilares de Ladrillo de Colmena Corrompido - Corrupted Hive Brick Beam
+items.Soil_Hive_Corrupted_Brick_Beam.name = Pilar de Ladrillo de Colmena Corrompido - Corrupted Hive Brick Beam
 items.Soil_Hive_Corrupted_Brick_Half.name = Loseta de Ladrillo de Colmena Corrompido - Corrupted Hive Brick Half Slab
 items.Soil_Hive_Corrupted_Brick_Smooth.name = Ladrillo de Colmena Corrompido - Lisa - Corrupted Hive Brick - Smooth
 items.Soil_Hive_Corrupted_Brick_Smooth_Half.name = Loseta de Ladrillo de Colmena Corrompido - Lisa - Corrupted Hive Brick Half Slab - Smooth
@@ -5979,7 +5979,7 @@ items.Soil_Sand_White_Path_Half.name = Loseta de Sendero de Arena Blanca - White
 items.Soil_Seaweed_Block.name = Bloque de Algas - Seaweed Block
 items.Soil_Snow.name = Nieve - Snow
 items.Soil_Snow_Brick.name = Ladrillo de Nieve - Snow Brick
-items.Soil_Snow_Brick_Beam.name = Pilares de Ladrillo de Nieve - Snow Brick Beam
+items.Soil_Snow_Brick_Beam.name = Pilar de Ladrillo de Nieve - Snow Brick Beam
 items.Soil_Snow_Brick_Half.name = Loseta de Ladrillo de Nieve - Snow Brick Half Slab
 items.Soil_Snow_Brick_Stairs.name = Escaleras de Ladrillo de Nieve - Snow Brick Stairs
 items.Soil_Snow_Brick_Wall.name = Pared de Ladrillo de Nieve - Snow Brick Wall
@@ -5992,7 +5992,7 @@ items.Survival_Trap_Spike_Iron.name = Trampa de Púas de Metal - Metal Spike Tra
 items.Survival_Trap_Spike_Wood.name = Trampa de Púas de Madera - Wooden Spike Trap
 items.Survival_Trap_Spike_Wood_Large.name = Trampa de Púas de Madera Grande - Large Wooden Spike Trap
 items.Sword_Signature_Test.name = ESPADA DE HIERRO DE PRUEBA - TEST Iron Sword
-items.Teleporter.description = Se conecta a otro teletransportador. Coloca dos para crear un enlace de teletransporte. - Connects to another teleporter. Place two to create a warp link.
+items.Teleporter.description = Se conecta a otro teletransportador. Coloca dos para crear un enlace de teletransporte.
 items.Memory_Particle.name = Memoria - Memory
 items.Template_Crop.name = Plantación de Plantas - Template Crop
 items.Template_Crop_Berry_Block.name = Arbusto de Bayas de Plantilla - Template Berry Bush
@@ -6011,7 +6011,7 @@ items.Template_Weapon_Mace.name = Maza de Plantilla - Template Mace
 items.Template_Weapon_Crossbow.name = Ballesta de Plantilla - Template Crossbow
 items.Template_Weapon_Shield.name = Escudo de Plantilla - Template Shield
 items.Template_Weapon_Battleaxe.name = Hacha de Batalla de Plantilla - Template Battleaxe
-items.Test_All_Rotation.description = Usado para probar el tipo de rotación "Todo". No es realmente una escalera. - Used to test the "All" Rotation Type. Not actually a stair.
+items.Test_All_Rotation.description = Usado para probar el tipo de rotación "Todo". No es realmente una escalera.
 items.Test_All_Rotation.name = Prototipo de Todas las Rotaciones - Prototype All Rotations
 items.Test_Backpack.name = Artículo de Mochila de Prueba - Test Backpack Item
 items.Test_Camera_Item.name = Artículo de Cámara de Prueba - Test Camera Item
@@ -6022,26 +6022,26 @@ items.Tinkering_Target_Dummy.name = Muñeco de Entrenamiento - Training Dummy
 items.Tool_Bark_Scraper.name = Raspador de Corteza - Bark Scraper
 items.Tool_Capture_Crate.name = Caja de Captura - Capture Crate
 items.Tool_Capture_Crate.nameFull = Caja de Captura ({npc}) - Capture Crate ({npc})
-items.Tool_Capture_Crate.description = Usado para capturar pequeños animales y llevarlos de vuelta a tu hogar. - Used to capture small animals in order to bring them back to your home.
+items.Tool_Capture_Crate.description = Usado para capturar pequeños animales y llevarlos de vuelta a tu hogar.
 items.Tool_Feedbag.name = Bolsa de Comida - Feed Bag
-items.Tool_Feedbag.description = [TMP] Una bolsa de alimento para animales, algunos animales podrían ser atraídos por esto. - [TMP] A bag of animal feed, some animals might be lured by this.
+items.Tool_Feedbag.description = [TMP] Una bolsa de alimento para animales, algunos animales podrían ser atraídos por esto.
 items.Tool_Fertilizer.name = Bolsa de Fertilizante - Fertilizer Bag
-items.Tool_Fertilizer.description = [TMP] Usado para fertilizar suelo labrado. Los cultivos fertilizados crecen <color is="#4ade80">2x</color> más rápido. - [TMP] Used to fertilize tilled soil. Fertilized crops grow <color is="#4ade80">2x</color> faster.
+items.Tool_Fertilizer.description = [TMP] Usado para fertilizar suelo labrado. Los cultivos fertilizados crecen <color is="#4ade80">2x</color> más rápido.
 items.Tool_Fishing_Trap.name = Trampa de Pesca - Fishing Trap
-items.Tool_Fishing_Trap.description = Colócala sobre el agua para atrapar peces con el tiempo. - Set up above water to catch fish over time.
+items.Tool_Fishing_Trap.description = Colócala sobre el agua para atrapar peces con el tiempo.
 items.Tool_Trap_Bait.name = Cebo de Pesca (Salvaje) - Fish Bait (Wild)
-items.Tool_Trap_Bait.description = Usa en una trampa de pesca para obtener peces de mayor calidad en menos tiempo. - Use on a fishing trap to yield higher quality fish in a shorter amount of time.
+items.Tool_Trap_Bait.description = Usa en una trampa de pesca para obtener peces de mayor calidad en menos tiempo.
 items.Tool_Growth_Potion.name = Poción de Etapa de Crecimiento - Growth Stage Potion
-items.Tool_Growth_Potion.description = Herramienta de desarrollador. Haz clic izquierdo para disminuir la etapa, clic derecho para aumentar la etapa. Funciona en cualquier bloque de cultivo. - Developer tool. Left-click to decrease stage, right-click to increase stage. Works on any farming block.
+items.Tool_Growth_Potion.description = Herramienta de desarrollador. Haz clic izquierdo para disminuir la etapa, clic derecho para aumentar la etapa. Funciona en cualquier bloque de cultivo.
 items.Tool_Hammer_Crude.name = Martillo Burdo - Crude Hammer
-items.Tool_Hammer_Crude.description = Usado para alterar la apariencia de bloques de construcción estructurales. - Used to alter the appearance of structural building blocks.
+items.Tool_Hammer_Crude.description = Usado para alterar la apariencia de bloques de construcción estructurales.
 items.Tool_Hammer_Iron.name = Martillo de Hierro - Iron Hammer
-items.Tool_Hammer_Iron.description = Usado para alterar la apariencia de bloques de construcción estructurales.\n\nUna versión mejorada del martillo burdo con mayor durabilidad. - Used to alter the appearance of structural building blocks.\n\nAn improved version of the crude hammer with greater durability.
+items.Tool_Hammer_Iron.description = Usado para alterar la apariencia de bloques de construcción estructurales.\n\nUna versión mejorada del martillo burdo con mayor durabilidad.
 items.Tool_Hatchet_Adamantite.name = Hacha de Adamantita - Adamantite Hatchet
 items.Tool_Hatchet_Cobalt.name = Hacha de Cobalto - Cobalt Hatchet
 items.Tool_Hatchet_Copper.name = Hacha de Cobre - Copper Hatchet
 items.Tool_Hatchet_Crude.name = Hacha Burda - Crude Hatchet
-items.Tool_Hatchet_Crude.description = Efectivo para talar árboles.\n\n<i>Los Kweebecs reconocen que algunas culturas requieren madera como recurso. Mientras evites entrar en sus bosques con tal arma desenvainada, es poco probable que lo mencionen.</i> - Effective for cutting down trees.\n\n<i>The Kweebecs acknowledge that some cultures require wood as a resource. As long as you avoid entering their woodlands with such a blade bared, it's unlikely they'll ever bring it up.</i>
+items.Tool_Hatchet_Crude.description = Efectivo para talar árboles.\n\n<i>Los Kweebecs reconocen que algunas culturas requieren madera como recurso. Mientras evites entrar en sus bosques con tal arma desenvainada, es poco probable que lo mencionen.</i>
 items.Tool_Hatchet_Iron.name = Hacha de Hierro - Iron Hatchet
 items.Tool_Hatchet_Mithril.name = Hacha de Mithril - Mithril Hatchet
 items.Tool_Hatchet_Onyxium.name = Hacha de Onyxium - Onyxium Hatchet
@@ -6050,41 +6050,41 @@ items.Tool_Hatchet_Wood.name = Hacha de Madera - Wooden Hatchet
 items.Tool_Hoe_Copper.name = Azada de Cobre - Copper Hoe
 items.Tool_Hoe_Crude.name = Azada Burda - Crude Hoe
 items.Tool_Hoe_Iron.name = Azada de Hierro - Iron Hoe
-items.Tool_Hoe.description = Usa para labrar tierra o hierba. - Use to till dirt or grass.
+items.Tool_Hoe.description = Usa para labrar tierra o hierba.
 items.Tool_Map.name = Mapa - Map
 items.Tool_Pickaxe_Adamantite.name = Pico de Adamantita - Adamantite Pickaxe
 items.Tool_Pickaxe_Cobalt.name = Pico de Cobalto - Cobalt Pickaxe
 items.Tool_Pickaxe_Copper.name = Pico de Cobre - Copper Pickaxe
 items.Tool_Pickaxe_Crude.name = Pico Burdo - Crude Pickaxe
-items.Tool_Pickaxe_Crude.description = Excelente para romper bloques de piedra y mineral.\n\n<i>Todo lo que se interpone entre los Duques Goblin y la dominación total de las regiones subterráneas es que aún no han entendido qué es esta herramienta.</i> - Great at breaking stone and ore blocks.\n\n<i>All that stands between the Goblin Dukes and total domination of the underground regions is that they have yet to understand what this tool is.</i>
+items.Tool_Pickaxe_Crude.description = Excelente para romper bloques de piedra y mineral.\n\n<i>Todo lo que se interpone entre los Duques Goblin y la dominación total de las regiones subterráneas es que aún no han entendido qué es esta herramienta.</i>
 items.Tool_Pickaxe_Iron.name = Pico de Hierro - Iron Pickaxe
 items.Tool_Pickaxe_Mithril.name = Pico de Mithril - Mithril Pickaxe
 items.Tool_Pickaxe_Onyxium.name = Pico de Onyxium - Onyxium Pickaxe
 items.Tool_Pickaxe_Scrap.name = Pico de Chatarra - Scrap Pickaxe
 items.Tool_Pickaxe_Thorium.name = Pico de Torio - Thorium Pickaxe
 items.Tool_Pickaxe_Wood.name = Pico de Madera - Wooden Pickaxe
-items.Tool_Repair_Kit_Crude.description = Usado para reparar herramientas, armas y armaduras. El objeto reparado perderá hasta un 20% de su durabilidad máxima. - Used to repair tools, weapons and armor. The repaired item will lose up to 20% of its maximum durability.
+items.Tool_Repair_Kit_Crude.description = Usado para reparar herramientas, armas y armaduras. El objeto reparado perderá hasta un 20% de su durabilidad máxima.
 items.Tool_Repair_Kit_Crude.name = Kit de Reparación Burdo - Crude Repair Kit
-items.Tool_Repair_Kit_Iron.description = Usado para reparar herramientas, armas y armaduras. Los objetos reparados perderán hasta un 10% de su durabilidad máxima. - Used to repair tools, weapons, and armor. Repaired items will lose up to 10% of their maximum durability.
+items.Tool_Repair_Kit_Iron.description = Usado para reparar herramientas, armas y armaduras. Los objetos reparados perderán hasta un 10% de su durabilidad máxima.
 items.Tool_Repair_Kit_Iron.name = Kit de Reparación - Repair Kit
 items.Tool_Repair_Kit_Rare.name = Kit de Reparación Raro - Rare Repair Kit
-items.Tool_Sap_Shunt.description = Uso único en árboles, permitirá que la savia se acumule lentamente con el tiempo. - Single-use on trees, will allow sap to accumulate slowly over time.
+items.Tool_Sap_Shunt.description = Uso único en árboles, permitirá que la savia se acumule lentamente con el tiempo.
 items.Tool_Sap_Shunt.name = Desviador de Savia - Sap Shunt
 items.Tool_Shears_Basic.name = Tijeras Burdas - Crude Shears
-items.Tool_Shears_Basic.description = Pueden usarse para esquilar ovejas y cosechar varios follajes. - Can be used to shear sheep and harvest various foliage.
+items.Tool_Shears_Basic.description = Pueden usarse para esquilar ovejas y cosechar varios follajes.
 items.Tool_Shovel_Cobalt.name = Pala de Cobalto - Cobalt Shovel
 items.Tool_Shovel_Copper.name = Pala de Cobre - Copper Shovel
 items.Tool_Shovel_Crude.name = Pala Burda - Crude Shovel
 items.Tool_Shovel_Iron.name = Pala de Hierro - Iron Shovel
 items.Tool_Shovel_Thorium.name = Pala de Torio - Thorium Shovel
-items.Tool_Shovel.description = Rompe múltiples bloques de tierra simultáneamente. - Breaks multiple blocks of dirt simultaneously.
+items.Tool_Shovel.description = Rompe múltiples bloques de tierra simultáneamente.
 items.Tool_Sickle_Crude.name = Hoz Burda - Crude Sickle
 items.Tool_Sickle_Steel_Rusty.name = Hoz de Acero Oxidado - Rusty Steel Sickle
-items.Tool_Sickle.description = Puede usarse para cosechar múltiples cultivos en un solo golpe. - Can be used to harvest multiple crops in a single swing.
+items.Tool_Sickle.description = Puede usarse para cosechar múltiples cultivos en un solo golpe.
 items.Tool_Watering_Can.name = Regadera Vacía - Empty Watering Can
-items.Tool_Watering_Can.description = [TMP] Llena con agua para usar en cultivos. Los cultivos regados crecen <color is="#4ade80">2.5x</color> más rápido. - [TMP] Fill with water to use on crops. Watered crops grow <color is="#4ade80">2.5x</color> faster.
+items.Tool_Watering_Can.description = [TMP] Llena con agua para usar en cultivos. Los cultivos regados crecen <color is="#4ade80">2.5x</color> más rápido.
 items.Tool_Watering_Can_Full.name = Regadera - Watering Can
-items.Tool_Watering_Can_Full.description = [TMP] Usada para regar cultivos en suelo labrado. Los cultivos regados crecen <color is="#4ade80">2.5x</color> más rápido. - [TMP] Used to water crops on tilled soil. Watered crops grow <color is="#4ade80">2.5x</color> faster.
+items.Tool_Watering_Can_Full.description = [TMP] Usada para regar cultivos en suelo labrado. Los cultivos regados crecen <color is="#4ade80">2.5x</color> más rápido.
 items.Trap_Ancient_Platform.name = Trampa de Plataforma Antigua Agrietada - Cracked Ancient Platform Trap
 items.Trap_Ice.name = Trampa de Hielo Agrietada - Cracked Ice Trap
 items.Trap_Slate.name = Trampa de Pizarra Agrietada - Cracked Slate Trap
@@ -6096,13 +6096,13 @@ items.TriggerTool_Pickup.name = Herramienta de Disparador - Recoger - Trigger To
 items.TriggerTool_Select.name = Herramienta de Disparador - Seleccionar - Trigger Tool - Select
 items.Trigger_Block.name = Bloque de Disparador - Trigger Block
 items.UpgradeBackpack_1.name = Desbloquear Mochila - Unlock Backpack
-items.UpgradeBackpack_1.description = Desbloquea la mochila al ser consumida. - Unlocks the backpack when consumed.
+items.UpgradeBackpack_1.description = Desbloquea la mochila al ser consumida.
 items.UpgradeBackpack_2.name = Mejora de Mochila I - Backpack Upgrade I
-items.UpgradeBackpack_2.description = Aumenta la capacidad de la mochila. - Increases backpack capacity.
+items.UpgradeBackpack_2.description = Aumenta la capacidad de la mochila.
 items.UpgradeBackpack_3.name = Mejora de Mochila II - Backpack Upgrade II
-items.UpgradeBackpack_3.description = Aumenta aún más la capacidad de la mochila. - Further Increases the backpack capacity.
+items.UpgradeBackpack_3.description = Aumenta aún más la capacidad de la mochila.
 items.Utility_Bag_Seed.name = Bolsa de Semillas - Seed Bag
-items.Utility_Bag_Seed.description = Contenedor experimental, úsalo bajo tu propio riesgo. - Experimental container, use at your own risk.
+items.Utility_Bag_Seed.description = Contenedor experimental, úsalo bajo tu propio riesgo.
 items.Utility_Helipack.name = Helipack - Helipack
 items.Utility_Leather_Backpack.name = Mochila de Cuero - Leather Backpack
 items.Utility_Leather_Medium_Backpack.name = Mochila Grande - Big Backpack
@@ -6307,9 +6307,9 @@ items.Weapon_Staff_Cobalt.name = Bastón de Cobalto - Cobalt Staff
 items.Weapon_Staff_Copper.name = Bastón de Cobre - Copper Staff
 items.Weapon_Staff_Crystal_Fire_Trork.name = Bastón de Trork - Trork Staff
 items.Weapon_Staff_Crystal_Flame.name = Bastón de Cristal de Llama - Flame Crystal Staff
-items.Weapon_Staff_Crystal_Flame.description = [TMP] Consume <item is="Ingredient_Fire_Essence"/>.\n\n<color is="#ccaa00">En Progreso</color> - [TMP] Consumes <item is="Ingredient_Fire_Essence"/>.\n\n<color is="#ccaa00">Work in Progress</color>
+items.Weapon_Staff_Crystal_Flame.description = [TMP] Consume <item is="Ingredient_Fire_Essence"/>.\n\n<color is="#ccaa00">En Progreso</color>
 items.Weapon_Staff_Crystal_Ice.name = Bastón de Cristal de Hielo - Ice Crystal Staff
-items.Weapon_Staff_Crystal_Ice.description = [TMP] Consume <item is="Ingredient_Ice_Essence"/>.\n\n<color is="#ccaa00">En Progreso</color> - [TMP] Consumes <item is="Ingredient_Ice_Essence"/>.\n\n<color is="#ccaa00">Work in Progress</color>
+items.Weapon_Staff_Crystal_Ice.description = [TMP] Consume <item is="Ingredient_Ice_Essence"/>.\n\n<color is="#ccaa00">En Progreso</color>
 items.Weapon_Staff_Crystal_Purple.name = Bastón de Cristal Púrpura - Purple Crystal Staff
 items.Weapon_Staff_Crystal_Red.name = Bastón de Cristal Rojo - Red Crystal Staff
 items.Weapon_Staff_Doomed.name = Bastón de Forastero Maldito - Doomed Outlander Staff
@@ -6330,7 +6330,7 @@ items.Weapon_Sword_Bronze_Ancient.name = Espada de Bronce Antiguo - Ancient Bron
 items.Weapon_Sword_Cobalt.name = Espada de Cobalto - Cobalt Sword
 items.Weapon_Sword_Copper.name = Espada de Cobre - Copper Sword
 items.Weapon_Sword_Crude.name = Espada Burda - Crude Sword
-items.Weapon_Sword_Crude.description = <i>Aún durante la era de los héroes, la forja de las primeras armas a partir de materiales burdos era un rito de iniciación en el camino para convertirse en aventurero.</i> - <i>Even during the age of heroes, the fashioning of one's first weapons from crude materials was a rite of passage on the road to becoming an adventurer.</i>
+items.Weapon_Sword_Crude.description = <i>Aún durante la era de los héroes, la forja de las primeras armas a partir de materiales burdos era un rito de iniciación en el camino para convertirse en aventurero.</i>
 items.Weapon_Sword_Cutlass.name = Cuchillo - Cutlass
 items.Weapon_Sword_Doomed.name = Espada de Forastero Condenado - Doomed Outlander Sword
 items.Weapon_Sword_Frost.name = Espada de Escarcha - Frost Sword
@@ -6409,7 +6409,7 @@ items.Wood_Birch_Branch_Short.name = Rama de Abedul - Corta - Birch Branch - Sho
 items.Wood_Birch_Roots.name = Raíces de Abedul - Birch Roots
 items.Wood_Birch_Trunk.name = Tronco de Abedul - Birch Log
 items.Wood_Birch_Trunk_Full.name = Tallo de Abedul - Birch Tree Trunk
-items.Wood_Blackwood_Beam.name = Pilares de Madera Negra - Blackwood Beam
+items.Wood_Blackwood_Beam.name = Pilar de Madera Negra - Blackwood Beam
 items.Wood_Blackwood_Decorative.name = Tablones de Madera Negra - Decorativos - Blackwood Planks - Decorative
 items.Wood_Blackwood_Fence.name = Cerca de Madera Negra - Blackwood Fence
 items.Wood_Blackwood_Fence_Gate.name = Puerta de Madera Negra - Blackwood Gate
@@ -6452,7 +6452,7 @@ items.Wood_Crystal_Branch_Short.name = Rama de Madera de Cristal - Corta - Cryst
 items.Wood_Crystal_Roots.name = Raíces de Madera de Cristal - Crystalwood Roots
 items.Wood_Crystal_Trunk.name = Tronco de Madera de Cristal - Crystalwood Log
 items.Wood_Crystal_Trunk_Full.name = Tallo de Madera de Cristal - Crystalwood Tree Trunk
-items.Wood_Darkwood_Beam.name = Pilares de Madera Oscura - Darkwood Beam
+items.Wood_Darkwood_Beam.name = Pilar de Madera Oscura - Darkwood Beam
 items.Wood_Darkwood_Decorative.name = Tablones de Madera Oscura - Decorativos - Darkwood Planks - Decorative
 items.Wood_Darkwood_Fence.name = Cerca de Madera Oscura - Darkwood Fence
 items.Wood_Darkwood_Fence_Gate.name = Puerta de Madera Oscura - Darkwood Gate
@@ -6465,7 +6465,7 @@ items.Wood_Darkwood_Roof_Hollow.name = Techo de Madera Oscura - Hueco - Darkwood
 items.Wood_Darkwood_Roof_Shallow.name = Techo de Madera Oscura - Poco Profundo - Darkwood Roof - Shallow
 items.Wood_Darkwood_Roof_Steep.name = Techo de Madera Oscura - Empinado - Darkwood Roof - Steep
 items.Wood_Darkwood_Stairs.name = Escaleras de Madera Oscura - Darkwood Stairs
-items.Wood_Deadwood_Beam.name = Pilares de Madera Muerta - Deadwood Beam
+items.Wood_Deadwood_Beam.name = Pilar de Madera Muerta - Deadwood Beam
 items.Wood_Deadwood_Decorative.name = Tablones de Madera Muerta - Decorativos - Deadwood Planks - Decorative
 items.Wood_Deadwood_Fence.name = Cerca de Madera Muerta - Deadwood Fence
 items.Wood_Deadwood_Fence_Gate.name = Puerta de Madera Muerta - Deadwood Gate
@@ -6484,7 +6484,7 @@ items.Wood_Dry_Branch_Short.name = Rama Seca - Corta - Dry Branch - Short
 items.Wood_Dry_Roots.name = Raíces Secas - Dry Roots
 items.Wood_Dry_Trunk.name = Tronco Seco - Dry Log
 items.Wood_Dry_Trunk_Full.name = Tallo Seco - Dry Tree Trunk
-items.Wood_Drywood_Beam.name = Pilares de Madera Seca - Drywood Beam
+items.Wood_Drywood_Beam.name = Pilar de Madera Seca - Drywood Beam
 items.Wood_Drywood_Decorative.name = Tablones de Madera Seca - Decorativos - Drywood Planks - Decorative
 items.Wood_Drywood_Fence.name = Cerca de Madera Seca - Drywood Fence
 items.Wood_Drywood_Fence_Gate.name = Puerta de Madera Seca - Drywood Gate
@@ -6515,7 +6515,7 @@ items.Wood_Fire_Branch_Short.name = Rama de Fuego - Corta - Fire Branch - Short
 items.Wood_Fire_Trunk.name = Tronco de Fuego - Fire Log
 items.Wood_Fire_Trunk_Full.name = Tallo de Fuego - Fire Tree Trunk
 items.Wood_Gnarled_Roots.name = Raíces Torcidas - Gnarled Roots
-items.Wood_Goldenwood_Beam.name = Pilares de Madera Dorada - Goldenwood Beam
+items.Wood_Goldenwood_Beam.name = Pilar de Madera Dorada - Goldenwood Beam
 items.Wood_Goldenwood_Decorative.name = Tablones de Madera Dorada - Decorativos - Goldenwood Planks - Decorative
 items.Wood_Goldenwood_Fence.name = Cerca de Madera Dorada - Goldenwood Fence
 items.Wood_Goldenwood_Fence_Cross_Junction.name = Cerca de Madera Dorada - Cruce - Goldenwood Fence - Cross Junction
@@ -6545,7 +6545,7 @@ items.Wood_Goldenwood_Roof_Steep_Ridge_Slope.name = Techo de Madera Dorada - Pen
 items.Wood_Goldenwood_Roof_Steep_Ridge_T_Junction.name = Techo de Madera Dorada - T Junction de Cresta Empinada - Goldenwood Roof - Steep Ridge T Junction
 items.Wood_Goldenwood_Roof_Steep_Topper.name = Techo de Madera Dorada - Adorno Empinado - Goldenwood Roof - Steep Topper
 items.Wood_Goldenwood_Stairs.name = Escaleras de Madera Dorada - Goldenwood Stairs
-items.Wood_Greenwood_Beam.name = Pilares de Madera Verde - Greenwood Beam
+items.Wood_Greenwood_Beam.name = Pilar de Madera Verde - Greenwood Beam
 items.Wood_Greenwood_Decorative.name = Tablones de Madera Verde - Decorativos - Greenwood Planks - Decorative
 items.Wood_Greenwood_Fence.name = Cerca de Madera Verde - Greenwood Fence
 items.Wood_Greenwood_Fence_Gate.name = Puerta de Madera Verde - Greenwood Gate
@@ -6564,7 +6564,7 @@ items.Wood_Gumboab_Branch_Short.name = Rama de Gumboab - Corta - Gumboab Branch 
 items.Wood_Gumboab_Roots.name = Raíces de Gumboab - Gumboab Roots
 items.Wood_Gumboab_Trunk.name = Tronco de Gumboab - Gumboab Log
 items.Wood_Gumboab_Trunk_Full.name = Tronco de Árbol de Gumboab - Gumboab Tree Trunk
-items.Wood_Hardwood_Beam.name = Pilares de Madera Dura - Hardwood Beam
+items.Wood_Hardwood_Beam.name = Pilar de Madera Dura - Hardwood Beam
 items.Wood_Hardwood_Decorative.name = Tablones de Madera Dura - Decorativos - Hardwood Planks - Decorative
 items.Wood_Hardwood_Fence.name = Cerca de Madera Dura - Hardwood Fence
 items.Wood_Hardwood_Fence_Gate.name = Puerta de Madera Dura - Hardwood Gate
@@ -6584,7 +6584,7 @@ items.Wood_Jungle_Branch_Short.name = Rama de Selva - Corta - Jungle Branch - Sh
 items.Wood_Jungle_Roots.name = Raíces de Selva - Jungle Roots
 items.Wood_Jungle_Trunk.name = Tronco de Selva - Jungle Log
 items.Wood_Jungle_Trunk_Full.name = Tronco de Árbol de Selva - Jungle Tree Trunk
-items.Wood_Lightwood_Beam.name = Pilares de Madera Ligera - Lightwood Beam
+items.Wood_Lightwood_Beam.name = Pilar de Madera Ligera - Lightwood Beam
 items.Wood_Lightwood_Decorative.name = Tablones de Madera Ligera - Decorativos - Lightwood Planks - Decorative
 items.Wood_Lightwood_Fence.name = Cerca de Madera Ligera - Lightwood Fence
 items.Wood_Lightwood_Fence_Gate.name = Puerta de Madera Ligera - Lightwood Gate
@@ -6635,7 +6635,7 @@ items.Wood_Poisoned_Branch_Short.name = Rama Envenenada - Corta - Poisoned Branc
 items.Wood_Poisoned_Roots.name = Raíces Envenenadas - Poisoned Roots
 items.Wood_Poisoned_Trunk.name = Tronco Envenenado - Poisoned Log
 items.Wood_Poisoned_Trunk_Full.name = Tronco de Árbol Envenenado - Poison Tree Trunk
-items.Wood_Redwood_Beam.name = Pilares de Madera Roja - Redwood Beam
+items.Wood_Redwood_Beam.name = Pilar de Madera Roja - Redwood Beam
 items.Wood_Redwood_Branch_Corner.name = Rama de Madera Roja - Esquina - Redwood Branch - Corner
 items.Wood_Redwood_Branch_Long.name = Rama de Madera Roja - Larga - Redwood Branch - Long
 items.Wood_Redwood_Branch_Short.name = Rama de Madera Roja - Corta - Redwood Branch - Short
@@ -6660,7 +6660,7 @@ items.Wood_Sallow_Branch_Short.name = Rama de Sauce - Corta - Sallow Branch - Sh
 items.Wood_Sallow_Roots.name = Raíces de Sauce - Sallow Roots
 items.Wood_Sallow_Trunk.name = Tronco de Sauce - Sallow Log
 items.Wood_Sallow_Trunk_Full.name = Tronco de Árbol de Sauce - Sallow Tree Trunk
-items.Wood_Softwood_Beam.name = Pilares de Madera Blanda - Softwood Beam
+items.Wood_Softwood_Beam.name = Pilar de Madera Blanda - Softwood Beam
 items.Wood_Softwood_Decorative.name = Tablones de Madera Blanda - Decorativos - Softwood Planks - Decorative
 items.Wood_Softwood_Fence.name = Cerca de Madera Blanda - Softwood Fence
 items.Wood_Softwood_Fence_Gate.name = Puerta de Madera Blanda - Softwood Gate
@@ -6688,7 +6688,7 @@ items.Wood_Stormbark_Trunk.name = Tronco de Corteza de Tormenta - Stormbark Log
 items.Wood_Stormbark_Trunk_Full.name = Tronco de Árbol de Corteza de Tormenta - Stormbark Tree Trunk
 items.Wood_Stripped_Deco.name = Tronco Despojado - Stripped Log
 items.Wood_Torch_Wall.name = Antorcha de Madera - Wooden Torch
-items.Wood_Tropicalwood_Beam.name = Pilares de Madera Tropical - Tropical Wood Beam
+items.Wood_Tropicalwood_Beam.name = Pilar de Madera Tropical - Tropical Wood Beam
 items.Wood_Tropicalwood_Decorative.name = Tablones de Madera Tropical - Decorativos - Tropical Wood Planks - Decorative
 items.Wood_Tropicalwood_Fence.name = Cerca de Madera Tropical - Tropical Wood Fence
 items.Wood_Tropicalwood_Fence_Gate.name = Puerta de Madera Tropical - Tropical Wood Gate
@@ -6718,15 +6718,15 @@ items.Wood_Wisteria_Wild_Trunk.name = Tronco de Glicinia Silvestre - Wild Wister
 items.Wood_Wisteria_Wild_Trunk_Full.name = Tronco de Árbol de Glicinia - Wisteria Tree Trunk
 items.Prototype_Geyser.name = Prototipo de Generador de Geyser - Prototype Geyser Spawner
 items.Ingredient_Chitin_Sturdy.name = Quitina Resistente - Sturdy Chitin
-items.Ingredient_Chitin_Sturdy.description = <i>Este material resistente forma los exoesqueletos de muchas criaturas que se encuentran en las tierras.</i> - <i>This resilient material forms the exoskeletons of many creatures found throughout the lands.</i>
+items.Ingredient_Chitin_Sturdy.description = <i>Este material resistente forma los exoesqueletos de muchas criaturas que se encuentran en las tierras.</i>
 items.Ingredient_Voidheart.name = Corazón del Vacío - Voidheart
-items.Ingredient_Voidheart.description = <i>El corazón aún palpitante de un habitante mayor del Vacío.\n\nNo todas las criaturas nacen del Vacío, sin embargo, incluso aquellas que han sido tomadas y corrompidas pueden llevar este mismo corazón marchito.</i> - <i>The still-beating heart of a greater denizen of the Void.\n\nNot all creatures are born of the Void, yet even those taken and corrupted may bear this same shriveled heart.</i>
+items.Ingredient_Voidheart.description = <i>El corazón aún palpitante de un habitante mayor del Vacío.\n\nNo todas las criaturas nacen del Vacío, sin embargo, incluso aquellas que han sido tomadas y corrompidas pueden llevar este mismo corazón marchito.</i>
 items.Ingredient_Sac_Venom.name = Saco de Veneno - Venom Sac
-items.Ingredient_Sac_Venom.description = <i>Orbis es hogar de criaturas venenosas de todas las formas y tamaños. Los antídotos destilados de su veneno por los Ferans fueron una vez muy valorados en las tierras.</i> - <i>Orbis is home to poisonous creatures of all shapes and sizes. Antidotes distilled from their venom by the Ferans were once prized across the lands.</i>
+items.Ingredient_Sac_Venom.description = <i>Orbis es hogar de criaturas venenosas de todas las formas y tamaños. Los antídotos destilados de su veneno por los Ferans fueron una vez muy valorados en las tierras.</i>
 items.Prototype_Rock_Chalk_Brick_Pipe_Corner.name = Tubo de Ladrillo de Tiza - Esquina - Chalk Brick Pipe - Corner
 items.Prototype_Rock_Chalk_Brick_Pipe_Short.name = Tubo de Ladrillo de Tiza - Corto - Chalk Brick Pipe - Short
 items.Prototype_Rock_Concrete_Brick.name = Ladrillo de Hormigón - Concrete Brick
-items.Prototype_Rock_Concrete_Brick_Beam.name = Pilares de Ladrillo de Hormigón - Concrete Brick Beam
+items.Prototype_Rock_Concrete_Brick_Beam.name = Pilar de Ladrillo de Hormigón - Concrete Brick Beam
 items.Prototype_Rock_Concrete_Brick_Half.name = Loseta de Ladrillo de Hormigón - Media - Concrete Brick Half Slab
 items.Prototype_Rock_Concrete_Brick_Pillar_Base.name = Pilar de Ladrillo de Hormigón - Base - Concrete Brick Pillar - Base
 items.Prototype_Rock_Concrete_Brick_Pillar_Middle.name = Pilar de Ladrillo de Hormigón - Medio - Concrete Brick Pillar - Middle
@@ -6751,7 +6751,7 @@ items.Prototype_Rock_Runic_Brick_Dark_Pipe_Short.name = Tubo de Ladrillo Rúnico
 items.Prototype_Rock_Runic_Cobble_Pipe_Corner.name = Tubo de Piedra Rúnica - Esquina - Runic Cobble Pipe - Corner
 items.Prototype_Rock_Runic_Cobble_Pipe_Short.name = Tubo de Piedra Rúnica - Corto - Runic Cobble Pipe - Short
 items.Rock_Chalk_Brick.name = Ladrillo de Tiza - Chalk Brick
-items.Rock_Chalk_Brick_Beam.name = Pilares de Ladrillo de Tiza - Chalk Brick Beam
+items.Rock_Chalk_Brick_Beam.name = Pilar de Ladrillo de Tiza - Chalk Brick Beam
 items.Rock_Chalk_Brick_Decorative.name = Ladrillo de Tiza - Decorativo - Chalk Brick - Decorative
 items.Rock_Chalk_Brick_Half.name = Loseta de Ladrillo de Tiza - Media - Chalk Brick Half Slab
 items.Rock_Chalk_Brick_Pillar_Base.name = Pilar de Ladrillo de Tiza - Base - Chalk Brick Pillar - Base
@@ -6759,7 +6759,7 @@ items.Rock_Chalk_Brick_Pillar_Middle.name = Pilar de Ladrillo de Tiza - Medio - 
 items.Rock_Chalk_Brick_Stairs.name = Escaleras de Ladrillo de Tiza - Chalk Brick Stairs
 items.Rock_Chalk_Brick_Wall.name = Pared de Ladrillo de Tiza - Chalk Brick Wall
 items.Rock_Ledgestone_Brick.name = Ladrillo de Piedra de Borde - Ledgestone Brick
-items.Rock_Ledgestone_Brick_Beam.name = Pilares de Ladrillo de Piedra de Borde - Ledgestone Brick Beam
+items.Rock_Ledgestone_Brick_Beam.name = Pilar de Ladrillo de Piedra de Borde - Ledgestone Brick Beam
 items.Rock_Ledgestone_Brick_Decorative.name = Ladrillo de Piedra de Borde - Decorativo - Ledgestone Brick - Decorative
 items.Rock_Ledgestone_Brick_Half.name = Loseta de Ladrillo de Piedra de Borde - Media - Ledgestone Brick Half Slab
 items.Rock_Ledgestone_Brick_Ornate.name = Ladrillo de Piedra de Borde - Ornamental - Ledgestone Brick - Ornate
@@ -6776,7 +6776,7 @@ items.Rock_Ledgestone_Cobble_Pillar_Base.name = Pilar de Piedra de Borde - Base 
 items.Rock_Ledgestone_Cobble_Pillar_Middle.name = Pilar de Piedra de Borde - Medio - Ledgestone Cobble Pillar - Middle
 items.Rock_Ledgestone_Cobble_Stairs.name = Escaleras de Piedra de Borde - Ledgestone Cobble Stairs
 items.Rock_Limestone_Brick.name = Ladrillo de Caliza - Limestone Brick
-items.Rock_Limestone_Brick_Beam.name = Pilares de Ladrillo de Caliza - Limestone Brick Beam
+items.Rock_Limestone_Brick_Beam.name = Pilar de Ladrillo de Caliza - Limestone Brick Beam
 items.Rock_Limestone_Brick_Decorative.name = Ladrillo de Caliza - Decorativo - Limestone Brick - Decorative
 items.Rock_Limestone_Brick_Half.name = Loseta de Ladrillo de Caliza - Media - Limestone Brick Half Slab
 items.Rock_Limestone_Brick_Ornate.name = Ladrillo de Caliza - Ornamental - Limestone Brick - Ornate
@@ -6787,7 +6787,7 @@ items.Rock_Limestone_Brick_Smooth_Half.name = Loseta de Ladrillo de Caliza - Lis
 items.Rock_Limestone_Brick_Stairs.name = Escaleras de Ladrillo de Caliza - Limestone Brick Stairs
 items.Rock_Limestone_Brick_Wall.name = Pared de Ladrillo de Caliza - Limestone Brick Wall
 items.Rock_Limestone_Cobble.name = Piedra de Caliza - Limestone Cobble
-items.Rock_Limestone_Cobble_Beam.name = Pilares de Piedra de Caliza - Limestone Cobble Beam
+items.Rock_Limestone_Cobble_Beam.name = Pilar de Piedra de Caliza - Limestone Cobble Beam
 items.Rock_Limestone_Cobble_Wall.name = Pared de Piedra de Caliza - Limestone Cobble Wall
 items.Rock_Limestone_Cobble_Half.name = Loseta de Piedra de Caliza - Media - Limestone Cobble Half Slab
 items.Rock_Limestone_Cobble_Pillar_Base.name = Pilar de Piedra de Caliza - Base - Limestone Cobble Pillar - Base
@@ -6807,7 +6807,7 @@ items.Rock_Peachstone_Cobble_Stairs.name = Escaleras de Piedra de Durazno - Peac
 items.Rock_Peachstone_Cobble_Wall.name = Pared de Piedra de Durazno - Peachstone Cobble Wall
 items.Rock_Runic_Brick.name = Ladrillo Rúnico - Runic Brick
 items.Rock_Runic_Brick_Blue.name = Ladrillo Rúnico Azul - Blue Runic Brick
-items.Rock_Runic_Brick_Blue_Beam.name = Pilares de Ladrillo Rúnico Azul - Blue Runic Brick Beam
+items.Rock_Runic_Brick_Blue_Beam.name = Pilar de Ladrillo Rúnico Azul - Blue Runic Brick Beam
 items.Rock_Runic_Brick_Blue_Half.name = Loseta de Ladrillo Rúnico Azul - Media - Blue Runic Brick Half Slab
 items.Rock_Runic_Brick_Blue_Pillar_Base.name = Pilar de Ladrillo Rúnico Azul - Base - Blue Runic Brick Pillar - Base
 items.Rock_Runic_Brick_Blue_Pillar_Middle.name = Pilar de Ladrillo Rúnico Azul - Medio - Blue Runic Brick Pillar - Middle
@@ -6816,7 +6816,7 @@ items.Rock_Runic_Brick_Blue_Pipe_Short.name = Tubo de Ladrillo Rúnico Azul - Co
 items.Rock_Runic_Brick_Blue_Stairs.name = Escaleras de Ladrillo Rúnico Azul - Blue Runic Brick Stairs
 items.Rock_Runic_Brick_Blue_Wall.name = Pared de Ladrillo Rúnico Azul - Blue Runic Brick Wall
 items.Rock_Runic_Brick_Dark.name = Ladrillo Rúnico Oscuro - Dark Runic Brick
-items.Rock_Runic_Brick_Dark_Beam.name = Pilares de Ladrillo Rúnico Oscuro - Dark Runic Brick Beam
+items.Rock_Runic_Brick_Dark_Beam.name = Pilar de Ladrillo Rúnico Oscuro - Dark Runic Brick Beam
 items.Rock_Runic_Brick_Dark_Half.name = Loseta de Ladrillo Rúnico Oscuro - Media - Dark Runic Brick Half Slab
 items.Rock_Runic_Brick_Dark_Pillar_Base.name = Pilar de Ladrillo Rúnico Oscuro - Base - Dark Runic Brick Pillar - Base
 items.Rock_Runic_Brick_Dark_Pillar_Middle.name = Pilar de Ladrillo Rúnico Oscuro - Medio - Dark Runic Brick Pillar - Middle
@@ -6826,14 +6826,14 @@ items.Rock_Runic_Brick_Half.name = Loseta de Ladrillo Rúnico - Media - Runic Br
 items.Rock_Runic_Brick_Ornate.name = Ladrillo Rúnico - Ornamental - Runic Brick - Ornate
 items.Rock_Runic_Brick_Stairs.name = Escaleras de Ladrillo Rúnico - Runic Brick Stairs
 items.Rock_Runic_Cobble.name = Piedra Rúnica - Runic Cobble
-items.Rock_Runic_Cobble_Beam.name = Pilares de Piedra Rúnica - Runic Cobble Beam
+items.Rock_Runic_Cobble_Beam.name = Pilar de Piedra Rúnica - Runic Cobble Beam
 items.Rock_Runic_Cobble_Half.name = Loseta de Piedra Rúnica - Media - Runic Cobble Half Slab
 items.Rock_Runic_Cobble_Pillar_Base.name = Pilar de Piedra Rúnica - Base - Runic Cobble Pillar - Base
 items.Rock_Runic_Cobble_Pillar_Middle.name = Pilar de Piedra Rúnica - Medio - Runic Cobble Pillar - Middle
 items.Rock_Runic_Cobble_Stairs.name = Escaleras de Piedra Rúnica - Runic Cobble Stairs
 items.Rock_Runic_Cobble_Wall.name = Pared de Piedra Rúnica - Runic Cobble Wall
 items.Rock_Runic_Darkblue_Brick.name = Ladrillo Rúnico Azul Oscuro - Dark Blue Runic Brick
-items.Rock_Runic_Darkblue_Brick_Beam.name = Pilares de Ladrillo Rúnico Azul Oscuro - Dark Blue Runic Brick Beam
+items.Rock_Runic_Darkblue_Brick_Beam.name = Pilar de Ladrillo Rúnico Azul Oscuro - Dark Blue Runic Brick Beam
 items.Rock_Runic_Darkblue_Brick_Half.name = Loseta de Ladrillo Rúnico Azul Oscuro - Media - Dark Blue Runic Brick Half Slab
 items.Rock_Runic_Darkblue_Brick_Pillar_Base.name = Pilar de Ladrillo Rúnico Azul Oscuro - Base - Dark Blue Runic Brick Pillar - Base
 items.Rock_Runic_Darkblue_Brick_Pillar_Middle.name = Pilar de Ladrillo Rúnico Azul Oscuro - Medio - Dark Blue Runic Brick Pillar - Middle
@@ -6842,57 +6842,57 @@ items.Rock_Runic_Darkblue_Brick_Pipe_Short.name = Tubo de Ladrillo Rúnico Azul 
 items.Rock_Runic_Darkblue_Brick_Stairs.name = Escaleras de Ladrillo Rúnico Azul Oscuro - Dark Blue Runic Brick Stairs
 items.Rock_Runic_Darkblue_Brick_Wall.name = Pared de Ladrillo Rúnico Azul Oscuro - Dark Blue Runic Brick Wall
 items.Rock_Salt.name = Bloque de Sal - Salt Block
-items.Rock_Salt.description = Se puede refinar en el <item is="Bench_Cooking"/>. - Can be refined at the <item is="Bench_Cooking"/>.
+items.Rock_Salt.description = Se puede refinar en el <item is="Bench_Cooking"/>.
 items.Rock_Salt_Half.name = Loseta de Sal - Media - Salt Half Slab
 items.Rock_Slate_Cobble_Corner.name = Piedra de Pizarra - Esquina - Slate Cobble - Corner
-items.Plant_Fruit_Apple.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color> - [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-items.Plant_Fruit_Berries_Red.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color> - [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-items.Plant_Fruit_Berries_Blue.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color> - [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-items.Plant_Fruit_Orange.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color> - [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-items.Plant_Fruit_Pear.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color> - [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Carrot_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color> - [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Corn_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color> - [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Potato_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color> - [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Pumpkin_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color> - [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Onion_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color> - [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Lettuce_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color> - [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Turnip_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color> - [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Tomato_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color> - [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Rice_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color> - [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Cauliflower_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color> - [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Chilli_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color> - [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Aubergine_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color> - [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-items.Plant_Mushroom_Brown.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color> - [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-items.Plant_Mushroom_Red.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color> - [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-items.Food_Vegetable_Cooked.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Resistencia II</color>\n\nDuración: <color is="#ffffff">2:30</color> - [TMP] Instantly restores <color is="#ffffff">10%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Stamina Boost II</color>\n\nDuration: <color is="#ffffff">2:30</color>
-items.Food_Kebab_Fruit.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Resistencia II</color>\n\nDuración: <color is="#ffffff">2:30</color> - [TMP] Instantly restores <color is="#ffffff">10%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Stamina Boost II</color>\n\nDuration: <color is="#ffffff">2:30</color>
-items.Food_Kebab_Vegetable.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Resistencia II</color>\n\nDuración: <color is="#ffffff">2:30</color> - [TMP] Instantly restores <color is="#ffffff">10%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Stamina Boost II</color>\n\nDuration: <color is="#ffffff">2:30</color>
-items.Food_Kebab_Mushroom.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Resistencia II</color>\n\nDuración: <color is="#ffffff">2:30</color> - [TMP] Instantly restores <color is="#ffffff">10%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Stamina Boost II</color>\n\nDuration: <color is="#ffffff">2:30</color>
-items.Food_Salad_Berry.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Resistencia II</color>\n\nDuración: <color is="#ffffff">2:30</color> - [TMP] Instantly restores <color is="#ffffff">10%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Stamina Boost II</color>\n\nDuration: <color is="#ffffff">2:30</color>
-items.Food_Salad_Mushroom.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Resistencia II</color>\n\nDuración: <color is="#ffffff">2:30</color> - [TMP] Instantly restores <color is="#ffffff">10%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Stamina Boost II</color>\n\nDuration: <color is="#ffffff">2:30</color>
-items.Food_Salad_Caesar.description = [TMP] Restaura instantáneamente <color is="#ffffff">15%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud III</color>\n• <color is="#ffffff">Aumento de Resistencia III</color>\n\nDuración: <color is="#ffffff">6:00</color> - [TMP] Instantly restores <color is="#ffffff">15%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Stamina Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
-items.Food_Pie_Apple.description = [TMP] Restaura instantáneamente <color is="#ffffff">15%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud III</color>\n• <color is="#ffffff">Aumento de Resistencia III</color>\n\nDuración: <color is="#ffffff">6:00</color> - [TMP] Instantly restores <color is="#ffffff">15%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Stamina Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
+items.Plant_Fruit_Apple.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Fruit_Berries_Red.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Fruit_Berries_Blue.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Fruit_Orange.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Fruit_Pear.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Carrot_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Corn_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Potato_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Pumpkin_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Onion_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Lettuce_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Turnip_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Tomato_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Rice_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Cauliflower_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Chilli_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Aubergine_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Mushroom_Brown.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Mushroom_Red.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Food_Vegetable_Cooked.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Resistencia II</color>\n\nDuración: <color is="#ffffff">2:30</color>
+items.Food_Kebab_Fruit.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Resistencia II</color>\n\nDuración: <color is="#ffffff">2:30</color>
+items.Food_Kebab_Vegetable.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Resistencia II</color>\n\nDuración: <color is="#ffffff">2:30</color>
+items.Food_Kebab_Mushroom.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Resistencia II</color>\n\nDuración: <color is="#ffffff">2:30</color>
+items.Food_Salad_Berry.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Resistencia II</color>\n\nDuración: <color is="#ffffff">2:30</color>
+items.Food_Salad_Mushroom.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Resistencia II</color>\n\nDuración: <color is="#ffffff">2:30</color>
+items.Food_Salad_Caesar.description = [TMP] Restaura instantáneamente <color is="#ffffff">15%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud III</color>\n• <color is="#ffffff">Aumento de Resistencia III</color>\n\nDuración: <color is="#ffffff">6:00</color>
+items.Food_Pie_Apple.description = [TMP] Restaura instantáneamente <color is="#ffffff">15%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud III</color>\n• <color is="#ffffff">Aumento de Resistencia III</color>\n\nDuración: <color is="#ffffff">6:00</color>
 items.Recipe_Food_Pie_Apple.name = [TMP] Receta: Pastel de Manzana - [TMP] Recipe: Apple Pie
-items.Recipe_Food_Pie_Apple.description = [TMP] Enseña la receta de <item is="Food_Pie_Apple"/>.\n\nRestaura instantáneamente <color is="#ffffff">15%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud III</color>\n• <color is="#ffffff">Aumento de Resistencia III</color>\n\nDuración: <color is="#ffffff">6:00</color> - [TMP] Teaches the <item is="Food_Pie_Apple"/> recipe.\n\nInstantly restores <color is="#ffffff">15%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Stamina Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
+items.Recipe_Food_Pie_Apple.description = [TMP] Enseña la receta de <item is="Food_Pie_Apple"/>.\n\nRestaura instantáneamente <color is="#ffffff">15%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud III</color>\n• <color is="#ffffff">Aumento de Resistencia III</color>\n\nDuración: <color is="#ffffff">6:00</color>
 items.Recipe_Food_Pie_Pumpkin.name = [TMP] Receta: Pastel de Calabaza - [TMP] Recipe: Pumpkin Pie
-items.Recipe_Food_Pie_Pumpkin.description = [TMP] Enseña la receta de <item is="Food_Pie_Pumpkin"/>.\n\nRestaura instantáneamente <color is="#ffffff">15%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud III</color>\n• <color is="#ffffff">Aumento de Resistencia III</color>\n\nDuración: <color is="#ffffff">6:00</color> - [TMP] Teaches the <item is="Food_Pie_Pumpkin"/> recipe.\n\nInstantly restores <color is="#ffffff">15%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Stamina Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
+items.Recipe_Food_Pie_Pumpkin.description = [TMP] Enseña la receta de <item is="Food_Pie_Pumpkin"/>.\n\nRestaura instantáneamente <color is="#ffffff">15%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud III</color>\n• <color is="#ffffff">Aumento de Resistencia III</color>\n\nDuración: <color is="#ffffff">6:00</color>
 items.Recipe_Food_Pie_Meat.name = [TMP] Receta: Pastel de Carne - [TMP] Recipe: Meat Pie
-items.Recipe_Food_Pie_Meat.description = [TMP] Enseña la receta de <item is="Food_Pie_Meat"/>.\n\nRestaura instantáneamente <color is="#ffffff">15%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud III</color>\n• <color is="#ffffff">Aumento de Salud III</color>\n\nDuración: <color is="#ffffff">6:00</color> - [TMP] Teaches the <item is="Food_Pie_Meat"/> recipe.\n\nInstantly restores <color is="#ffffff">15%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Health Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
+items.Recipe_Food_Pie_Meat.description = [TMP] Enseña la receta de <item is="Food_Pie_Meat"/>.\n\nRestaura instantáneamente <color is="#ffffff">15%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud III</color>\n• <color is="#ffffff">Aumento de Salud III</color>\n\nDuración: <color is="#ffffff">6:00</color>
 items.Recipe_Food_Salad_Caesar.name = [TMP] Receta: Ensalada César - [TMP] Recipe: Caesar Salad
-items.Recipe_Food_Salad_Caesar.description = [TMP] Enseña la receta de <item is="Food_Salad_Caesar"/>.\n\nRestaura instantáneamente <color is="#ffffff">15%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud III</color>\n• <color is="#ffffff">Aumento de Resistencia III</color>\n\nDuración: <color is="#ffffff">6:00</color> - [TMP] Teaches the <item is="Food_Salad_Caesar"/> recipe.\n\nInstantly restores <color is="#ffffff">15%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Stamina Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
-items.Food_Pie_Pumpkin.description = [TMP] Restaura instantáneamente <color is="#ffffff">15%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud III</color>\n• <color is="#ffffff">Aumento de Resistencia III</color>\n\nDuración: <color is="#ffffff">6:00</color> - [TMP] Instantly restores <color is="#ffffff">15%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Stamina Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
-items.Food_Wildmeat_Cooked.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Salud II</color>\n\nDuración: <color is="#ffffff">2:30</color> - [TMP] Instantly restores <color is="#ffffff">10%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Health Boost II</color>\n\nDuration: <color is="#ffffff">2:30</color>
-items.Food_Fish_Grilled.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Salud II</color>\n\nDuración: <color is="#ffffff">2:30</color> - [TMP] Instantly restores <color is="#ffffff">10%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Health Boost II</color>\n\nDuration: <color is="#ffffff">2:30</color>
-items.Food_Kebab_Meat.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Salud II</color>\n\nDuración: <color is="#ffffff">2:30</color> - [TMP] Instantly restores <color is="#ffffff">10%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Health Boost II</color>\n\nDuration: <color is="#ffffff">2:30</color>
-items.Food_Pie_Meat.description = [TMP] Restaura instantáneamente <color is="#ffffff">15%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud III</color>\n• <color is="#ffffff">Aumento de Salud III</color>\n\nDuración: <color is="#ffffff">6:00</color> - [TMP] Instantly restores <color is="#ffffff">15%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Health Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
-items.Food_Wildmeat_Raw.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud. - [TMP] Instantly restores <color is="#ffffff">5%</color> health.
-items.Food_Fish_Raw.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud. - [TMP] Instantly restores <color is="#ffffff">5%</color> health.
-items.Food_Pork_Raw.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud. - [TMP] Instantly restores <color is="#ffffff">5%</color> health.
-items.Food_Chicken_Raw.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud. - [TMP] Instantly restores <color is="#ffffff">5%</color> health.
-items.Food_Beef_Raw.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud. - [TMP] Instantly restores <color is="#ffffff">5%</color> health.
-items.Food_Bread.description = [TMP] Restaura instantáneamente <color is="#ffffff">15%</color> de salud. - [TMP] Instantly restores <color is="#ffffff">15%</color> health.
-items.Food_Popcorn.description = [TMP] Restaura instantáneamente <color is="#ffffff">15%</color> de salud. - [TMP] Instantly restores <color is="#ffffff">15%</color> health.
-items.Food_Cheese.description = [TMP] Restaura instantáneamente <color is="#ffffff">15%</color> de salud. - [TMP] Instantly restores <color is="#ffffff">15%</color> health.
+items.Recipe_Food_Salad_Caesar.description = [TMP] Enseña la receta de <item is="Food_Salad_Caesar"/>.\n\nRestaura instantáneamente <color is="#ffffff">15%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud III</color>\n• <color is="#ffffff">Aumento de Resistencia III</color>\n\nDuración: <color is="#ffffff">6:00</color>
+items.Food_Pie_Pumpkin.description = [TMP] Restaura instantáneamente <color is="#ffffff">15%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud III</color>\n• <color is="#ffffff">Aumento de Resistencia III</color>\n\nDuración: <color is="#ffffff">6:00</color>
+items.Food_Wildmeat_Cooked.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Salud II</color>\n\nDuración: <color is="#ffffff">2:30</color>
+items.Food_Fish_Grilled.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Salud II</color>\n\nDuración: <color is="#ffffff">2:30</color>
+items.Food_Kebab_Meat.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Salud II</color>\n\nDuración: <color is="#ffffff">2:30</color>
+items.Food_Pie_Meat.description = [TMP] Restaura instantáneamente <color is="#ffffff">15%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud III</color>\n• <color is="#ffffff">Aumento de Salud III</color>\n\nDuración: <color is="#ffffff">6:00</color>
+items.Food_Wildmeat_Raw.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud.
+items.Food_Fish_Raw.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud.
+items.Food_Pork_Raw.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud.
+items.Food_Chicken_Raw.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud.
+items.Food_Beef_Raw.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud.
+items.Food_Bread.description = [TMP] Restaura instantáneamente <color is="#ffffff">15%</color> de salud.
+items.Food_Popcorn.description = [TMP] Restaura instantáneamente <color is="#ffffff">15%</color> de salud.
+items.Food_Cheese.description = [TMP] Restaura instantáneamente <color is="#ffffff">15%</color> de salud.
 
 # === map ===
 
