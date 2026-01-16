@@ -1,0 +1,58 @@
+name: Auto tag & release from manifest
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Read version from manifest.json
+        id: version
+        run: |
+          VERSION=$(jq -r '.Version' manifest.json)
+          echo "version=v$VERSION" >> $GITHUB_OUTPUT
+
+      - name: Check if tag exists
+        id: tag_check
+        run: |
+          TAG=${{ steps.version.outputs.version }}
+          if git rev-parse "$TAG" >/dev/null 2>&1; then
+            echo "exists=true" >> $GITHUB_OUTPUT
+          else
+            echo "exists=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create git tag
+        if: steps.tag_check.outputs.exists == 'false'
+        run: |
+          git tag ${{ steps.version.outputs.version }}
+          git push origin ${{ steps.version.outputs.version }}
+
+      - name: Create ZIP
+        if: steps.tag_check.outputs.exists == 'false'
+        run: |
+          zip -r spanish-pack-${{ steps.version.outputs.version }}.zip \
+            Server \
+            README.md \
+            manifest.json
+
+      - name: Create GitHub Release
+        if: steps.tag_check.outputs.exists == 'false'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.version.outputs.version }}
+          name: Spanish Pack ${{ steps.version.outputs.version }}
+          body: |
+            Spanish language pack for Hytale.
+            Version: ${{ steps.version.outputs.version }}
+          files: spanish-pack-${{ steps.version.outputs.version }}.zip
