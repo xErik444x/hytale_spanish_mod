@@ -656,6 +656,9 @@ builderTools.copycut.noSelection = ¡No tienes nada seleccionado!
 builderTools.commands.clearEntities.desc = Eliminar todas las entidades dentro de la selección actual
 builderTools.commands.clearEntities.noSelection = ¡No tienes nada seleccionado!
 builderTools.commands.clearEntities.cleared = Removed {count, plural, one {1 entity} other {{count, number} entities}} from selection
+commands.clearEntities.desc = Eliminar todas las entidades dentro de la selección actual
+commands.clearEntities.noSelection = ¡No tienes nada seleccionado!
+commands.clearEntities.cleared = Removed {count, plural, one {1 entity} other {{count, number} entities}} from selection
 builderTools.edit.invalidBlockId = ID de bloque inválido: {id}
 builderTools.environment.envNotFound = ¡Error al encontrar el entorno con el nombre: {name}!
 builderTools.invalidBlockType = {name} '{key}' no es un tipo de bloque válido!
@@ -807,6 +810,10 @@ commands.memories.level.desc = Obtener el nivel de recuerdos
 commands.memories.level.success = El nivel de memoria actual es {level}
 commands.memories.unlockAll.desc = Desbloquear todos los recuerdos
 commands.memories.unlockAll.success = Todos los recuerdos desbloqueados
+commands.memories.setCount.desc = [TMP] Establecer el número de memorias grabadas para pruebas
+commands.memories.setCount.count.desc = [TMP] El número de memorias a grabar
+commands.memories.setCount.success = [TMP] Establecer memorias grabadas en {actual, number} (solicitado: {requested, number})
+commands.memories.setCount.invalid = [TMP] Conteo inválido. Debe ser 0 o mayor.
 commands.objective = Comandos relacionados con objetivos
 commands.objective.objectiveNotFound = ¡Objetivo '{id}' no encontrado!
 commands.objective.objectiveLineNotFound = ¡Línea de objetivo '{id}' no encontrada!
@@ -1447,6 +1454,11 @@ commands.parsing.argtype.tickrate.usage = Un valor de tasa de tick (por ejemplo,
 commands.parsing.argtype.tickrate.fail = No se pudo analizar la tasa de tick: '{input}'. Usa formatos como 30tps, 33ms, o solo 30.
 commands.parsing.argtype.tickrate.empty = La tasa de tick no puede estar vacía
 commands.parsing.argtype.tickrate.invalidMs = Valor de milisegundos inválido: '{input}'. Debe ser positivo.
+commands.parsing.argtype.playerUuidLookup.name = UUID/Nombre de usuario del jugador (con búsqueda)
+commands.parsing.argtype.playerUuidLookup.usage = Un UUID o nombre de usuario de jugador. Si no se encuentra localmente, realiza una búsqueda remota a través del Servicio de Perfil.
+commands.parsing.argtype.playerUuidLookup.noAuth = No se pudo buscar '{input}' - el servidor no está autenticado. Usa /auth login para autenticarte.
+commands.parsing.argtype.playerUuidLookup.lookupError = Error al buscar '{input}': {error}
+commands.parsing.argtype.playerUuidLookup.notFound = El jugador '{input}' no fue encontrado localmente ni a través de búsqueda remota.
 commands.help.usage = Uso
 commands.help.usagecolon = Uso: {usage}
 commands.help.noPermissibleSubCommand = No hay subcomandos permisibles
@@ -1606,6 +1618,7 @@ commands.give.received = Recibido {quantity, number} de {item}
 commands.give.item.desc = El ítem a dar
 commands.give.quantity.desc = La cantidad de ítems a dar
 commands.give.metadata.desc = Metadatos del ítem como una cadena JSON
+commands.give.durability.desc = Durabilidad del ítem
 commands.give.invalidMetadata = Formato de metadatos inválido: {error}
 commands.kick.success = ¡Expulsado {username}!
 commands.version.response = HytaleServer v{version} ({patchline})
@@ -5895,19 +5908,19 @@ items.Soil_Clay_Ocean_Brick_Decorative.name = Pared de Ladrillo de Arcilla Oceá
 items.Soil_Clay_Ocean_Brick_Half.name = Estalactita de Arcilla Oceánica - Grande - Ocean Clay Brick Half Slab
 items.Soil_Clay_Ocean_Brick_Ornate.name = Estalactita de Arcilla Oceánica - Pequeña - Ocean Clay Brick - Ornate
 items.Soil_Clay_Ocean_Brick_Pillar_Base.name = Arcilla Naranja - Ocean Clay Brick Pillar - Base
-items.Soil_Clay_Ocean_Brick_Pillar_Middle.name = Ocean Clay Brick Pillar - Middle
-items.Soil_Clay_Ocean_Brick_Roof.name = Ocean Clay Brick Roof
-items.Soil_Clay_Ocean_Brick_Roof_Flat.name = Ocean Clay Brick Roof - Flat
-items.Soil_Clay_Ocean_Brick_Roof_Hollow.name = Ocean Clay Brick Roof - Hollow
-items.Soil_Clay_Ocean_Brick_Roof_Shallow.name = Ocean Clay Brick Roof - Shallow
-items.Soil_Clay_Ocean_Brick_Roof_Steep.name = Ocean Clay Roof - Steep
-items.Soil_Clay_Ocean_Brick_Smooth.name = Ocean Clay Brick - Smooth
-items.Soil_Clay_Ocean_Brick_Smooth_Half.name = Ocean Clay Brick Half Slab - Smooth
-items.Soil_Clay_Ocean_Brick_Stairs.name = Ocean Clay Brick Stairs
-items.Soil_Clay_Ocean_Brick_Wall.name = Ocean Clay Brick Wall
-items.Soil_Clay_Ocean_Stalactite_Large.name = Ocean Clay Stalactite - Large
-items.Soil_Clay_Ocean_Stalactite_Small.name = Ocean Clay Stalactite - Small
-items.Soil_Clay_Orange.name = Orange Clay
+items.Soil_Clay_Ocean_Brick_Pillar_Middle.name = Pilar de Ladrillo de Arcilla Oceánica - Medio - Ocean Clay Brick Pillar - Middle
+items.Soil_Clay_Ocean_Brick_Roof.name = Techo de Ladrillo de Arcilla Oceánica - Ocean Clay Brick Roof
+items.Soil_Clay_Ocean_Brick_Roof_Flat.name = Techo de Ladrillo de Arcilla Oceánica - Plano - Ocean Clay Brick Roof - Flat
+items.Soil_Clay_Ocean_Brick_Roof_Hollow.name = Techo de Ladrillo de Arcilla Oceánica - Hueco - Ocean Clay Brick Roof - Hollow
+items.Soil_Clay_Ocean_Brick_Roof_Shallow.name = Techo de Ladrillo de Arcilla Oceánica - Poco Profundo - Ocean Clay Brick Roof - Shallow
+items.Soil_Clay_Ocean_Brick_Roof_Steep.name = Techo de Arcilla Oceánica - Empinado - Ocean Clay Roof - Steep
+items.Soil_Clay_Ocean_Brick_Smooth.name = Ladrillo de Arcilla Oceánica - Suave - Ocean Clay Brick - Smooth
+items.Soil_Clay_Ocean_Brick_Smooth_Half.name = Loseta de Ladrillo de Arcilla Oceánica - Suave - Ocean Clay Brick Half Slab - Smooth
+items.Soil_Clay_Ocean_Brick_Stairs.name = Escaleras de Ladrillo de Arcilla Oceánica - Ocean Clay Brick Stairs
+items.Soil_Clay_Ocean_Brick_Wall.name = Pared de Ladrillo de Arcilla Oceánica - Ocean Clay Brick Wall
+items.Soil_Clay_Ocean_Stalactite_Large.name = Estalactita de Arcilla Oceánica - Grande - Ocean Clay Stalactite - Large
+items.Soil_Clay_Ocean_Stalactite_Small.name = Estalactita de Arcilla Oceánica - Pequeña - Ocean Clay Stalactite - Small
+items.Soil_Clay_Orange.name = Arcilla Naranja - Orange Clay
 items.Soil_Clay_Pink.name = Arcilla Rosa - Pink Clay
 items.Soil_Clay_Purple.name = Arcilla Púrpura - Purple Clay
 items.Soil_Clay_Red.name = Arcilla Roja - Red Clay
@@ -6368,46 +6381,54 @@ items.Wood_Amber_Branch_Long.name = Rama de Ámbar - Larga - Amber Branch - Long
 items.Wood_Amber_Branch_Short.name = Rama de Ámbar - Corta - Amber Branch - Short
 items.Wood_Amber_Roots.name = Raíces de Ámbar - Amber Roots
 items.Wood_Amber_Trunk.name = Tronco de Ámbar - Amber Log
+items.Wood_Amber_Trunk.description = [TMP] Madera Dorada
 items.Wood_Amber_Trunk_Full.name = Tallo de Ámbar - Amber Tree Trunk
 items.Wood_Ash_Branch_Corner.name = Rama de Fresno - Esquina - Ash Branch - Corner
 items.Wood_Ash_Branch_Long.name = Rama de Fresno - Larga - Ash Branch - Long
 items.Wood_Ash_Branch_Short.name = Rama de Fresno - Corta - Ash Branch - Short
 items.Wood_Ash_Roots.name = Raíces de Fresno - Ash Roots
 items.Wood_Ash_Trunk.name = Tronco de Fresno - Ash Log
+items.Wood_Ash_Trunk.description = [TMP] Madera Dura
 items.Wood_Ash_Trunk_Full.name = Tallo de Fresno - Ash Tree Trunk
 items.Wood_Aspen_Branch_Corner.name = Rama de Álamo Temblón - Esquina - Aspen Branch - Corner
 items.Wood_Aspen_Branch_Long.name = Rama de Álamo Temblón - Larga - Aspen Branch - Long
 items.Wood_Aspen_Branch_Short.name = Rama de Álamo Temblón - Corta - Aspen Branch - Short
 items.Wood_Aspen_Roots.name = Raíces de Álamo Temblón - Aspen Roots
 items.Wood_Aspen_Trunk.name = Tronco de Álamo Temblón - Aspen Log
+items.Wood_Aspen_Trunk.description = [TMP] Madera Blanda
 items.Wood_Aspen_Trunk_Full.name = Tallo de Álamo Temblón - Aspen Tree Trunk
 items.Wood_Azure_Branch_Corner.name = Rama de Azul - Esquina - Azure Branch - Corner
 items.Wood_Azure_Branch_Long.name = Rama de Azul - Larga - Azure Branch - Long
 items.Wood_Azure_Branch_Short.name = Rama de Azul - Corta - Azure Branch - Short
 items.Wood_Azure_Roots.name = Raíces de Azul - Azure Roots
 items.Wood_Azure_Trunk.name = Tronco de Azul - Azure Log
+items.Wood_Azure_Trunk.description = [TMP] Azul
 items.Wood_Azure_Trunk_Full.name = Tallo de Azul - Azure Tree Trunk
 items.Wood_Bamboo_Branch_Long.name = Rama de Bambú - Larga - Bamboo Branch - Long
 items.Wood_Bamboo_Branch_Long_Deco.name = Rama de Bambú - Larga - Bamboo Branch - Long
 items.Wood_Bamboo_Trunk.name = Tronco de Bambú - Bamboo Log
+items.Wood_Bamboo_Trunk.description = [TMP] Madera Tropical
 items.Wood_Bamboo_Trunk_Deco.name = Tronco de Bambú - Bamboo Log
 items.Wood_Banyan_Branch_Corner.name = Rama de Banyan - Esquina - Banyan Branch - Corner
 items.Wood_Banyan_Branch_Long.name = Rama de Banyan - Larga - Banyan Branch - Long
 items.Wood_Banyan_Branch_Short.name = Rama de Banyan - Corta - Banyan Branch - Short
 items.Wood_Banyan_Roots.name = Raíces de Banyan - Banyan Roots
 items.Wood_Banyan_Trunk.name = Tronco de Banyan - Banyan Log
+items.Wood_Banyan_Trunk.description = [TMP] Madera Blanda
 items.Wood_Banyan_Trunk_Full.name = Tallo de Banyan - Banyan Tree Trunk
 items.Wood_Beech_Branch_Corner.name = Rama de Haya - Esquina - Beech Branch - Corner
 items.Wood_Beech_Branch_Long.name = Rama de Haya - Larga - Beech Branch - Long
 items.Wood_Beech_Branch_Short.name = Rama de Haya - Corta - Beech Branch - Short
 items.Wood_Beech_Roots.name = Raíces de Haya - Beech Roots
 items.Wood_Beech_Trunk.name = Tronco de Haya - Beech Log
+items.Wood_Beech_Trunk.description = [TMP] Madera Blanda
 items.Wood_Beech_Trunk_Full.name = Tallo de Haya - Beech Tree Trunk
 items.Wood_Birch_Branch_Corner.name = Rama de Abedul - Esquina - Birch Branch - Corner
 items.Wood_Birch_Branch_Long.name = Rama de Abedul - Larga - Birch Branch - Long
 items.Wood_Birch_Branch_Short.name = Rama de Abedul - Corta - Birch Branch - Short
 items.Wood_Birch_Roots.name = Raíces de Abedul - Birch Roots
 items.Wood_Birch_Trunk.name = Tronco de Abedul - Birch Log
+items.Wood_Birch_Trunk.description = [TMP] Madera Ligera
 items.Wood_Birch_Trunk_Full.name = Tallo de Abedul - Birch Tree Trunk
 items.Wood_Blackwood_Beam.name = Pilar de Madera Negra - Blackwood Beam
 items.Wood_Blackwood_Decorative.name = Tablones de Madera Negra - Decorativos - Blackwood Planks - Decorative
@@ -6427,30 +6448,35 @@ items.Wood_Bottletree_Branch_Long.name = Rama de Árbol Botella - Larga - Bottle
 items.Wood_Bottletree_Branch_Short.name = Rama de Árbol Botella - Corta - Bottletree Branch - Short
 items.Wood_Bottletree_Roots.name = Raíces de Árbol Botella - Bottletree Roots
 items.Wood_Bottletree_Trunk.name = Tronco de Árbol Botella - Bottletree Log
+items.Wood_Bottletree_Trunk.description = [TMP] Madera Seca
 items.Wood_Bottletree_Trunk_Full.name = Tallo de Árbol Botella - Bottletree Tree Trunk
 items.Wood_Burnt_Branch_Corner.name = Rama Quemada - Esquina - Burnt Branch - Corner
 items.Wood_Burnt_Branch_Long.name = Rama Quemada - Larga - Burnt Branch - Long
 items.Wood_Burnt_Branch_Short.name = Rama Quemada - Corta - Burnt Branch - Short
 items.Wood_Burnt_Roots.name = Raíces Quemadas - Burnt Roots
 items.Wood_Burnt_Trunk.name = Tronco Quemado - Burnt Log
+items.Wood_Burnt_Trunk.description = [TMP] Madera Negra
 items.Wood_Burnt_Trunk_Full.name = Tallo Quemado - Burnt Tree Trunk
 items.Wood_Camphor_Branch_Corner.name = Rama de Alcanfor - Esquina - Camphor Branch - Corner
 items.Wood_Camphor_Branch_Long.name = Rama de Alcanfor - Larga - Camphor Branch - Long
 items.Wood_Camphor_Branch_Short.name = Rama de Alcanfor - Corta - Camphor Branch - Short
 items.Wood_Camphor_Roots.name = Raíces de Alcanfor - Camphor Roots
 items.Wood_Camphor_Trunk.name = Tronco de Alcanfor - Camphor Log
+items.Wood_Camphor_Trunk.description = [TMP] Madera Ligera
 items.Wood_Camphor_Trunk_Full.name = Tallo de Alcanfor - Camphor Tree Trunk
 items.Wood_Cedar_Branch_Corner.name = Rama de Cedro - Esquina - Cedar Branch - Corner
 items.Wood_Cedar_Branch_Long.name = Rama de Cedro - Larga - Cedar Branch - Long
 items.Wood_Cedar_Branch_Short.name = Rama de Cedro - Corta - Cedar Branch - Short
 items.Wood_Cedar_Roots.name = Raíces de Cedro - Cedar Roots
 items.Wood_Cedar_Trunk.name = Tronco de Cedro - Cedar Log
+items.Wood_Cedar_Trunk.description = [TMP] Madera Oscura
 items.Wood_Cedar_Trunk_Full.name = Tallo de Cedro - Cedar Tree Trunk
 items.Wood_Crystal_Branch_Corner.name = Rama de Madera de Cristal - Esquina - Crystalwood Branch - Corner
 items.Wood_Crystal_Branch_Long.name = Rama de Madera de Cristal - Larga - Crystalwood Branch - Long
 items.Wood_Crystal_Branch_Short.name = Rama de Madera de Cristal - Corta - Crystalwood Branch - Short
 items.Wood_Crystal_Roots.name = Raíces de Madera de Cristal - Crystalwood Roots
 items.Wood_Crystal_Trunk.name = Tronco de Madera de Cristal - Crystalwood Log
+items.Wood_Crystal_Trunk.description = [TMP] Cristal
 items.Wood_Crystal_Trunk_Full.name = Tallo de Madera de Cristal - Crystalwood Tree Trunk
 items.Wood_Darkwood_Beam.name = Pilar de Madera Oscura - Darkwood Beam
 items.Wood_Darkwood_Decorative.name = Tablones de Madera Oscura - Decorativos - Darkwood Planks - Decorative
@@ -6483,6 +6509,7 @@ items.Wood_Dry_Branch_Long.name = Rama Seca - Larga - Dry Branch - Long
 items.Wood_Dry_Branch_Short.name = Rama Seca - Corta - Dry Branch - Short
 items.Wood_Dry_Roots.name = Raíces Secas - Dry Roots
 items.Wood_Dry_Trunk.name = Tronco Seco - Dry Log
+items.Wood_Dry_Trunk.description = [TMP] Madera Seca
 items.Wood_Dry_Trunk_Full.name = Tallo Seco - Dry Tree Trunk
 items.Wood_Drywood_Beam.name = Pilar de Madera Seca - Drywood Beam
 items.Wood_Drywood_Decorative.name = Tablones de Madera Seca - Decorativos - Drywood Planks - Decorative
@@ -6502,17 +6529,20 @@ items.Wood_Fig_Blue_Branch_Long.name = Rama de Higo Azul - Larga - Blue Fig Bran
 items.Wood_Fig_Blue_Branch_Short.name = Rama de Higo Azul - Corta - Blue Fig Branch - Short
 items.Wood_Fig_Blue_Roots.name = Raíces de Higo Azul - Blue Fig Roots
 items.Wood_Fig_Blue_Trunk.name = Tronco de Higo Azul - Blue Fig Log
+items.Wood_Fig_Blue_Trunk.description = [TMP] Madera Roja
 items.Wood_Fig_Blue_Trunk_Full.name = Tallo de Higo Azul - Blue Fig Tree Trunk
 items.Wood_Fir_Branch_Corner.name = Rama de Abeto - Esquina - Fir Branch - Corner
 items.Wood_Fir_Branch_Long.name = Rama de Abeto - Larga - Fir Branch - Long
 items.Wood_Fir_Branch_Short.name = Rama de Abeto - Corta - Fir Branch - Short
 items.Wood_Fir_Roots.name = Raíces de Abeto - Fir Roots
 items.Wood_Fir_Trunk.name = Tronco de Abeto - Fir Log
+items.Wood_Fir_Trunk.description = [TMP] Madera Dura
 items.Wood_Fir_Trunk_Full.name = Tallo de Abeto - Fir Tree Trunk
 items.Wood_Fire_Branch_Corner.name = Rama de Fuego - Esquina - Fire Branch - Corner
 items.Wood_Fire_Branch_Long.name = Rama de Fuego - Larga - Fire Branch - Long
 items.Wood_Fire_Branch_Short.name = Rama de Fuego - Corta - Fire Branch - Short
 items.Wood_Fire_Trunk.name = Tronco de Fuego - Fire Log
+items.Wood_Fire_Trunk.description = [TMP] Madera Negra
 items.Wood_Fire_Trunk_Full.name = Tallo de Fuego - Fire Tree Trunk
 items.Wood_Gnarled_Roots.name = Raíces Torcidas - Gnarled Roots
 items.Wood_Goldenwood_Beam.name = Pilar de Madera Dorada - Goldenwood Beam
@@ -6563,6 +6593,7 @@ items.Wood_Gumboab_Branch_Long.name = Rama de Gumboab - Larga - Gumboab Branch -
 items.Wood_Gumboab_Branch_Short.name = Rama de Gumboab - Corta - Gumboab Branch - Short
 items.Wood_Gumboab_Roots.name = Raíces de Gumboab - Gumboab Roots
 items.Wood_Gumboab_Trunk.name = Tronco de Gumboab - Gumboab Log
+items.Wood_Gumboab_Trunk.description = [TMP] Madera Ligera
 items.Wood_Gumboab_Trunk_Full.name = Tronco de Árbol de Gumboab - Gumboab Tree Trunk
 items.Wood_Hardwood_Beam.name = Pilar de Madera Dura - Hardwood Beam
 items.Wood_Hardwood_Decorative.name = Tablones de Madera Dura - Decorativos - Hardwood Planks - Decorative
@@ -6578,11 +6609,13 @@ items.Wood_Hardwood_Roof_Shallow.name = Techo de Madera Dura - Poco Profundo - H
 items.Wood_Hardwood_Roof_Steep.name = Techo de Madera Dura - Empinado - Hardwood Roof - Steep
 items.Wood_Hardwood_Stairs.name = Escaleras de Madera Dura - Hardwood Stairs
 items.Wood_Ice_Trunk.name = Tronco de Hielo - Ice Log
+items.Wood_Ice_Trunk.description = [TMP] Hielo
 items.Wood_Jungle_Branch_Corner.name = Rama de Selva - Esquina - Jungle Branch - Corner
 items.Wood_Jungle_Branch_Long.name = Rama de Selva - Larga - Jungle Branch - Long
 items.Wood_Jungle_Branch_Short.name = Rama de Selva - Corta - Jungle Branch - Short
 items.Wood_Jungle_Roots.name = Raíces de Selva - Jungle Roots
 items.Wood_Jungle_Trunk.name = Tronco de Selva - Jungle Log
+items.Wood_Jungle_Trunk.description = [TMP] Madera Verde
 items.Wood_Jungle_Trunk_Full.name = Tronco de Árbol de Selva - Jungle Tree Trunk
 items.Wood_Lightwood_Beam.name = Pilar de Madera Ligera - Lightwood Beam
 items.Wood_Lightwood_Decorative.name = Tablones de Madera Ligera - Decorativos - Lightwood Planks - Decorative
@@ -6602,12 +6635,14 @@ items.Wood_Maple_Branch_Long.name = Rama de Arce - Larga - Maple Branch - Long
 items.Wood_Maple_Branch_Short.name = Rama de Arce - Corta - Maple Branch - Short
 items.Wood_Maple_Roots.name = Raíces de Arce - Maple Roots
 items.Wood_Maple_Trunk.name = Tronco de Arce - Maple Log
+items.Wood_Maple_Trunk.description = [TMP] Madera Roja
 items.Wood_Maple_Trunk_Full.name = Tronco de Árbol de Arce - Maple Tree Trunk
 items.Wood_Oak_Branch_Corner.name = Rama de Roble - Esquina - Oak Branch - Corner
 items.Wood_Oak_Branch_Long.name = Rama de Roble - Larga - Oak Branch - Long
 items.Wood_Oak_Branch_Short.name = Rama de Roble - Corta - Oak Branch - Short
 items.Wood_Oak_Roots.name = Raíces de Roble - Oak Roots
 items.Wood_Oak_Trunk.name = Tronco de Roble - Oak Log
+items.Wood_Oak_Trunk.description = [TMP] Madera Dura
 items.Wood_Oak_Trunk_Full.name = Tronco de Árbol de Roble - Oak Tree Trunk
 items.Wood_Oak_Trunk_Half.name = Loseta de Madera de Roble - Oak Wood Half Slab
 items.Wood_Oak_Trunk_Stairs.name = Escaleras de Madera de Roble - Oak Wood Stairs
@@ -6616,24 +6651,28 @@ items.Wood_Palm_Branch_Long.name = Rama de Palma - Larga - Palm Tree Branch - Lo
 items.Wood_Palm_Branch_Short.name = Rama de Palma - Corta - Palm Tree Branch - Short
 items.Wood_Palm_Roots.name = Raíces de Palma - Palm Tree Roots
 items.Wood_Palm_Trunk.name = Tronco de Palma - Palm Tree Log
+items.Wood_Palm_Trunk.description = [TMP] Madera Dorada
 items.Wood_Palm_Trunk_Full.name = Tronco de Árbol de Palma - Palm Tree Trunk
 items.Wood_Palo_Branch_Corner.name = Rama de Palo - Esquina - Palo Branch - Corner
 items.Wood_Palo_Branch_Long.name = Rama de Palo - Larga - Palo Branch - Long
 items.Wood_Palo_Branch_Short.name = Rama de Palo - Corta - Palo Branch - Short
 items.Wood_Palo_Roots.name = Raíces de Palo - Palo Roots
 items.Wood_Palo_Trunk.name = Tronco de Palo - Palo Log
+items.Wood_Palo_Trunk.description = [TMP] Madera Verde
 items.Wood_Palo_Trunk_Full.name = Tronco de Árbol de Palo - Palo Tree Trunk
 items.Wood_Petrified_Branch_Corner.name = Rama Petrificada - Esquina - Petrified Branch - Corner
 items.Wood_Petrified_Branch_Long.name = Rama Petrificada - Larga - Petrified Branch - Long
 items.Wood_Petrified_Branch_Short.name = Rama Petrificada - Corta - Petrified Branch - Short
 items.Wood_Petrified_Roots.name = Raíces Petrificadas - Petrified Roots
 items.Wood_Petrified_Trunk.name = Tronco Petrificado - Petrified Log
+items.Wood_Petrified_Trunk.description = [TMP] Madera Muerta
 items.Wood_Petrified_Trunk_Full.name = Tronco de Árbol Petrificado - Petrified Tree Trunk
 items.Wood_Poisoned_Branch_Corner.name = Rama Envenenada - Esquina - Poisoned Branch - Corner
 items.Wood_Poisoned_Branch_Long.name = Rama Envenenada - Larga - Poisoned Branch - Long
 items.Wood_Poisoned_Branch_Short.name = Rama Envenenada - Corta - Poisoned Branch - Short
 items.Wood_Poisoned_Roots.name = Raíces Envenenadas - Poisoned Roots
 items.Wood_Poisoned_Trunk.name = Tronco Envenenado - Poisoned Log
+items.Wood_Poisoned_Trunk.description = [TMP] Madera Muerta
 items.Wood_Poisoned_Trunk_Full.name = Tronco de Árbol Envenenado - Poison Tree Trunk
 items.Wood_Redwood_Beam.name = Pilar de Madera Roja - Redwood Beam
 items.Wood_Redwood_Branch_Corner.name = Rama de Madera Roja - Esquina - Redwood Branch - Corner
@@ -6653,12 +6692,14 @@ items.Wood_Redwood_Roof_Steep.name = Techo de Madera Roja - Empinado - Redwood R
 items.Wood_Redwood_Roots.name = Raíces de Madera Roja - Redwood Roots
 items.Wood_Redwood_Stairs.name = Escaleras de Madera Roja - Redwood Stairs
 items.Wood_Redwood_Trunk.name = Tronco de Madera Roja - Redwood Log
+items.Wood_Redwood_Trunk.description = [TMP] Madera Roja
 items.Wood_Redwood_Trunk_Full.name = Tronco de Árbol de Madera Roja - Redwood Tree Trunk
 items.Wood_Sallow_Branch_Corner.name = Rama de Sauce - Esquina - Sallow Branch - Corner
 items.Wood_Sallow_Branch_Long.name = Rama de Sauce - Larga - Sallow Branch - Long
 items.Wood_Sallow_Branch_Short.name = Rama de Sauce - Corta - Sallow Branch - Short
 items.Wood_Sallow_Roots.name = Raíces de Sauce - Sallow Roots
 items.Wood_Sallow_Trunk.name = Tronco de Sauce - Sallow Log
+items.Wood_Sallow_Trunk.description = [TMP] Madera Dorada
 items.Wood_Sallow_Trunk_Full.name = Tronco de Árbol de Sauce - Sallow Tree Trunk
 items.Wood_Softwood_Beam.name = Pilar de Madera Blanda - Softwood Beam
 items.Wood_Softwood_Decorative.name = Tablones de Madera Blanda - Decorativos - Softwood Planks - Decorative
@@ -6678,6 +6719,7 @@ items.Wood_Spiral_Branch_Long.name = Rama Espiral - Larga - Spiral Branch - Long
 items.Wood_Spiral_Branch_Short.name = Rama Espiral - Corta - Spiral Branch - Short
 items.Wood_Spiral_Roots.name = Raíces Espirales - Spiral Roots
 items.Wood_Spiral_Trunk.name = Tronco Espiral - Spiral Log
+items.Wood_Spiral_Trunk.description = [TMP] Espiral
 items.Wood_Spiral_Trunk_Full.name = Tronco de Árbol Espiral - Spiral Tree Trunk
 items.Wood_Sticks.name = Montón de Palos - Pile of Sticks
 items.Wood_Stormbark_Branch_Corner.name = Rama de Corteza de Tormenta - Esquina - Stormbark Branch - Corner
@@ -6709,12 +6751,14 @@ items.Wood_Windwillow_Branch_Long.name = Rama de Sauce de Viento - Larga - Windw
 items.Wood_Windwillow_Branch_Short.name = Rama de Sauce de Viento - Corta - Windwillow Branch - Short
 items.Wood_Windwillow_Roots.name = Raíces de Sauce de Viento - Windwillow Roots
 items.Wood_Windwillow_Trunk.name = Tronco de Sauce de Viento - Windwillow Log
+items.Wood_Windwillow_Trunk.description = [TMP] Sauce del Viento
 items.Wood_Windwillow_Trunk_Full.name = Tronco de Árbol de Sauce de Viento - Windwillow Tree Trunk
 items.Wood_Wisteria_Wild_Branch_Corner.name = Rama de Glicinia - Esquina - Wisteria Branch - Corner
 items.Wood_Wisteria_Wild_Branch_Long.name = Rama de Glicinia - Larga - Wisteria Branch - Long
 items.Wood_Wisteria_Wild_Branch_Short.name = Rama de Glicinia - Corta - Wisteria Branch - Short
 items.Wood_Wisteria_Wild_Roots.name = Raíces de Glicinia - Wisteria Roots
 items.Wood_Wisteria_Wild_Trunk.name = Tronco de Glicinia Silvestre - Wild Wisteria Log
+items.Wood_Wisteria_Wild_Trunk.description = [TMP] Madera Oscura
 items.Wood_Wisteria_Wild_Trunk_Full.name = Tronco de Árbol de Glicinia - Wisteria Tree Trunk
 items.Prototype_Geyser.name = Prototipo de Generador de Geyser - Prototype Geyser Spawner
 items.Ingredient_Chitin_Sturdy.name = Quitina Resistente - Sturdy Chitin
@@ -6845,26 +6889,33 @@ items.Rock_Salt.name = Bloque de Sal - Salt Block
 items.Rock_Salt.description = Se puede refinar en el <item is="Bench_Cooking"/>.
 items.Rock_Salt_Half.name = Loseta de Sal - Media - Salt Half Slab
 items.Rock_Slate_Cobble_Corner.name = Piedra de Pizarra - Esquina - Slate Cobble - Corner
-items.Plant_Fruit_Apple.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
-items.Plant_Fruit_Berries_Red.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
-items.Plant_Fruit_Berries_Blue.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
-items.Plant_Fruit_Orange.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
-items.Plant_Fruit_Pear.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Carrot_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Corn_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Potato_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Pumpkin_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Onion_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Lettuce_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Turnip_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Tomato_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Rice_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Cauliflower_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Chilli_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
-items.Plant_Crop_Aubergine_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
-items.Plant_Mushroom_Brown.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
-items.Plant_Mushroom_Red.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
-items.Food_Vegetable_Cooked.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Resistencia II</color>\n\nDuración: <color is="#ffffff">2:30</color>
+items.Plant_Fruit_Apple.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Fruit_Berries_Red.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Fruit_Berries_Blue.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Fruit_Orange.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Fruit_Pear.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Fruit_Azure.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Fruit_Coconut.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Fruit_Mango.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Fruit_Pinkberry.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Fruit_Poison.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Fruit_Spiral.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Fruit_Windwillow.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Carrot_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Corn_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Potato_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Pumpkin_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Onion_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Lettuce_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Turnip_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Tomato_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Rice_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Cauliflower_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Chilli_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Crop_Aubergine_Item.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Mushroom_Brown.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Plant_Mushroom_Red.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Food_Vegetable_Cooked.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Resistencia I</color>\n\nDuración: <color is="#ffffff">0:45</color>
 items.Food_Kebab_Fruit.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Resistencia II</color>\n\nDuración: <color is="#ffffff">2:30</color>
 items.Food_Kebab_Vegetable.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Resistencia II</color>\n\nDuración: <color is="#ffffff">2:30</color>
 items.Food_Kebab_Mushroom.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Resistencia II</color>\n\nDuración: <color is="#ffffff">2:30</color>
@@ -6881,8 +6932,8 @@ items.Recipe_Food_Pie_Meat.description = [TMP] Enseña la receta de <item is="Fo
 items.Recipe_Food_Salad_Caesar.name = [TMP] Receta: Ensalada César - [TMP] Recipe: Caesar Salad
 items.Recipe_Food_Salad_Caesar.description = [TMP] Enseña la receta de <item is="Food_Salad_Caesar"/>.\n\nRestaura instantáneamente <color is="#ffffff">15%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud III</color>\n• <color is="#ffffff">Aumento de Resistencia III</color>\n\nDuración: <color is="#ffffff">6:00</color>
 items.Food_Pie_Pumpkin.description = [TMP] Restaura instantáneamente <color is="#ffffff">15%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud III</color>\n• <color is="#ffffff">Aumento de Resistencia III</color>\n\nDuración: <color is="#ffffff">6:00</color>
-items.Food_Wildmeat_Cooked.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Salud II</color>\n\nDuración: <color is="#ffffff">2:30</color>
-items.Food_Fish_Grilled.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Salud II</color>\n\nDuración: <color is="#ffffff">2:30</color>
+items.Food_Wildmeat_Cooked.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
+items.Food_Fish_Grilled.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud I</color>\n• <color is="#ffffff">Aumento de Salud I</color>\n\nDuración: <color is="#ffffff">0:45</color>
 items.Food_Kebab_Meat.description = [TMP] Restaura instantáneamente <color is="#ffffff">10%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud II</color>\n• <color is="#ffffff">Aumento de Salud II</color>\n\nDuración: <color is="#ffffff">2:30</color>
 items.Food_Pie_Meat.description = [TMP] Restaura instantáneamente <color is="#ffffff">15%</color> de salud y otorga:\n\n• <color is="#ffffff">Regeneración de Salud III</color>\n• <color is="#ffffff">Aumento de Salud III</color>\n\nDuración: <color is="#ffffff">6:00</color>
 items.Food_Wildmeat_Raw.description = [TMP] Restaura instantáneamente <color is="#ffffff">5%</color> de salud.
@@ -6950,6 +7001,12 @@ memories.categories.Undead.title = No Muerto
 memories.categories.Elemental.title = Elemental
 memories.categories.Feran.title = Feran
 
+memories.unlock.title = [TMP] ¡Has desbloqueado la función de Memorias!
+memories.unlock.bullet1 = [TMP] La maldición del Vacío mantiene a Orbis encerrado, pero puede haber una forma de romperla.
+memories.unlock.bullet2 = [TMP] Una deidad reposa dentro de este Corazón de Orbis; busca las memorias de las innumerables criaturas de Orbis y grábala aquí para restaurar su voluntad.
+memories.unlock.bullet3 = [TMP] Tu inventario ahora puede almacenar un número limitado de memorias en una sección especial. \nDevuélvelas al Corazón de Orbis para desbloquear una variedad de recompensas.
+memories.unlock.discoverMemories = [TMP] Descubrir memorias
+
 memories.general.title = Recuerdos
 memories.general.noMemories = No hay recuerdos para registrar
 memories.general.categories = Categorías
@@ -6957,7 +7014,7 @@ memories.general.recordNum = Record {count, number} {count, plural, one {memory}
 memories.general.collected = ¡Nuevo recuerdo recolectado! ¡'{memoryTitle}' descubierto!
 memories.general.featureUnlockedNotification = ¡Recuerdos desbloqueados! ¡Explora las muchas versiones de Orbis para recolectar recuerdos!
 memories.general.featureUnlockedMessage = ¡Has desbloqueado la función de Recuerdos!\nAl encontrarte con criaturas, recolectarás recuerdos que se almacenarán en tu inventario.\n¡Devuelve estos recuerdos al Corazón de Orbis para registrarlos y desbloquear recompensas!
-memories.general.discovered.tooltipText = ¡Recuerdo descubierto!
+memories.general.discovered.tooltipText = ¡Nueva memoria descubierta!\n\nRegresa al Corazón de Orbis en el Templo Olvidado para restaurarla.
 memories.general.undiscovered.tooltipText = ¡Sigue explorando para descubrir este recuerdo!
 memories.general.memoriesLevelProgress = Memories Level: {level} (next level in {count, plural, one {1 memory} other {{count, number} memories}})
 memories.general.chestLocked.tooltipText = [TMP] <color is="#990000"><b>Locked</b></color> \n<color is="#888888">Restore {count, number} {count, plural, one {memory} other {memories}} to unlock.</color>
