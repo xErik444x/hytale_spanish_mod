@@ -41,7 +41,7 @@ jobs:
       - name: Create ZIP
         if: steps.tag_check.outputs.exists == 'false'
         run: |
-          zip -r spanish-translation-${{ steps.version.outputs.version }}.zip \
+          zip -r spanish-translation.zip \
             Server \
             README.md \
             manifest.json
@@ -55,4 +55,4 @@ jobs:
           body: |
             Spanish language pack for Hytale.
             Version: ${{ steps.version.outputs.version }}
-          files: spanish-translation-${{ steps.version.outputs.version }}.zip
+          files: spanish-translation.zip
