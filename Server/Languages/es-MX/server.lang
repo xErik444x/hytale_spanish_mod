@@ -8,7 +8,7 @@ assetEditor.messages.unknownAssetIndex = Índice de recurso desconocido
 assetEditor.messages.directoryOutsideAssetTypeRoot = El directorio debe estar dentro del directorio raíz del tipo de recurso
 assetEditor.messages.unknownAssetType = El tipo de recurso "{assetType}" no existe
 assetEditor.messages.invalidAssetType = Tipo de recurso inválido para la ruta
-assetEditor.messages.invalidFileName = El nombre de archivo especificado no es válido. Algunos caracteres como <>:"|?*/\\: no están permitidos
+assetEditor.messages.invalidFileName = El nombre de archivo especificado no es válido. Algunos caracteres como <>:"|?*/\: no están permitidos
 assetEditor.messages.parentDirectoryMissing = Falta el directorio padre
 assetEditor.messages.requestChildIds.assetTypeMissing = Error al solicitar los ids de los hijos porque el tipo de recurso no existe
 assetEditor.messages.createAsset.failed = Error al crear el recurso
@@ -194,9 +194,7 @@ builderTools.copiedWithEntities = Copiado {blockCount, plural, one {1 bloque} ot
 builderTools.cut = Cortado {blockCount, plural, one {1 bloque} other {{blockCount, number} bloques}}
 builderTools.cutWithEntities = Cortado {blockCount, plural, one {1 bloque} other {{blockCount, number} bloques}} y {entityCount, plural, one {1 entidad} other {{entityCount, number} entidades}}
 
-builderTools.pastedBlocks = Pegado {count, plural,\
-    one {1 block}\
-    other {{count, number} blocks}}
+builderTools.pastedBlocks = Pegado {count, plural,
 builderTools.clipboardRotatedBy = Portapapeles rotado por {angle} en el eje {axis}
 builderTools.clipboardRotatedArbitrary = Portapapeles rotado por yaw: {yaw}, pitch: {pitch}, roll: {roll}
 builderTools.clipboardFlipped = Portapapeles volteado en el eje {axis}
@@ -701,8 +699,7 @@ builderTools.invalidBlockType = {name} '{key}' no es un tipo de bloque válido!
 builderTools.globalmask.setFailed = ¡Error al establecer la máscara global: {reason}!
 builderTools.prefab.prefabNotFound = ¡No se pudo encontrar un prefab con el nombre '{name}'!
 builderTools.prefab.deleted = Eliminado {name}
-builderTools.prefab.confirmDeletion = ¿Estás seguro de que deseas eliminar el archivo {name}!\
-    Run the command again to confirm.
+builderTools.prefab.confirmDeletion = ¿Estás seguro de que deseas eliminar el archivo {name}!
 builderTools.prefab.errorOccured = Ocurrió un error: {reason}
 builderTools.prefab.errorListingPrefabs = ¡Error al listar los prefabs! {reason}
 builderTools.replace.replacementDone = Reemplazados {nb} bloques coincidentes en la selección por {to}
@@ -730,9 +727,7 @@ builderTools.laserPointer.colorParseError = Formato de color láser inválido: {
 builderTools.laserPointer.durationParseError = Valor de duración inválido: {value}. Debe ser un número entre 500 y 10000
 builderTools.layerOperation.layerTwoRequired = Habilitar la capa tres requiere habilitar la capa dos
 builderTools.rotate.invalidBlockType = Rotación inválida, no hay BlockType: {blockType}
-builderTools.brushConfig.executionError = Error al ejecutar la operación de pincel #{index, number}: {type}\
-\
-    Error: {error}
+builderTools.brushConfig.executionError = Error al ejecutar la operación de pincel #{index, number}: {type}
 builderTools.brushConfig.settings.header = Configuraciones de pincel programadas:
 builderTools.brushConfig.settings.item = \t{name}: {value}
 builderTools.brushConfig.debug.operationExecuting = [{index, number}] {name}
@@ -763,8 +758,7 @@ commands.trigger.failedToSet = Error al establecer el script: {message}
 commands.trigger.failedToLoad = Error al cargar el script: {message}
 commands.trigger.invalidPath = "{path}" no es una ruta de script válida!
 commands.trigger.enabled = ¡Los disparadores ahora están habilitados globalmente!
-commands.trigger.disabled = ¡Los disparadores ahora están deshabilitados globalmente!\n\
-    They will be re-enabled after a reboot or running the command /trigger enable.
+commands.trigger.disabled = ¡Los disparadores ahora están deshabilitados globalmente!\n
 commands.teleport.notFurther = ¡No se puede teletransportar más en esta dirección!
 commands.teleport.setHome = El hogar se ha establecido en tu ubicación actual.
 commands.teleport.worldNotLoaded = ¡Este mundo ya no está cargado!
@@ -1362,7 +1356,7 @@ commands.relative_coordinate = Coordenada relativa
 commands.confirm = Usar para confirmar la intención de ejecutar este comando
 commands.notfound = No se pudo encontrar {type}: {id}
 commands.parsing.test = Esta es una prueba de cadenas de traducción
-commands.parsing.usage.header = {fullyQualifiedName}: {description} \n/{fullyQualifiedName} {listOfRequiredArgs}{requiresConfirmation}{requiredArgs}{optionalArgs}{defaultArgs}{flagArgs}{argTypes}{variants}{subcommands}
+commands.parsing.usage.header = {fullyQualifiedName}: {description}\n/{fullyQualifiedName} {listOfRequiredArgs}{requiresConfirmation}{requiredArgs}{optionalArgs}{defaultArgs}{flagArgs}{argTypes}{variants}{subcommands}
 commands.parsing.usage.requiresConfirmation = \nEste comando requiere que se especifique el argumento de bandera "--confirm" para ejecutarse, asegúrate de revisar tu comando antes de ejecutarlo
 commands.parsing.usage.flagArgs = \nArgumentos de Bandera: {args}
 commands.parsing.usage.defaultArgs = \nArgumentos de Valor Predeterminado: {args}
@@ -1599,60 +1593,27 @@ commands.toggleBlockPlacementOverride.disabled = Anulación de colocación de bl
 commands.kill.success = Maté a {username}
 commands.kill.success.self = [TMP] Te mataste a ti mismo
 commands.kill.success.other = [TMP] Maté a {username}
-commands.maxviewradius.info = Tu radio de visión es {radius, plural,\
-    one {1 chunk}\
-    other {{radius, number} chunks}} (Client: {clientRadius, plural,\
-    one {1 chunk}\
-    other {{clientRadius, number} chunks}}).
-commands.maxviewradius.noHigherThan = No puedes establecer tu radio de visión máximo más alto que {radius, plural,\
-    one {1 chunk}\
-    other {{radius, number} chunks}}
-commands.maxviewradius.changed = El radio máximo de chunk del servidor ha sido establecido a {radius, plural,\
-    one {1 chunk}\
-    other {{radius, number} chunks}}
+commands.maxviewradius.info = Tu radio de visión es {radius, plural,
+commands.maxviewradius.noHigherThan = No puedes establecer tu radio de visión máximo más alto que {radius, plural,
+commands.maxviewradius.changed = El radio máximo de chunk del servidor ha sido establecido a {radius, plural,
 commands.player.viewradius.desc = Comandos para gestionar el radio de visión del jugador
 commands.player.viewradius.get.desc = Obtiene el radio de visión actual del jugador
 commands.player.viewradius.set.desc = Establece el radio de visión del jugador
 commands.player.viewradius.set.radius.desc = El valor del radio de visión (número o "predeterminado")
 commands.player.viewradius.set.blocks.desc = Especifica el radio en bloques en lugar de chunks
 commands.player.viewradius.set.bypass.desc = Ignorar el límite máximo de radio de visión
-commands.player.viewradius.info = Radio de visión: {radius, plural,\
-    one {1 chunk}\
-    other {{radius, number} chunks}} (Client: {clientRadius, plural,\
-    one {1 chunk}\
-    other {{clientRadius, number} chunks}}) ({radiusBlocks, number} blocks)
+commands.player.viewradius.info = Radio de visión: {radius, plural,
 commands.player.viewradius.set.invalidNumber = Número inválido: {value}
-commands.player.viewradius.set.noHigherThan = No se puede establecer el radio de visión más alto que {radius, plural,\
-    one {1 chunk}\
-    other {{radius, number} chunks}} without --bypass flag
-commands.player.viewradius.set.success = Radio de visión establecido en {radius, plural,\
-    one {1 chunk}\
-    other {{radius, number} chunks}} ({radiusBlocks, number} blocks)
+commands.player.viewradius.set.noHigherThan = No se puede establecer el radio de visión más alto que {radius, plural,
+commands.player.viewradius.set.success = Radio de visión establecido en {radius, plural,
 commands.stat.success = Establecer {name} en {value}
 commands.sudo.invalidusage = ¡Uso inválido! Uso válido: /su Jugador Comando
 commands.sudo.player.desc = El jugador para ejecutar el comando como (o "*" para todos los jugadores)
-commands.whereami.header = Actualmente estás:\n\
-  World: {world}\n\
-  Chunk: {chunkX, number}, {chunkY, number}, {chunkZ, number}\n\
-  Position: {posX, number}, {posY, number}, {posZ, number}\n\
-  Look: {yaw, number}, {pitch, number}, {roll, number}\n\
-  Direction: {direction}\n\
-  Axis Direction: {axisDirection}\n\
-  Axis: {axis}\n
-commands.whereami.header.other = [TMP] {username} está actualmente:\n\
-  World: {world}\n\
-  Chunk: {chunkX, number}, {chunkY, number}, {chunkZ, number}\n\
-  Position: {posX, number}, {posY, number}, {posZ, number}\n\
-  Look: {yaw, number}, {pitch, number}, {roll, number}\n\
-  Direction: {direction}\n\
-  Axis Direction: {axisDirection}\n\
-  Axis: {axis}\n
+commands.whereami.header = Actualmente estás:\n
+commands.whereami.header.other = [TMP] {username} está actualmente:\n
 commands.whereami.needsSaving = Necesita guardado: {needsSaving}
 commands.whereami.chunkNotLoaded = ¡El chunk no está cargado!
-commands.whoami.header = Tu información de jugador:\n\
-  UUID: {uuid}\n\
-  Username: {username}\n\
-  Language: {language}\n
+commands.whoami.header = Tu información de jugador:\n
 commands.clearinv.success = Inventario vaciado.
 commands.give.unableToFind = No se pudo encontrar el ítem o bloque "{itemId}"
 commands.give.insufficientInvSpace = No se pudo dar {quantity, number} de {item}; espacio de inventario insuficiente.
@@ -1666,12 +1627,8 @@ commands.give.invalidMetadata = Formato de metadatos inválido: {error}
 commands.kick.success = ¡Expulsado {username}!
 commands.version.response = HytaleServer v{version} ({patchline})
 commands.version.response.withEnvironment = HytaleServer v{version} ({patchline}, {environment})
-commands.maxplayers.get = Máximo de jugadores establecido en: {maxPlayers, plural,\
-    one {infinite}\
-    other {maxPlayers, number}}
-commands.maxplayers.set = El máximo de jugadores ha sido establecido en {maxPlayers, plural,\
-    one {infinite}\
-    other {maxPlayers, number}}
+commands.maxplayers.get = Máximo de jugadores establecido en: {maxPlayers, plural,
+commands.maxplayers.set = El máximo de jugadores ha sido establecido en {maxPlayers, plural,
 commands.maxplayers.amount.desc = El número máximo de jugadores permitidos en el servidor
 commands.stop.success = ¡Apagando!
 commands.stop.crash.desc = Hacer que el servidor se caiga en lugar de apagarse normalmente
@@ -1680,12 +1637,9 @@ commands.backup.complete = ¡Copia de seguridad completada!
 commands.backup.failed = ¡Falló al hacer una copia de seguridad! Por favor, revisa la consola del servidor.
 commands.backup.notConfigured = ¡El servidor debe ser iniciado con --backup-dir para usar este comando!
 commands.help.failedToFindCommand = No se pudo encontrar el comando: {command}
-commands.help.exact = Ayuda para {command}:\n\
-    Description: {description}\n
+commands.help.exact = Ayuda para {command}:\n
 commands.help.fileGenerated = {file} ha sido generado!
-commands.toggleexplosives.success = Los explosivos ahora están {state, select,\
-    true {on}\
-    false {off}}.
+commands.toggleexplosives.success = Los explosivos ahora están {state, select,
 commands.auth.dump.failed = Falló al volcar el certificado: {message}
 commands.auth.refresh = Refrescado: {success}
 commands.auth.reload = Recargado
@@ -1886,11 +1840,8 @@ commands.lightingcalculation.unknownCalculation = Tipo de cálculo de luz descon
 commands.lightcalculation.setCalculationWithDelegate = Establecer el cálculo de iluminación del chunk a brillo total con delegado de '{delegate}'!
 commands.lighting.info.desc = Mostrar información de iluminación
 commands.lighting.info.detail.desc = Mostrar información detallada del chunk
-commands.lighting.info.summary = Tamaño de la cola: {queueSize, number}\n\
-    Light Calculation: {lightCalculation}
-commands.lighting.info.chunkDetails = Total de secciones de chunk: {totalChunkSections, number}\n\
-    Chunks With Local Light: {chunksWithLocalLight, number}\n\
-    Chunks With Global Light: {chunksWithGlobalLight, number}
+commands.lighting.info.summary = Tamaño de la cola: {queueSize, number}\n
+commands.lighting.info.chunkDetails = Total de secciones de chunk: {totalChunkSections, number}\n
 commands.reset.playerReset = Reiniciar jugador: {uuid}
 commands.sendlighting.desc = Comandos para alternar el envío de datos de iluminación
 commands.sendlighting.local.desc = Alternar el envío de datos de iluminación local
@@ -1934,16 +1885,7 @@ commands.validatecpb.path.desc = La ruta a validar (opcional, valida todos los p
 commands.validatecpb.failed = Error:\n {failed}\n
 commands.worldgen.reload.alreadyInProgress = ¡Recarga de generación de mundo ya en progreso!
 commands.worldgen.reload.abort = Alguien más inició una recarga de generación de mundo al mismo tiempo. Abortando.
-commands.worldgen.timings = {worldName}:\n\
-    \tChunk Count: {chunkCount, number}\n\
-    \tChunk Time: {chunkTime, number}\n\
-    \tZone Biome Result Time: {zoneBiomeResultTime, number}\n\
-    \tPrepare Time: {prepareTime, number}\n\
-    \tBlock Generation Time: {blockGenerationTime, number}\n\
-    \tCave Generation Time: {caveGenerationTime, number}\n\
-    \tPrefab Generation: {prefabGeneration, number}\n\
-    \tQueue Length: {queueLength, number}\n\
-    \tGenerating Count: {generatingCount, number}\n
+commands.worldgen.timings = {worldName}:\n
 commands.worldgen.noTimings = {worldName}: No se recopilaron datos de tiempos
 commands.worldgen.desc = Comandos de configuración de generación de mundo
 commands.worldgen.reload.desc = Recargar configuración de generación de mundo
@@ -2216,7 +2158,7 @@ commands.kill.desc = Mata y respawnea al jugador
 commands.kill.other.desc = [TMP] Matar a otro jugador
 commands.damage.desc = Daño al jugador
 commands.damage.other.desc = [TMP] Daño a otro jugador
-commands.damage.disabled = /!\ ¡El daño al jugador está deshabilitado desde GameplayConfig!
+commands.damage.disabled = /! ¡El daño al jugador está deshabilitado desde GameplayConfig!
 commands.damage.arg.amount.desc = La cantidad de daño bruto a infligir
 commands.damage.arg.silent.desc = Si enviar mensajes de chat al atacante/víctima
 commands.damage.dealt = Se infligieron {damage} de daño a {victim}
@@ -2461,9 +2403,7 @@ commands.chunk.maxsendrate.sec.set = Establecer máx. chunks por segundo: {value
 commands.chunk.maxsendrate.tick.desc = Máx. chunks por tick. Omite el argumento para establecerlo en predeterminado.
 commands.chunk.maxsendrate.tick.setToDefault = Establecer máx. chunks por tick a predeterminado
 commands.chunk.maxsendrate.tick.set = Establecer máx. chunks por tick: {value, number}
-commands.chunk.maxsendrate.summary = Tasa de envío de chunks:\n\
-    \tPer second: {perSecond, number}\n\
-    \tPer tick: {perTick, number}
+commands.chunk.maxsendrate.summary = Tasa de envío de chunks:\n
 commands.chunk.fixHeightMap.started = Corrigiendo mapa de alturas...
 commands.chunk.fixHeightMap.done = ¡Listo!
 commands.chunk.fixHeightMap.invalidatingLighting = Invalidando iluminación...
@@ -2486,33 +2426,11 @@ commands.help.page.desc = El número de página a mostrar (basado en 1)
 commands.help.page.subcommand.desc = Mostrar una página específica de la lista de comandos
 commands.help.page.defaultDesc = La primera página
 commands.help.pageDoesNotExist = ¡Esa página no existe!
-commands.chunkinfo.chunk = Chunk {chunkX}, {chunkZ}:\n\
-  \tFlags: \n\
-    \t\tStart Init: {startInit}\n\
-    \t\tInit: {init}\n\
-    \t\tNewly Generated: {newlyGenerated}\n\
-    \t\tOn Disk: {onDisk}\n\
-    \t\tTicking: {ticking}\n\
-  \tKeep Loaded: {keepLoaded}\n\
-  \tNeeds Saving: {saving}\n\
-  \tMetadata:\n\
-  \tBlockChunk:\n\
-    \t\tNeeds Saving: {savingChunk}\n
+commands.chunkinfo.chunk = Chunk {chunkX}, {chunkZ}:\n
 commands.chunkinfo.section = \t\tSección {index}:\n
 commands.chunkinfo.dataType = \t\t\tTipo de dato: {data}\n
-commands.chunkinfo.sectionInfo = \t\t\tTiene Ticking: {ticking}\n\
-      \t\t\tIs Solid Air: {solidAir}\n\
-      \t\t\tBlock Count: {count}\n\
-      \t\t\tBlock Counts: {counts}\n
-commands.chunkinfo.blockStateChunk = \tEstado del bloque del chunk:\n\
-    \t\tNeeds Saving: {saving}\n\
-    \t\tBlock States: {countStates}\n\
-    \t\tUnknown Block States: {countUnknown}\n\
-    \t\tSendable Block States: {countSendable}\n\
-    \t\tTickable Block States: {countTickable}\n\
-  \tEntity Chunk:\n\
-    \t\tNeeds Saving: {savingEntity}\n\
-    \t\tEntities: {countEntities}\n
+commands.chunkinfo.sectionInfo = \t\t\tTiene Ticking: {ticking}\n
+commands.chunkinfo.blockStateChunk = \tEstado del bloque del chunk:\n
 commands.tps.desc = Obtener el TPS de todos los mundos
 commands.tps.usePerf = Deberías usar /perf
 commands.tps.set.invalidValue = El TPS debe ser positivo
@@ -2616,28 +2534,14 @@ commands.server.desc = Comandos relacionados con el servidor
 commands.server.stats.desc = Proporcionar estadísticas sobre la máquina que aloja el servidor
 commands.server.stats.fullInfoUnavailable = Información completa no disponible (anfitrión no compatible)
 commands.server.stats.cpu.desc = Proporcionar estadísticas de CPU
-commands.server.stats.cpu.fullUsageInfo = Carga de CPU del sistema: {systemLoad, number}\n\
-    Process CPU Load: {processLoad, number}
-commands.server.stats.cpu.usageInfo = Carga promedio: {loadAverage, number}\n\
-    Process Uptime: {processUptime}
+commands.server.stats.cpu.fullUsageInfo = Carga de CPU del sistema: {systemLoad, number}\n
+commands.server.stats.cpu.usageInfo = Carga promedio: {loadAverage, number}\n
 commands.server.stats.gc.desc = Proporcionar estadísticas de GC
-commands.server.stats.gc.usageInfo = Nombre: {name}\n\
-    Memory Pool Names: {poolNames}\n\
-    Collection Count: {collectionCount, number}\n\
-    Collection Time: {collectionTime}
+commands.server.stats.gc.usageInfo = Nombre: {name}\n
 commands.server.stats.memory.desc = Proporcionar estadísticas de uso de memoria
-commands.server.stats.memory.fullUsageInfo = Memoria física total: {totalPhysicalMemory}\n\
-    Free Physical Memory: {freePhysicalMemory}\n\
-    Total Swap Memory: {totalSwapMemory}\n\
-    Free Swap Memory: {freeSwapMemory}
-commands.server.stats.memory.usageInfo = Uso de memoria del heap:\n{heapMemoryUsage}\n\
-    Non-Heap Memory Usage:\n{nonHeapMemoryUsage}\n\
-    Objects Pending Finalization: {objectsPendingFinalizationCount, number}
-commands.server.stats.memory.usage = \tInit: {init}\n\
-    \tUsed: {used}\n\
-    \tCommitted: {committed}\n\
-    \tMax: {max}\n\
-    \tFree: {free}
+commands.server.stats.memory.fullUsageInfo = Memoria física total: {totalPhysicalMemory}\n
+commands.server.stats.memory.usageInfo = Uso de memoria del heap:\n{heapMemoryUsage}\n
+commands.server.stats.memory.usage = \tInit: {init}\n
 commands.server.gc.desc = Forzar al servidor a realizar un GC
 commands.server.gc.forcedgc = ¡GC forzado! Liberado: {bytes}
 commands.server.gc.forcedgc.increased = ¡GC forzado! No se liberó; aumentó en {bytes}. ¡El servidor probablemente está haciendo su trabajo!
@@ -2791,35 +2695,12 @@ commands.network.knockbackDebugEnabled = Depuración de rebote: {enabled}
 commands.networkChunkSending.noComponent = El jugador no tiene el componente ChunkTracker
 commands.networkChunkSending.set = Configurar el envío de red de chunk para {username}: {enabled}
 commands.inventory.backpack.size = ¡La capacidad de tu mochila ha aumentado a {capacity, number}!
-commands.inventory.backpack.resized = Capacidad de mochila redimensionada a {capacity, number} (desechado {dropped, plural,\
-    one {1 item}\
-    other {{dropped, number} items}})
+commands.inventory.backpack.resized = Capacidad de mochila redimensionada a {capacity, number} (desechado {dropped, plural,
 commands.inventory.item.noItemInHand = El jugador debe estar sosteniendo un objeto
 commands.inventory.item.noContainerOnItem = El objeto no tiene un contenedor
-commands.entityTracker.summary = Entidades:\n\
-    \tVisible: {visibleCount, number}\n\
-    \tLOD Excluded: {lodExcludedCount, number}\n\
-    \tHidden: {hiddenCount, number}\n\
-    \tTotal: {totalCount, number}\n\
-    World Total: {worldTotalCount, number}\n\
-    View Radius: {viewRadius, number} ({viewRadiusBlocks, number})
-commands.chunkTracker.loaded = # = Caliente, & = Frío, % = Cargando, X = Necesita descargar, ' ' = No cargado\n\
-    {grid}\n\
-    View Radius: {viewRadius, number}\n\
-    Sent View Radius: {sentViewRadius, number}\n\
-    Hot Radius: {hotRadius, number}\n\
-    Ready For Chunks: {readyForChunks}\n\
-    Loaded: {loaded, number}\n\
-    Loading: {loading, number}
-commands.chunkTracker.summary = Chunks:\n\
-    \tMax chunks per second: {maxChunksPerSecond, number}\n\
-    \tMax chunks per tick: {maxChunksPerTick, number}\n\
-    \tChunk loaded radius:\n\
-    \t\tMin: {minChunkLoadedRadius, number}\n\
-    \t\tMax hot loaded: {maxHotChunkLoadedRadius, number}\n\
-    \tLoaded chunks (player): {loadedPlayerChunks, number}\n\
-    \tLoading chunks (player): {loadingPlayerChunks, number}\n\
-    Loaded chunks (world): {loadedWorldChunks, number}
+commands.entityTracker.summary = Entidades:\n
+commands.chunkTracker.loaded = # = Caliente, & = Frío, % = Cargando, X = Necesita descargar, ' ' = No cargado\n
+commands.chunkTracker.summary = Chunks:\n
 commands.damage.desyncdamage.desc = Alternar modo de daño desincronizado para fines de prueba
 commands.damage.desyncDamageEnabled = Daño desincronizado habilitado: {enabled}
 commands.interaction.desc = Comandos de ejecución de interacción
@@ -2838,25 +2719,14 @@ commands.interaction.snapshotSource.set = Fuente de instantánea establecida en:
 commands.interaction.clear.desc = Limpiar las interacciones de un jugador
 commands.checkBlockId.result = ({x, number}, {y, number}, {z, number}) {name}
 commands.debugplayerposition.desc = Quizás ayudar con la depuración de la posición de tu jugador (para desincronización del cliente)
-commands.debugplayerposition.result = Tus posiciones:\n\
-    Position: {bodyPosition}\n\
-    Rotation: {bodyRotation}\n\
-    Head Rotation: {headRotation}\n\
-    Teleport: {teleport}\n\
-    Pending Teleport: {pendingTeleport}
+commands.debugplayerposition.result = Tus posiciones:\n
 commands.debugplayerposition.notify = Se ha generado un objeto de depuración azul en tu posición.
 commands.packetStats.desc = Mostrar estadísticas de paquetes para un paquete específico
 commands.packetStats.packet.desc = El nombre del paquete para obtener estadísticas
 commands.packetStats.notFound = No se encontraron estadísticas de paquete para '{name}'
 commands.packetStats.notAvailable = Estadísticas de paquete no disponibles
 commands.packetStats.row = Conteo: {count, number}, Tamaño: {size}, Promedio: {avg}, Mínimo: {min}, Máximo: {max}
-commands.packetStats.stats = Estadísticas del paquete {name} [#{id, number}]\n\
-    Sent:\n\
-    \tTotal: {sentTotal}\n\
-    \tRecent: {sentRecent}\n\
-    Received:\n\
-    \tTotal: {receivedTotal}\n\
-    \tRecent: {receivedRecent}
+commands.packetStats.stats = Estadísticas del paquete {name} [#{id, number}]\n
 commands.checkUniqueItemUsage.uniqueItemAlreadyUsed = ¡Un objeto de este tipo solo se puede usar una vez y ya has usado uno!
 commands.pause.desc = Pausa/reanuda el juego
 commands.pause.updated = El mundo ahora está {state}
@@ -2904,12 +2774,9 @@ commands.npc.blackboard.chunk.blockSet = Conjunto de bloques: {id}\n  Bloques:
 commands.npc.blackboard.views.title = Vistas de pizarra:
 commands.npc.blackboard.views.partialViews = Total de vistas parciales: {count}\nVistas:\n
 commands.npc.blackboard.views.view = Vista ({x}, {z}) Entidades: {size}, Conjuntos de bloques: {cardinal}
-commands.npc.blackboard.chunks.chunkInfo = Información del chunk de la pizarra:\n\
-  \tTotal sections: {nb}\n\
-  \tChunk sections:\n
+commands.npc.blackboard.chunks.chunkInfo = Información del chunk de la pizarra:\n
 commands.npc.blackboard.chunks.detailed_entry = \t{x}, {y}, {z} ({count} entradas, {blockSets} Conjuntos de bloques)\n
-commands.npc.blackboard.chunk.entry = Entrada del chunk de la pizarra {index} ({chunkX}, {chunkY}, {chunkZ}):\n\
-  Partial blackboard grid coordinates: {regionChunkX}, {regionChunkZ}
+commands.npc.blackboard.chunk.entry = Entrada del chunk de la pizarra {index} ({chunkX}, {chunkY}, {chunkZ}):\n
 commands.npc.blackboard.view.title = Vista ({x}, {z})
 commands.npc.blackboard.view.coordinates = Cubre coordenadas del mundo: ({x1}, {z1}) a ({x2}, {z2})
 commands.npc.blackboard.view.noPartialViews = No existe vista parcial
@@ -2945,8 +2812,7 @@ commands.npc.debug.presets.desc = Mostrar todas las banderas de depuración disp
 commands.npc.debug.presets.preset.desc = Nombre del preset para mostrar banderas
 commands.npc.debug.currentFlags = Rol {role} - Banderas de depuración actuales: {flags}
 commands.npc.debug.debugFlagsSet = Rol {role} - Banderas de depuración establecidas en: {flags}
-commands.npc.debug.presets.info = Banderas de depuración de NPC:\n{flags}\n\n\
-  NPC debug presets:\n{presets}\n\n
+commands.npc.debug.presets.info = Banderas de depuración de NPC:\n{flags}\n\n
 commands.npc.debug.preset.info = Banderas de depuración de NPC para el preset {preset}:\n{flags}\n\n
 commands.npc.dump.desc = Volcar toda la información del componente sobre un NPC
 commands.npc.dump.json = Volcar en formato json
@@ -3152,14 +3018,7 @@ commands.importimage.desc = Abrir la herramienta de importación de imagen a blo
 commands.auth.desc = Gestionar la autenticación del servidor
 # Auth status
 commands.auth.status.desc = Mostrar el estado actual de autenticación
-commands.auth.status.format = === Estado de Autenticación del Servidor ===\n\
-    Connection Auth: {connectionMode}\n\
-    Token Source: {tokenMode}\n\
-    Profile: {profile}\n\
-    Session Token: {sessionToken}\n\
-    Identity Token: {identityToken}\n\
-    Expiry: {expiry}\n\
-    Certificate: {certificate}
+commands.auth.status.format = === Estado de Autenticación del Servidor ===\n
 commands.auth.status.connectionMode.authenticated = Autenticado (mTLS + JWT)
 commands.auth.status.connectionMode.offline = Desconectado
 commands.auth.status.connectionMode.insecure = Inseguro (desarrollo)
@@ -3217,9 +3076,7 @@ commands.auth.persistence.available = Tipos disponibles: {types}
 commands.auth.persistence.type.desc = Tipo de almacenamiento (por ejemplo, Memoria, Archivo)
 commands.auth.persistence.variant.desc = Cambiar método de almacenamiento de credenciales
 # Auth login persistence feedback
-commands.auth.login.persistence.memory = ADVERTENCIA: Credenciales almacenadas solo en memoria - ¡se perderán al reiniciar!\n\
-    To persist credentials, run: /auth persistence <type>\n\
-    Available types: {types}
+commands.auth.login.persistence.memory = ADVERTENCIA: Credenciales almacenadas solo en memoria - ¡se perderán al reiniciar!\n
 commands.auth.login.persistence.saved = Credenciales guardadas usando: {type}
 commands.droplist.desc = Simular las caídas para una lista de caídas dada
 commands.droplist.set.droplist.desc = El id de la lista de caídas utilizada para simular caídas.
@@ -5342,7 +5199,7 @@ items.Launchpad.name = Plataforma de Lanzamiento - Launch Platform
 items.Portal_Pad_Wind.name = Plataforma de Teletransportación - Warp Platform
 items.Portal_Pad_Zone2.name = Portal de Mazmorras - Dungeon Portal
 items.Portal_Prefab.name = Portal Prefabricado - Prefab Portal
-items.PortalKey.description = Coloca en el <item is="Portal_Device"/> para visitar este Fragmento. \nTrabajo en Progreso
+items.PortalKey.description = Coloca en el <item is="Portal_Device"/> para visitar este Fragmento.\nTrabajo en Progreso
 items.PortalKey_Windsurf_Valley.name = Fragmento: Orbis - Valle del Jinete del Viento - Fragment: Orbis - Windrider Valley
 items.PortalKey_Windsurf_Valley.description = <msg key="server.items.PortalKey.description"/>\n\n<i>Un Feran valora la libertad por encima de todo, y en ningún lugar se encarna esa libertad más que en los vientos del Valle del Jinete del Viento.</i>
 items.PortalKey_Jungles.name = Fragmento: Orbis - Refugio de Tal'Kesi - Fragment: Orbis - Tal'Kesi Refuge
@@ -6143,7 +6000,7 @@ items.Test_Pedestal.name = Pedestal de Prueba - Test Pedestal
 items.Tinkering_Target_Dummy.name = Muñeco de Entrenamiento - Training Dummy
 items.Tool_Bark_Scraper.name = Raspador de Corteza - Bark Scraper
 items.Tool_Capture_Crate.name = Caja de Captura - Capture Crate
-items.Tool_Capture_Crate.nameFull = Caja de Captura ({npc}) - Capture Crate ({npc})
+items.Tool_Capture_Crate.nameFull = Caja de Captura ({npc})
 items.Tool_Capture_Crate.description = Usado para capturar pequeños animales y llevarlos de vuelta a tu hogar.
 items.Tool_Feedbag.name = Bolsa de Comida - Feed Bag
 items.Tool_Feedbag.description = [TMP] Una bolsa de alimento para animales, algunos animales podrían ser atraídos por esto.
@@ -6421,10 +6278,7 @@ items.Weapon_Spellbook_Frost.name = Libro de Hechizos de Escarcha - Frost Spellb
 items.Weapon_Spellbook_Grimoire_Brown.name = Grimorio Marrón - Brown Grimoire
 items.Weapon_Spellbook_Grimoire_Purple.name = Grimorio Púrpura - Purple Grimoire
 items.Weapon_Spellbook_Rekindle_Embers.name = Grimorio: Reavivar Brasas - Grimoire: Rekindle Embers
-items.Weapon_Spellbook_Rekindle_Embers.description = Levanta minions esqueléticos de pilas de huesos cercanas.\n\
-\n\• Only applies to the bones of species once bound to elemental fire.\n\
-• Minions despawn when their summoner is lost, or after 5 minutes.\n\
-\n<color is = "#ccaa00">Consume 1 grimorio por minion levantado.</color>
+items.Weapon_Spellbook_Rekindle_Embers.description = Levanta súbditos esqueléticos de montones de huesos cercanos.\n\n• Solo se aplica a los huesos de especies que alguna vez estuvieron atadas al fuego elemental.\n\n• Los súbditos desaparecen cuando su invocador se pierde, o después de 5 minutos.\n\n<color is="#ccaa00">Consume 1 grimorio por súbdito levantado.</color>
 items.Weapon_Staff_Adamantite.name = Bastón de Adamantita - Adamantite Staff
 items.Weapon_Staff_Bo_Bamboo.name = Bastón Bo de Bambú - Bamboo Bo Staff
 items.Weapon_Staff_Bo_Wood.name = Bastón Bo de Madera - Wooden Bo Staff
@@ -7107,7 +6961,7 @@ memories.categories.Voidtaken.title = Tomado por el Vacío
 memories.unlock.title = [TMP] ¡Has desbloqueado la función de Memorias!
 memories.unlock.bullet1 = [TMP] La maldición del Vacío mantiene a Orbis encerrado, pero puede haber una forma de romperla.
 memories.unlock.bullet2 = [TMP] Una deidad reposa dentro de este Corazón de Orbis; busca las memorias de las innumerables criaturas de Orbis y grábala aquí para restaurar su voluntad.
-memories.unlock.bullet3 = [TMP] Tu inventario ahora puede almacenar un número limitado de memorias en una sección especial. \nDevuélvelas al Corazón de Orbis para desbloquear una variedad de recompensas.
+memories.unlock.bullet3 = [TMP] Tu inventario ahora puede almacenar un número limitado de memorias en una sección especial.\nDevuélvelas al Corazón de Orbis para desbloquear una variedad de recompensas.
 memories.unlock.discoverMemories = [TMP] Descubrir memorias
 
 memories.general.title = Recuerdos
@@ -7120,13 +6974,13 @@ memories.general.featureUnlockedMessage = ¡Has desbloqueado la función de Recu
 memories.general.discovered.tooltipText = ¡Nueva memoria descubierta!\n\nRegresa al Corazón de Orbis en el Templo Olvidado para restaurarla.
 memories.general.undiscovered.tooltipText = ¡Sigue explorando para descubrir este recuerdo!
 memories.general.memoriesLevelProgress = Nivel de Memorias: {level} (siguiente nivel en {count, plural, one {1 memoria} other {{count, number} memorias}})
-memories.general.chestLocked.tooltipText = [TMP] <color is="#990000"><b>Bloqueado</b></color> \n<color is="#888888">Restaura {count, number} {count, plural, one {memoria} other {memorias}} para desbloquear.</color>
-memories.general.chestActive.tooltipText = [TMP] <color is="#1eab1e"><b>Desbloqueado</b></color> \n<color is="#888888">{count, number} {count, plural, one {memoria} other {memorias}}</color>
-memories.general.chestActive.level1.rewards = [TMP] \nSe puede fabricar lo siguiente:\n• +3 Cofres Decorativos (Banco de Trabajo de Muebles)\n• +2 Semillas Eternas (Banco de Trabajo de Agricultor)\n\nEn Progreso
-memories.general.chestActive.level2.rewards = [TMP] \nSe puede fabricar lo siguiente:\n• +3 Cofres Decorativos (Banco de Trabajo de Muebles)\n• +4 Semillas Eternas (Banco de Trabajo de Agricultor)\n\n+1 Teletransportadores Máximos\n\nEn Progreso
-memories.general.chestActive.level3.rewards = [TMP] \nSe puede fabricar lo siguiente:\n• Pócimas de Morfosis (Banco de Trabajo de Alquimista)\n• +3 Cofres Decorativos (Banco de Trabajo de Muebles)\n• +4 Semillas Eternas (Banco de Trabajo de Agricultor)\n\n+1 Teletransportadores Máximos\n\nEn Progreso
-memories.general.chestActive.level4.rewards = [TMP] \nSe puede fabricar lo siguiente:\n• Portal Antiguo (Banco de Trabajo de Arcanista)\n• Fragmentos de Portal (Banco de Trabajo de Arcanista)\n• Mejora de Mochila II (Banco de Trabajo)\n• +3 Cofres Decorativos (Banco de Trabajo de Muebles)\n• +2 Semillas Eternas (Banco de Trabajo de Agricultor)\n\n+2 Teletransportadores Máximos\n\nEn Progreso
-memories.general.chestActive.level5.rewards = [TMP] \nSe puede fabricar lo siguiente:\n• Trofeo de Cosecha (Banco de Trabajo de Agricultor)\n• +2 Cofres Decorativos (Banco de Trabajo de Muebles)\n• +2 Semillas Eternas (Banco de Trabajo de Agricultor)\n\n+2 Teletransportadores Máximos\n\nEn Progreso
+memories.general.chestLocked.tooltipText = [TMP] <color is="#990000"><b>Bloqueado</b></color>\n<color is="#888888">Restaura {count, number} {count, plural, one {memoria} other {memorias}} para desbloquear.</color>
+memories.general.chestActive.tooltipText = [TMP] <color is="#1eab1e"><b>Desbloqueado</b></color>\n<color is="#888888">{count, number} {count, plural, one {memoria} other {memorias}}</color>
+memories.general.chestActive.level1.rewards = [TMP]\nSe puede fabricar lo siguiente:\n• +3 Cofres Decorativos (Banco de Trabajo de Muebles)\n• +2 Semillas Eternas (Banco de Trabajo de Agricultor)\n\nEn Progreso
+memories.general.chestActive.level2.rewards = [TMP]\nSe puede fabricar lo siguiente:\n• +3 Cofres Decorativos (Banco de Trabajo de Muebles)\n• +4 Semillas Eternas (Banco de Trabajo de Agricultor)\n\n+1 Teletransportadores Máximos\n\nEn Progreso
+memories.general.chestActive.level3.rewards = [TMP]\nSe puede fabricar lo siguiente:\n• Pócimas de Morfosis (Banco de Trabajo de Alquimista)\n• +3 Cofres Decorativos (Banco de Trabajo de Muebles)\n• +4 Semillas Eternas (Banco de Trabajo de Agricultor)\n\n+1 Teletransportadores Máximos\n\nEn Progreso
+memories.general.chestActive.level4.rewards = [TMP]\nSe puede fabricar lo siguiente:\n• Portal Antiguo (Banco de Trabajo de Arcanista)\n• Fragmentos de Portal (Banco de Trabajo de Arcanista)\n• Mejora de Mochila II (Banco de Trabajo)\n• +3 Cofres Decorativos (Banco de Trabajo de Muebles)\n• +2 Semillas Eternas (Banco de Trabajo de Agricultor)\n\n+2 Teletransportadores Máximos\n\nEn Progreso
+memories.general.chestActive.level5.rewards = [TMP]\nSe puede fabricar lo siguiente:\n• Trofeo de Cosecha (Banco de Trabajo de Agricultor)\n• +2 Cofres Decorativos (Banco de Trabajo de Muebles)\n• +2 Semillas Eternas (Banco de Trabajo de Agricultor)\n\n+2 Teletransportadores Máximos\n\nEn Progreso
 memories.general.memoriesLevelMax = Nivel de Memorias: {level} (nivel máximo)
 memories.general.totalCollected = Total recolectado:
 memories.general.foundIn = Encontrado en {location}, {time}
@@ -7207,10 +7061,7 @@ npc.npcpath.nodes.pathDesc = Camino [ {name} ]:\n Longitud: {length}\n Totalment
 npc.npcpath.nodes.waypointNotLoaded = \n  #{index} (No Cargado)
 npc.spawn.spawnedOne = NPC generado: {type}
 npc.spawn.spawnedMany = Generado {quantity}x NPC: {type}
-npc.npcpath.nodes.node = \n\t#{index} ({posX}, {posY}, {posZ})\n\
-    \t\tRotation: ({rotX}, {rotY}, {rotZ})\n\
-    \t\tPause time: {time}s\n\
-    \t\tObservation angle: {angle}
+npc.npcpath.nodes.node = \n\t#{index} ({posX}, {posY}, {posZ})\n
 npc.tests.Test_Bird = Verificar vuelo correcto
 npc.tests.Test_Block_Sensor = Verificar acercamientos a estatuas y movimientos entre ellas
 npc.tests.Test_Attack_Bow = Verificar que apunta y usa ataque a distancia correctamente
@@ -7829,31 +7680,14 @@ portals.jungles = Refugio Tal'Kesi
 portals.boreal = Bosque de Aguja de Dragón
 portals.discoverySubtitle = Fragmento de Orbis
 portals.incomplete.description = <b>Las energías dentro de este Fragmento aún no han tomado su forma final. Todo lo que encuentres dentro - historia, función y forma - espera su verdadera forma.</b>
-portals.hederas_lair.description = Pocos han experimentado los terrores que acechan en las profundidades más oscuras de Orbis. Aún menos han regresado sin cambios.\n\
-\n\
-<msg key = "server.portals.incomplete.description"/>
-portals.boreal.description = Hay bosques congelados en los que ni siquiera un Forastero se atreve a poner un pie, sin importar cuán seductoras sean las susurros.\n\
-\n\
-Legends about the region's name pile up: Mountains obscuring the sky, towering trees grazing the clouds, or perhaps ancient creatures born of elemental ice slumbering among the peaks.\n\
-\n\
-<msg key = "server.portals.incomplete.description"/>
-portals.henges.description = A veces, la línea entre la verdad y la ficción se difumina. No todos los Fragmentos que la Puerta Antigua te muestra contendrán las verdades que buscas.\n\
-\n\
-Yet, surely nothing exists without purpose. Perhaps that leads us to a different question: who built these Ancient Gateways, and why?\n\
-\n\
-<msg key = "server.portals.incomplete.description"/>
-portals.oasis.description = Un Feran valora la libertad por encima de todo, y en ningún lugar se encarna más esa libertad que en los vientos del Valle del Jinete del Viento.\n\
-\n\
-It was here that they sought refuge in the darkest years of their history, setting up camps where the towering canyon walls might hide them from view.\n\
-\n\
-<msg key = "server.portals.incomplete.description"/>
-portals.jungles.description = Profundamente bajo las tierras desoladas dejadas por una civilización antigua, un refugio primordial prospera.\n\
-\n\
-<msg key = "server.portals.incomplete.description"/>
+portals.hederas_lair.description = Pocos han experimentado los terrores que acechan en las profundidades más oscuras de Orbis. Aún menos han regresado sin cambios.\n
+portals.boreal.description = Hay bosques congelados en los que ni siquiera un Forastero se atreve a poner un pie, sin importar cuán seductoras sean las susurros.\n
+portals.henges.description = A veces, la línea entre la verdad y la ficción se difumina. No todos los Fragmentos que la Puerta Antigua te muestra contendrán las verdades que buscas.\n
+portals.oasis.description = Un Feran valora la libertad por encima de todo, y en ningún lugar se encarna más esa libertad que en los vientos del Valle del Jinete del Viento.\n
+portals.jungles.description = Profundamente bajo las tierras desoladas dejadas por una civilización antigua, un refugio primordial prospera.\n
 portals.undefined.obj1 = [TMP] ¿Hacer algo?
 portals.undefined.tip1 = [TMP] ¡Prepárate!
-portals.taiga.tip1 = <color is="#05c09a">Una bestia mítica duerme aquí, atada en un\n\
-eternal slumber.</color>
+portals.taiga.tip1 = <color is="#05c09a">Una bestia mítica duerme aquí, atada en un\n
 portals.hederas_lair.tip1 = <color is="#05c09a">Una amenaza voraz acecha en el corazón del pantano.</color>
 portals.hederas_lair.tip2 = <color is="#05c09a">Las aguas turbias son hogar de fauna peligrosa.</color>
 portals.windsurf_valley.tip1 = <color is="#05c09a">En ocasiones, se puede encontrar una Torre de Mago aquí.</color>
