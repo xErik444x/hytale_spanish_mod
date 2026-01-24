@@ -1,4 +1,4 @@
-This is a server-side translation mod for Hytale.
+This is a server-side translation mod for Hytale.
 It translates all items and some in-game actions into Spanish.
 
 The original English text is preserved and displayed alongside the Spanish translation.
